@@ -150,10 +150,13 @@
 # VDO Presentation : e-Tax Invoice & Receipt by RDX Platform  
   
 1. [**e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1**](https://www.youtube.com/watch?v=UeXSSSINZUc)  
+2. ```
+[![e-Tax Invoice & Receipt by RDX Platform-1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](https://www.youtube.com/watch?v=UeXSSSINZUc "Audi R8")
+```
   
-1. [**e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2**](https://www.youtube.com/watch?v=Nv3iRIGGwYk)  
+3. [**e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2**](https://www.youtube.com/watch?v=Nv3iRIGGwYk)  
   
-1. [**e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3**](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)  
+4. [**e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3**](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)  
   
   
 # Partnership  
@@ -165,5 +168,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTc3ODQwMl19
+eyJoaXN0b3J5IjpbNzg5NDcyNjQxLDE1NTU3Nzg0MDJdfQ==
 -->
