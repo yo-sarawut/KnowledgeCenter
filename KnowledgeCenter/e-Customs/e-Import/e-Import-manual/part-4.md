@@ -1,6 +1,4 @@
-คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)  
-=========================================  
-  
+ 
 # ภาค 4 ของที่ได้รับยกเว้นอากร  
   
 ## รายการสุทธินำกลับ ประเภทที่ 1 ภาค 4   
@@ -285,5 +283,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MDQzNDAsLTEyMzA3MDY5NjFdfQ==
+eyJoaXN0b3J5IjpbMTI5MDMyNTcyMSw0ODcwNDM0MCwtMTIzMD
+cwNjk2MV19
 -->
