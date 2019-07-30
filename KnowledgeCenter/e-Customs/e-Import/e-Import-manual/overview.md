@@ -8,9 +8,11 @@
 
 | เงื่อนไข | วิธีการ |
 |--|--|
-| ผลรวม CIF มูลค่าเงินบาท ทุกรายการ เทียบกับ CIF มูลค่าเงินบาท ในส่วนควบคุม |  |
+| ผลรวม CIF มูลค่าเงินบาท ทุกรายการ เทียบกับ 
+CIF มูลค่าเงินบาท ในส่วนควบคุม | - มี 1 รายการ  
+CIF มูลค่าเงินบาท ส่วนควบคุม |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk4OTgxNTQsLTc1NjUzNjM2MywtMT
+eyJoaXN0b3J5IjpbLTIxMzc4NTYzNDksLTc1NjUzNjM2MywtMT
 M5Nzk0MjA2N119
 -->
