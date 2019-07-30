@@ -156,8 +156,8 @@
 
 **ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้**
 
-–	การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
-–	ระบุ Import Tariff = **11PART4** (ของบริจาค)
+- การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
+- ระบุ Import Tariff = **11PART4** (ของบริจาค)
 –	ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
 –	อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
 –	อากร ยกเว้น (บันทึก Exemption Rate = 100%)
@@ -271,6 +271,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ0NTkzNDksLTExMDg0MjI0NTgsND
-g3MDQzNDAsLTEyMzA3MDY5NjFdfQ==
+eyJoaXN0b3J5IjpbMjEwMjM4NDk0OSwtMTEwODQyMjQ1OCw0OD
+cwNDM0MCwtMTIzMDcwNjk2MV19
 -->
