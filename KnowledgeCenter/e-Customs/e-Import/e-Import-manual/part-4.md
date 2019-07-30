@@ -216,8 +216,8 @@
 - การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
 - ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
 - อัตราอากร ใช้ Tariff Code และ Tariff Sequence
-–	อากร ยกเว้น (บันทึก Exemption Rate = 100%)
-–	VAT ยกเว้น (บันทึก Exemption Rate = 100%)
+- อากร ยกเว้น (บันทึก Exemption Rate = 100%)
+- VAT ยกเว้น (บันทึก Exemption Rate = 100%)
 
 
 
@@ -270,6 +270,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTA0Mzk2NCwtMTEwODQyMjQ1OCw0OD
-cwNDM0MCwtMTIzMDcwNjk2MV19
+eyJoaXN0b3J5IjpbNTE3MTI5OTk0LC0xMTA4NDIyNDU4LDQ4Nz
+A0MzQwLC0xMjMwNzA2OTYxXX0=
 -->
