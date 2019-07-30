@@ -8,8 +8,9 @@
 
 | เงื่อนไข | วิธีการ |
 |--|--|
-|  |  |
+| ผลรวม CIF มูลค่าเงินบาท ทุกรายการ เทียบกับ CIF มูลค่าเงินบาท ในส่วนควบคุม |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
+eyJoaXN0b3J5IjpbLTE5OTk4OTgxNTQsLTc1NjUzNjM2MywtMT
+M5Nzk0MjA2N119
 -->
