@@ -82,15 +82,15 @@
 ของส่วนตัวตามประเภทที่ 5 จะต้อง**นำเข้ามาถึงประเทศไทยไม่เกิน 1 เดือน**ก่อนที่ผู้นำของเข้ามาถึง หรือ**ไม่เกิน 6 เดือนนับแต่วันที่ผู้นำของเข้าเข้ามาถึง**
 
 **ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้**
-```
+
  - การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
  - ระบุ Import Tariff = 5PART4 (ของส่วนตัวที่เจ้าของนำเข้ามาพร้อมกับตน)
  - ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
  - อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
  - อากร ยกเว้น (บันทึก Exemption Rate = 100%)
  - VAT ยกเว้น (บันทึก Exemption Rate = 100%)
-```
----
+
+
 
 
 ## สิทธิของใช้ส่วนตัว (ของใช้ในบ้านเรือนที่ใช้แล้ว) ประเภทที่ 6 ภาค 4 
@@ -285,6 +285,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg4OTYyNTcsLTExMDg0MjI0NTgsND
-g3MDQzNDAsLTEyMzA3MDY5NjFdfQ==
+eyJoaXN0b3J5IjpbMjEzMTIwNDQ1MiwtMTEwODQyMjQ1OCw0OD
+cwNDM0MCwtMTIzMDcwNjk2MV19
 -->
