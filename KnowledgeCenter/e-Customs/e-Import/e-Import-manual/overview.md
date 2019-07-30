@@ -6,14 +6,10 @@
 **แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)**
 ![แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/e-import_system.png)
 
-| เงื่อนไข | วิธีการ |
-|--|--|
-| ผลรวม CIF มูลค่าเงินบาท |
-|ทุกรายการ เทียบกับ 
-CIF มูลค่าเงินบาท ในส่วนควบคุม | - มี 1 รายการ  
-CIF มูลค่าเงินบาท ส่วนควบคุม |
+## การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า 
+![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/30-07-2019%2017-04-55.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkxMTI4NzksLTIxMzc4NTYzNDksLT
-c1NjUzNjM2MywtMTM5Nzk0MjA2N119
+eyJoaXN0b3J5IjpbLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLT
+IxMzc4NTYzNDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
 -->
