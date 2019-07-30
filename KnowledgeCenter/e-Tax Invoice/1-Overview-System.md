@@ -154,7 +154,7 @@
   
 2.[ e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk "e-Tax Invoice & Receipt by RDX Platform-2")
   
-3.[ e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view "e-Tax Invoice & Receipt by RDX Platform-3")
+3.[ e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view "width = '640' ")
   
   
 # Partnership  
@@ -166,5 +166,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUyODk2MjcsMTU1NTc3ODQwMl19
+eyJoaXN0b3J5IjpbMTIxMTY1Mzg3MCwtMjE0NTI4OTYyNywxNT
+U1Nzc4NDAyXX0=
 -->
