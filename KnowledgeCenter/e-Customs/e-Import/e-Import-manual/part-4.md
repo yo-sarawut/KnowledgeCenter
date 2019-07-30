@@ -228,12 +228,12 @@
 
 **ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้**
 
-–	การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
-–	ระบุ Import Tariff = **16PART4** ของที่นำเข้ามาสำหรับคนพิการ
-–	ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
-–	อัตราอากร ใช้ Tariff Code และ Tariff Sequence
-–	อากร ยกเว้น (บันทึก Exemption Rate = 100%)
-–	VAT ยกเว้น (บันทึก Exemption Rate = 100%)
+* การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
+* ระบุ Import Tariff = **16PART4** ของที่นำเข้ามาสำหรับคนพิการ
+* ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
+* อัตราอากร ใช้ Tariff Code และ Tariff Sequence
+* อากร ยกเว้น (บันทึก Exemption Rate = 100%)
+* VAT ยกเว้น (บันทึก Exemption Rate = 100%)
  
 
 ## สิทธิของนำเข้ามาสำหรับการประชุมระหว่างประเทศ 
@@ -271,6 +271,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU4NDU5NTIsLTExMDg0MjI0NTgsND
-g3MDQzNDAsLTEyMzA3MDY5NjFdfQ==
+eyJoaXN0b3J5IjpbMzA0NDc5OTAyLC0xMTA4NDIyNDU4LDQ4Nz
+A0MzQwLC0xMjMwNzA2OTYxXX0=
 -->
