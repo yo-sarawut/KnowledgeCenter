@@ -6,7 +6,10 @@
 **แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)**
 ![แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/e-import_system.png)
 
+| เงื่อนไข | วิธีการ |
+|--|--|
+|  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc5NDIwNjddfQ==
+eyJoaXN0b3J5IjpbLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
 -->
