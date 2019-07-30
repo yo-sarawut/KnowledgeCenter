@@ -121,7 +121,7 @@ RDX Platform
 > Written with [StackEdit](https://stackedit.io/).
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjIwNzg2OF19
+eyJoaXN0b3J5IjpbLTI0MDE1MjUzMF19
 -->
