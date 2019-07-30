@@ -261,8 +261,8 @@
 
 **การจัดทำข้อมูลคำร้องขอรับของไปก่อน โดยขอยกเว้นอากรตาม พระราชบัญญัติปิโตรเลียม พ.ศ.2514**
 
-- บันทึก Document Type = 3 คำร้องขอรับของไปก่อน
-- บันทึก Privilege Code = 005 (สำหรับรายการที่รอการยกเว้นอากร)
+- บันทึก Document Type = ***3** (คำร้องขอรับของไปก่อน)
+- บันทึก Privilege Code = **005** (สำหรับรายการที่รอการยกเว้นอากร)
 - บันทึกอัตราอากรใช้ที่ลดหย่อนเป็นการทั่วไป (Privilege Code = 000 เท่านั้น)
 - อากร ยกเว้น (บันทึก Exemption Rate = 100%)
 - VAT ยกเว้น (บันทึก Exemption Rate = 100%)
@@ -270,6 +270,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3MTI5OTk0LC0xMTA4NDIyNDU4LDQ4Nz
-A0MzQwLC0xMjMwNzA2OTYxXX0=
+eyJoaXN0b3J5IjpbLTYwOTU4MTk4Myw1MTcxMjk5OTQsLTExMD
+g0MjI0NTgsNDg3MDQzNDAsLTEyMzA3MDY5NjFdfQ==
 -->
