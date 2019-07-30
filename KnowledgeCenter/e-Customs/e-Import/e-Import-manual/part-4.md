@@ -170,6 +170,8 @@
 	–	ระบุ Permit No = เลขที่ขอยกเว้นอากร ที่ได้รับ
 
 
+<b>tag</b>.
+
 
 
 
@@ -283,5 +285,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA3MDY5NjFdfQ==
+eyJoaXN0b3J5IjpbNDg3MDQzNDAsLTEyMzA3MDY5NjFdfQ==
 -->
