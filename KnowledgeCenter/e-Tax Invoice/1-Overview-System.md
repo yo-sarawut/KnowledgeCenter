@@ -152,7 +152,7 @@
 1. [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1
 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](https://www.youtube.com/watch?v=UeXSSSINZUc "e-Tax Invoice & Receipt by RDX Platform-1")
   
-3. [**e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2**](https://www.youtube.com/watch?v=Nv3iRIGGwYk)  
+2.[ e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk "e-Tax Invoice & Receipt by RDX Platform-2")
   
 4. [**e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3**](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)  
   
@@ -166,5 +166,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgyNDQxNywxNTU1Nzc4NDAyXX0=
+eyJoaXN0b3J5IjpbMjA4MzcxNTg5OCwxNTU1Nzc4NDAyXX0=
 -->
