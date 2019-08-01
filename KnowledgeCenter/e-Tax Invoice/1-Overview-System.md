@@ -149,8 +149,7 @@
   
 # VDO Presentation : e-Tax Invoice & Receipt by RDX Platform  
   
-  1. [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1<br/>
-![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](https://www.youtube.com/watch?v=UeXSSSINZUc "e-Tax Invoice & Receipt by RDX Platform-1")
+  1. [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1<br/>[![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](http://www.youtube.com/watch?v=UeXSSSINZUc)
 
   1. [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2<br/>
 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk "e-Tax Invoice & Receipt by RDX Platform-2")
@@ -167,7 +166,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc5MjYzNTgsLTE0MDE0ODI1ODMsLT
-kwNDk3OTAxMCwtMTAyNzQ5OTQwMSwtMjE0NTI4OTYyNywxNTU1
-Nzc4NDAyXX0=
+eyJoaXN0b3J5IjpbLTE5ODY3NDA4NjYsLTEyNjc5MjYzNTgsLT
+E0MDE0ODI1ODMsLTkwNDk3OTAxMCwtMTAyNzQ5OTQwMSwtMjE0
+NTI4OTYyNywxNTU1Nzc4NDAyXX0=
 -->
