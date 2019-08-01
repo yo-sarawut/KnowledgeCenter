@@ -166,7 +166,7 @@
 ### เลขที่บัญชีราคาสินค้า (Invoice  Number) 
 ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียวสามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก
 
-### ลำดับรายการในบัญชีราคาสินค้า** (Invoice Item Number) 
+### ลำดับรายการในบัญชีราคาสินค้า  (Invoice Item Number) 
 ให้ระบุค่าตามจริง
 
 - เพื่อเป็นการแจ้งว่ารายการในใบขนสินค้าขาเข้ารายการนี้มาจาก Invoice Number และ Invoice Item Number ใด
@@ -191,12 +191,32 @@
 
 	- มีรหัสสิทธิพิเศษ (Privilege Code) เดียวกัน และมีประเภทของข้อมูล (Nature of Transaction) เดียวกัน เช่น 11 = เป็นการค้า , 21 = เป็นของแถม/ไม่มีมูลค่าทางการค้า , 90 = รับจ้างทำของ  เป็นต้น
 
-(2) ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้แยกรายการของในส่วน Import Declaration Detail แม้ตามบัญชีราคาสินค้าจะมี Invoice Item Number ซ้ำกัน ในกรณีใช้สิทธิทางภาษีอากรต่างกัน ดังนี้
+2. ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้แยกรายการของในส่วน Import Declaration Detail แม้ตามบัญชีราคาสินค้าจะมี Invoice Item Number ซ้ำกัน ในกรณีใช้สิทธิทางภาษีอากรต่างกัน ดังนี้
 
-- เป็นรายการสุทธินำกลับ (Re- Importation Certificate)
+	- เป็นรายการสุทธินำกลับ (Re- Importation Certificate)
+
+	- เป็นรายการใช้สิทธิส่งเสริมการลงทุน (BOI)
+
+	- เป็นรายการใช้สิทธิคลังสินค้าทัณฑ์บน (BOND)
+
+	- เป็นรายการใช้สิทธิขอคืนอากรตามมาตรา 29 (19bis)
+
+	- เป็นรายการใช้สิทธิส่งกลับไปยังต่างประเทศเพื่อขอคืนอากรตามมาตรา 28 (Re-Export)
+
+	- เป็นการใช้สิทธิเขตปลอดอากร (Free Zone : FZ)
+
+	- เป็นการใช้สิทธิเขตประกอบการเสรี (I-EA-T FREEZONE)
+
+	- เป็นรายการขออนุมัติใบขนสินค้าหลายเที่ยวเรือ (Several)
+
+	- การใช้สิทธิประโยชน์ การใช้สิทธิยกเว้นอากร ในกรณีอื่น ๆ (ถ้ามี)
+
+3. หากมีเลขที่ใบขนสินค้าที่อ้างถึง (Reference Declaration Number) และรายการในใบขนสินค้าที่อ้างถึง (Reference Declaration Line Number) ต่างกัน ให้แยกรายการของในส่วน Import Declaration Detail ด้วย
+
+4. กรณีสินค้าที่นำเข้าเป็น รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzI3Mzc2NSwtMTQ5NzQ5MDIwLC0xOT
-k4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2NDcsLTI5MDU1Mjkw
-MiwtMTExMDc2MzA4MywtMTMxOTExMjg3OSwtMjEzNzg1NjM0OS
-wtNzU2NTM2MzYzLC0xMzk3OTQyMDY3XX0=
+eyJoaXN0b3J5IjpbMzk3MDM4NjE2LC0xNDk3NDkwMjAsLTE5OT
+g4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0NywtMjkwNTUyOTAy
+LC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMTM3ODU2MzQ5LC
+03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
 -->
