@@ -3,9 +3,10 @@
 
 การนำของเข้ามาในราชอาณาจักร หมายถึง การนำของใด ๆ จากภายนอกราชอาณาจักรเข้ามาในราชอาณาจักรโดยการขนส่งทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออก ด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน เป็นต้น
 
+
 **แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)**
 ![แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/e-import_system.png)
-
+<br/>
 ## การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/30-07-2019%2017-04-55.jpg)
 
@@ -113,7 +114,7 @@
 	- ของที่บรรจุมาในถุงกระดาษหรือกระสอบ ที่มีลักษณะขนาด น้ำหนัก และจำนวนของที่บรรจุเท่ากัน เช่น ปุ๋ย แอมโมเนีย แป้ง ข้าวสาลี หิน กากเพชร น้ำตาล 
 	- ของที่บรรจุมาในหีบโปร่ง (Crate) เช่น เครื่องยนต์
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAyNzYyOTgsLTU4MDk0MzIxNiwyMj
+eyJoaXN0b3J5IjpbLTE5OTg4MzQyNjksLTU4MDk0MzIxNiwyMj
 M3MDY0NywtMjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEy
 ODc5LC0yMTM3ODU2MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNj
 ddfQ==
