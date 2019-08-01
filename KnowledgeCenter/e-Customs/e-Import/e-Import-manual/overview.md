@@ -113,9 +113,20 @@
 	- ของที่มาเป็นถังเหล็กหรือถังไฟเบอร์ (Drum or Fiber Drum) ที่มีลักษณะขนาด น้ำหนัก และจำนวนของที่บรรจุเท่ากัน เช่น จุกขวด น้ำยาดับกลิ่น น้ำมันเครื่อง สีทา
 	- ของที่บรรจุมาในถุงกระดาษหรือกระสอบ ที่มีลักษณะขนาด น้ำหนัก และจำนวนของที่บรรจุเท่ากัน เช่น ปุ๋ย แอมโมเนีย แป้ง ข้าวสาลี หิน กากเพชร น้ำตาล 
 	- ของที่บรรจุมาในหีบโปร่ง (Crate) เช่น เครื่องยนต์
+
+## จำนวนและน้ำหนักของสินค้า 
+
+- จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม
+-ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น “PK”
+-น้ำหนักสุทธิรวม (Total Net Weight) ต้องมีค่าเท่ากับน้ำหนักสุทธิ (Net Weight) รวมทุกรายการเท่านั้น
+-หน่วยของน้ำหนักสุทธิ (Net Weight Unit Code ตามมาตรฐาน UNECE Recommendation 20 มีค่าได้ดังต่อไปนี้
+KGM – Kilogram  TNE – Metric Ton  GRM – Gram  CTM – Carat 
+-น้ำหนักรวม (Total Gross Weight) ต้องมีค่าเท่ากับหรือมากกว่าน้ำหนักสุทธิรวม (Total Net Weight) เท่านั้น สำหรับทางอากาศใช้น้ำหนักตาม D/O 
+-หน่วยของน้ำหนักรวม (Total Gross Weight Unit Code) ตามมาตรฐาน UNECE Recommendation 20  มีค่าได้ดังต่อไปนี้
+KGM – Kilogram TNE  – Metric Ton  GRM – Gram  CTM – Carat 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg4MzQyNjksLTU4MDk0MzIxNiwyMj
-M3MDY0NywtMjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEy
-ODc5LC0yMTM3ODU2MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNj
-ddfQ==
+eyJoaXN0b3J5IjpbLTM5NTM5MjE0OSwtMTk5ODgzNDI2OSwtNT
+gwOTQzMjE2LDIyMzcwNjQ3LC0yOTA1NTI5MDIsLTExMTA3NjMw
+ODMsLTEzMTkxMTI4NzksLTIxMzc4NTYzNDksLTc1NjUzNjM2My
+wtMTM5Nzk0MjA2N119
 -->
