@@ -4,7 +4,7 @@
 
 การนำของเข้ามาในราชอาณาจักร หมายถึง การนำของใด ๆ จากภายนอกราชอาณาจักรเข้ามาในราชอาณาจักรโดยการขนส่งทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออก ด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน เป็นต้น
 
-ที่มา  : [ประกาศกรมศุลกากรที่ 133/2561 เรื่อง **คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)**](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f49464b49464b4a)
+>**ที่มา**  : [ประกาศกรมศุลกากรที่ 133/2561 เรื่อง **คู่มือการปฏิบัติพิธีการศุลกากร>ทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)**](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f49464b49464b4a)
 
 
 ![แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/e-import_system.png)
@@ -220,8 +220,9 @@
 
 4. กรณีสินค้าที่นำเข้าเป็น รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjY3MTQ0MCwzOTcwMzg2MTYsLTE0OT
-c0OTAyMCwtMTk5ODgzNDI2OSwtNTgwOTQzMjE2LDIyMzcwNjQ3
-LC0yOTA1NTI5MDIsLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLT
-IxMzc4NTYzNDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
+eyJoaXN0b3J5IjpbMjY3NTE5NjQ2LC01NjI2NzE0NDAsMzk3MD
+M4NjE2LC0xNDk3NDkwMjAsLTE5OTg4MzQyNjksLTU4MDk0MzIx
+NiwyMjM3MDY0NywtMjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMz
+E5MTEyODc5LC0yMTM3ODU2MzQ5LC03NTY1MzYzNjMsLTEzOTc5
+NDIwNjddfQ==
 -->
