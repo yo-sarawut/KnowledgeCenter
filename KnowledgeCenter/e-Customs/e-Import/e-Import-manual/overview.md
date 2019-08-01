@@ -31,8 +31,16 @@
 	- ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ผู้ส่งออก/ผู้นำเข้า หรือ
 	- ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของ หรือ
 	- ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของผู้รับจ้างช่วง ของ ตัวแทนออกของ
+
+## วันนำเข้า (Arrival Date)
+ 
+วันนำเข้า (Arrival Date) วันที่นำเข้ามาสำเร็จ ตามมาตรา 50 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560  
+**วันที่นำเข้า ปี ค.ศ. เดือน วัน (CCYYMMDD) ให้กำหนดดังนี้**
+- ใบขนสินค้าขาเข้า ประเภทเอกสาร “0”  
+- คำร้องขอรับของไปก่อน ประเภทเอกสาร “3” 
+- ใบขนสินค้าขาเข้าปากระวาง ประเภทเอกสาร “5” 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNzA2NDcsLTI5MDU1MjkwMiwtMTExMD
-c2MzA4MywtMTMxOTExMjg3OSwtMjEzNzg1NjM0OSwtNzU2NTM2
-MzYzLC0xMzk3OTQyMDY3XX0=
+eyJoaXN0b3J5IjpbMTc2MDQwMjE4LDIyMzcwNjQ3LC0yOTA1NT
+I5MDIsLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLTIxMzc4NTYz
+NDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
 -->
