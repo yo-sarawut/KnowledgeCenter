@@ -59,18 +59,8 @@
 
 เลขที่ใบตราส่ง 1 (Master Bill of Lading) และเลขที่ใบตราส่ง 2  (House Bill of Lading) ในการจัดทำข้อมูลใบขนสินค้าขาเข้า ให้ระบุ ดังนี้
 
-การนำเข้า
-
-Mode of Transport
-
-เลขที่ใบตราส่ง 1
-
-(Master Bill of Lading) ให้ระบุ
-
-เลขที่ใบตราส่ง 2
-
-(House Bill of Lading) ให้ระบุ
-
+|การนำเข้า|Mode of Transport|เลขที่ใบตราส่ง 1 (Master Bill of Lading) |เลขที่ใบตราส่ง 2 (House Bill of Lading) |
+|--|Mode of Transport|เลขที่ใบตราส่ง 1 (Master Bill of Lading) |เลขที่ใบตราส่ง 2 (House Bill of Lading) |
 ทางเรือ
 
 1
@@ -153,7 +143,7 @@ Item No ของ ศ.บ.1 ส่วนรายการ
 
 เลขที่บัญชีสินค้าที่ผู้โดยสารนำพาลงจากอากาศยาน (Passenger Baggage No)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjYwMDE5MywyMjM3MDY0NywtMjkwNT
+eyJoaXN0b3J5IjpbMTgxNzg0MTA4MSwyMjM3MDY0NywtMjkwNT
 UyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMTM3ODU2
 MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
 -->
