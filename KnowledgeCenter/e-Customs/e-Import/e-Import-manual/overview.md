@@ -40,9 +40,11 @@
 - คำร้องขอรับของไปก่อน ประเภทเอกสาร “3” 
 - ใบขนสินค้าขาเข้าปากระวาง ประเภทเอกสาร “5” 
 
-| การนำเข้า |  |
-|--|--|
-|  |  |
+| การนำเข้า | Mode of Transport |วันนำเข้า คือ |
+|--|--|--|
+| ทางเรือ | 1 | วันที่เรือที่นำของเข้ามานั้นได้เข้ามาในเขตท่าที่จะขน
+
+ถ่ายของขึ้นจากเรือหรือท่าที่มีชื่อส่งของถึง |
 
 
 <![endif]-->
@@ -122,7 +124,7 @@ Mode of Transport
 
 เป็นด่านศุลกากร
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjU3Njc3OSwyMjM3MDY0NywtMjkwNT
+eyJoaXN0b3J5IjpbMTc1ODc5NTQ4OSwyMjM3MDY0NywtMjkwNT
 UyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMTM3ODU2
 MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
 -->
