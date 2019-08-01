@@ -1,6 +1,6 @@
 การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)
 =============================
-
+ตาม
 การนำของเข้ามาในราชอาณาจักร หมายถึง การนำของใด ๆ จากภายนอกราชอาณาจักรเข้ามาในราชอาณาจักรโดยการขนส่งทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออก ด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน เป็นต้น
 
 
@@ -215,8 +215,8 @@
 
 4. กรณีสินค้าที่นำเข้าเป็น รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MDM4NjE2LC0xNDk3NDkwMjAsLTE5OT
-g4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0NywtMjkwNTUyOTAy
-LC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMTM3ODU2MzQ5LC
-03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
+eyJoaXN0b3J5IjpbNTM5ODgxMDYsMzk3MDM4NjE2LC0xNDk3ND
+kwMjAsLTE5OTg4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0Nywt
+MjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMT
+M3ODU2MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
 -->
