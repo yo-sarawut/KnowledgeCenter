@@ -1,6 +1,6 @@
 การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)
 =============================
-ตาม
+- [ประกาศกรมศุลกากรที่ 133/2561 เรื่อง **_คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)_**](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f49464b49464b4a)
 การนำของเข้ามาในราชอาณาจักร หมายถึง การนำของใด ๆ จากภายนอกราชอาณาจักรเข้ามาในราชอาณาจักรโดยการขนส่งทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออก ด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน เป็นต้น
 
 
@@ -215,8 +215,8 @@
 
 4. กรณีสินค้าที่นำเข้าเป็น รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5ODgxMDYsMzk3MDM4NjE2LC0xNDk3ND
-kwMjAsLTE5OTg4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0Nywt
-MjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMT
-M3ODU2MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
+eyJoaXN0b3J5IjpbMTI3ODQ1NjEzMiwzOTcwMzg2MTYsLTE0OT
+c0OTAyMCwtMTk5ODgzNDI2OSwtNTgwOTQzMjE2LDIyMzcwNjQ3
+LC0yOTA1NTI5MDIsLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLT
+IxMzc4NTYzNDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
 -->
