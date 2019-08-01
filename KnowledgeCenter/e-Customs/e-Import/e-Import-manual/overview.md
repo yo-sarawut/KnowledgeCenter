@@ -1,12 +1,15 @@
 การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)
 =============================
-- [ประกาศกรมศุลกากรที่ 133/2561 เรื่อง **_คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)_**](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f49464b49464b4a)
+
+
 การนำของเข้ามาในราชอาณาจักร หมายถึง การนำของใด ๆ จากภายนอกราชอาณาจักรเข้ามาในราชอาณาจักรโดยการขนส่งทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออก ด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน เป็นต้น
 
 
 **แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)**
 ![แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/e-import_system.png)
 <br/>
+อ้างอิงตาม : [ประกาศกรมศุลกากรที่ 133/2561 เรื่อง **คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)**](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f49464b49464b4a)
+
 ## การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า 
 ![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/30-07-2019%2017-04-55.jpg)
 
@@ -215,8 +218,9 @@
 
 4. กรณีสินค้าที่นำเข้าเป็น รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODQ1NjEzMiwzOTcwMzg2MTYsLTE0OT
-c0OTAyMCwtMTk5ODgzNDI2OSwtNTgwOTQzMjE2LDIyMzcwNjQ3
-LC0yOTA1NTI5MDIsLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLT
-IxMzc4NTYzNDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
+eyJoaXN0b3J5IjpbLTExMzk4NDU3NDAsMzk3MDM4NjE2LC0xND
+k3NDkwMjAsLTE5OTg4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0
+NywtMjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC
+0yMTM3ODU2MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
+
 -->
