@@ -128,7 +128,7 @@
 **_KGM_** – Kilogram , **_TNE_** – Metric Ton , **_GRM_** – Gram , **_CTM_** – Carat 
 - น้ำหนักรวม (Total Gross Weight) ต้องมีค่าเท่ากับหรือมากกว่าน้ำหนักสุทธิรวม (Total Net Weight) เท่านั้น สำหรับทางอากาศใช้น้ำหนักตาม D/O 
 - หน่วยของน้ำหนักรวม (Total Gross Weight Unit Code) ตามมาตรฐาน UNECE Recommendation 20  มีค่าได้ดังต่อไปนี้
-**_KGM_** – Kilogram , **_TNE_** – Metric Ton , **_GRM_** – Gram  ,**_CTM_** – Carat 
+**_KGM_** – Kilogram,  **_TNE_** – Metric Ton ,  **_GRM_** – Gram , **_CTM_** – Carat 
 
 ## มีปัญหาในเรื่องต่างๆ ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า 
 
@@ -220,7 +220,7 @@
 
 4. กรณีสินค้าที่นำเข้าเป็น รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTM3MjcwMCwzOTcwMzg2MTYsLTE0OT
+eyJoaXN0b3J5IjpbLTU2MjY3MTQ0MCwzOTcwMzg2MTYsLTE0OT
 c0OTAyMCwtMTk5ODgzNDI2OSwtNTgwOTQzMjE2LDIyMzcwNjQ3
 LC0yOTA1NTI5MDIsLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLT
 IxMzc4NTYzNDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
