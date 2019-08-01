@@ -27,11 +27,11 @@
 
 ให้ผู้ขอยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้
 
-–	ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
-–	การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
-–	ระบุ Import Tariff = **2PART4**
-–	ระบุ Privilege Code =  000  (ใช้อัตราอากรที่ลดหย่อนเป็นการทั่วไปเท่านั้น)
-–	อัตราอากร ใช้ Tariff Code และ Tariff Sequence
+- ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า
+- การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า
+- ระบุ Import Tariff = **2PART4**
+- ระบุ Privilege Code =  000  (ใช้อัตราอากรที่ลดหย่อนเป็นการทั่วไปเท่านั้น)
+อัตราอากร ใช้ Tariff Code และ Tariff Sequence
 –	อากร ชำระตามปกติ
 –	VAT ชำระตามปกติ
 –	มูลค่าการนำเข้า  CIF = **ค่าซ่อม**
@@ -45,11 +45,11 @@
 ให้ผู้ขอยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้
 
 1. ให้ระบุค่าดังนี้
-–	ระบุ Import Tariff = **3PART4**
-–	ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
-–	อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
-–	อากร ยกเว้น (บันทึก Exemption Rate = 100%)
-–	VAT ยกเว้น (บันทึก Exemption Rate = 100%)
+- ระบุ Import Tariff = **3PART4**
+- ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
+- อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
+- อากร ยกเว้น (บันทึก Exemption Rate = 100%)
+- VAT ยกเว้น (บันทึก Exemption Rate = 100%)
 
 2. การกำหนดค่าวางเงินประกัน **(วางประกันที่ด่านศุลกากร ไม่ต้องบันทึกในโปรแกรม)**
 
@@ -96,12 +96,12 @@
 
 **ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้**
 
-–	การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
-–	ระบุ Import Tariff = **6PART4** 
-–	ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
-–	อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
-–	อากร ยกเว้น (บันทึก Exemption Rate = 100%)
-–	VAT ยกเว้น (บันทึก Exemption Rate = 100%)
+- การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
+- ระบุ Import Tariff = **6PART4** 
+- ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
+- อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
+- อากร ยกเว้น (บันทึก Exemption Rate = 100%)
+- VAT ยกเว้น (บันทึก Exemption Rate = 100%)
 
 
 
@@ -113,10 +113,10 @@
 
 - การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า 
 - ระบุ Import Tariff = **7PART4** (ของซ่อมสร้างอากาศยานหรือเรือ)
-–	ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
-–	อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
-–	อากร ยกเว้น (บันทึก Exemption Rate = 100%)
-–	VAT ยกเว้น (บันทึก Exemption Rate = 100%)
+- ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า 
+- อัตราอากร ใช้ Tariff Code และ Tariff Sequence 
+- อากร ยกเว้น (บันทึก Exemption Rate = 100%)
+- VAT ยกเว้น (บันทึก Exemption Rate = 100%)
 
 
 ## สิทธิของนำเข้าที่ได้รับเอกสิทธิ์ ประเภทที่ 10 ภาค 4 
@@ -270,7 +270,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjg3MTk3MSwtNzEzMTM2MTc1LDUxNz
+eyJoaXN0b3J5IjpbMTYxMTU2Njc4MCwtNzEzMTM2MTc1LDUxNz
 EyOTk5NCwtMTEwODQyMjQ1OCw0ODcwNDM0MCwtMTIzMDcwNjk2
 MV19
 -->
