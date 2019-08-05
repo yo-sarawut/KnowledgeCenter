@@ -166,12 +166,13 @@
 
 # แหล่งศึกษาข้อมูลเพิ่มเติม  
 
-- [e-Tax Invoice & Receipt | Official Website](https://etax.rd.go.th/etax_staticpage/app/#/index/main)
+- [e-Tax Invoice & Receipt | Official Website](https://etax.rd.go.th)
 - [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
+- [กรมสรรพากร](http://www.rd.go.th/)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjM5MDMxLC04NTc5OTMwOCwxOTU4Nj
+eyJoaXN0b3J5IjpbMTI0NjQ2MDM4LC04NTc5OTMwOCwxOTU4Nj
 Q2MzY3LC0xOTg2NzQwODY2LC0xMjY3OTI2MzU4LC0xNDAxNDgy
 NTgzLC05MDQ5NzkwMTAsLTEwMjc0OTk0MDEsLTIxNDUyODk2Mj
 csMTU1NTc3ODQwMl19
