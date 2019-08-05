@@ -166,11 +166,12 @@
 
 # แหล่งศึกษาข้อมูลเพิ่มเติม  
 
-
+- [Off
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODY0NjM2NywtMTk4Njc0MDg2NiwtMT
-I2NzkyNjM1OCwtMTQwMTQ4MjU4MywtOTA0OTc5MDEwLC0xMDI3
-NDk5NDAxLC0yMTQ1Mjg5NjI3LDE1NTU3Nzg0MDJdfQ==
+eyJoaXN0b3J5IjpbNzUzMDg0NTY4LDE5NTg2NDYzNjcsLTE5OD
+Y3NDA4NjYsLTEyNjc5MjYzNTgsLTE0MDE0ODI1ODMsLTkwNDk3
+OTAxMCwtMTAyNzQ5OTQwMSwtMjE0NTI4OTYyNywxNTU1Nzc4ND
+AyXX0=
 -->
