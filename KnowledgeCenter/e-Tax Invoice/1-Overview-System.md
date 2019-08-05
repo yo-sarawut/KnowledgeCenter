@@ -167,12 +167,12 @@
 # แหล่งศึกษาข้อมูลเพิ่มเติม  
 
 - [e-Tax Invoice & Receipt | Official Website](https://etax.rd.go.th/etax_staticpage/app/#/index/main)
-- [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](
+- [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDM4NjgxOSwtODU3OTkzMDgsMTk1OD
-Y0NjM2NywtMTk4Njc0MDg2NiwtMTI2NzkyNjM1OCwtMTQwMTQ4
-MjU4MywtOTA0OTc5MDEwLC0xMDI3NDk5NDAxLC0yMTQ1Mjg5Nj
-I3LDE1NTU3Nzg0MDJdfQ==
+eyJoaXN0b3J5IjpbMTQ0MjM5MDMxLC04NTc5OTMwOCwxOTU4Nj
+Q2MzY3LC0xOTg2NzQwODY2LC0xMjY3OTI2MzU4LC0xNDAxNDgy
+NTgzLC05MDQ5NzkwMTAsLTEwMjc0OTk0MDEsLTIxNDUyODk2Mj
+csMTU1NTc3ODQwMl19
 -->
