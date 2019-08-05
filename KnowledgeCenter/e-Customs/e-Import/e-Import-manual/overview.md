@@ -214,10 +214,14 @@
 	- หากมีเลขที่ใบขนสินค้าที่อ้างถึง (Reference Declaration Number) และรายการในใบขนสินค้าที่อ้างถึง (Reference Declaration Line Number) ต่างกัน ให้แยกรายการของในส่วน Import Declaration Detail ด้วย
 
 	- กรณีสินค้าที่นำเข้าเป็น รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ
+
+`ทด
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ1MDc5MTUsMjY3NTE5NjQ2LC01Nj
-I2NzE0NDAsMzk3MDM4NjE2LC0xNDk3NDkwMjAsLTE5OTg4MzQy
-NjksLTU4MDk0MzIxNiwyMjM3MDY0NywtMjkwNTUyOTAyLC0xMT
-EwNzYzMDgzLC0xMzE5MTEyODc5LC0yMTM3ODU2MzQ5LC03NTY1
-MzYzNjMsLTEzOTc5NDIwNjddfQ==
+eyJoaXN0b3J5IjpbNDkxMTI1NTM4LC0xNzE0NTA3OTE1LDI2Nz
+UxOTY0NiwtNTYyNjcxNDQwLDM5NzAzODYxNiwtMTQ5NzQ5MDIw
+LC0xOTk4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2NDcsLTI5MD
+U1MjkwMiwtMTExMDc2MzA4MywtMTMxOTExMjg3OSwtMjEzNzg1
+NjM0OSwtNzU2NTM2MzYzLC0xMzk3OTQyMDY3XX0=
 -->
