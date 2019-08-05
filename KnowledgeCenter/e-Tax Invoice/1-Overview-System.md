@@ -164,11 +164,13 @@
   
 ![Partnership](https://github.com/yosarawut/WorkingArea/raw/master/e-tax-invoice/img/partner.jpg)
 
-# Partnership  
+# แหล่งศึกษาข้อมูลเพิ่มเติม  
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM1NzM1NjEsLTE5ODY3NDA4NjYsLT
-EyNjc5MjYzNTgsLTE0MDE0ODI1ODMsLTkwNDk3OTAxMCwtMTAy
-NzQ5OTQwMSwtMjE0NTI4OTYyNywxNTU1Nzc4NDAyXX0=
+eyJoaXN0b3J5IjpbMTk1ODY0NjM2NywtMTk4Njc0MDg2NiwtMT
+I2NzkyNjM1OCwtMTQwMTQ4MjU4MywtOTA0OTc5MDEwLC0xMDI3
+NDk5NDAxLC0yMTQ1Mjg5NjI3LDE1NTU3Nzg0MDJdfQ==
 -->
