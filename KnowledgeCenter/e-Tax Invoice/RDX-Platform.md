@@ -45,7 +45,7 @@ RDX Platform เป็นระบบที่ให้บริการเก�
   
 ## ขั้นตอนการทำงาน (File System)  
   
-1. Shared Folder ‘D:\ECS-SYS\AutoSend’ ที่เครื่อง RDX Gateway Client ภายใน Folder นั้นจะมี Folder ย่อยคือ Inbox, Outbox  
+1. Shared Folder D:\ECS-SYS\AutoSend ที่เครื่อง RDX Gateway Client ภายใน Folder นั้นจะมี Folder ย่อยคือ Inbox, Outbox  
 2. Map Network Drive ให้ไปชี้ที่ Shared Folder ในข้อ 1 ของเครื่องของ RDX Gateway Client  
 3. สร้างข้อมูลเอกสารตาม Flat File Layout ที่ RDX Platform กำหนด  
 4. Copy File ไปยัง Folder ‘Outbox’ ที่ Map ไว้ กรณีที่มี PDF File ให้ Copy PDF File ส่งมาให้ด้วย โดยตั้งชื่อไฟล์ PDF เป็น TAXNO_DOCTYPE_DOCNO.PDF เช่น 1052903456_ETAXINVOICE_0199123.PDF เป็นต้น (ห้ามมีเครื่องหมายสัญลักษณ์ใดๆ ในชื่อไฟล์)  
@@ -125,5 +125,6 @@ RDX Platform เป็นระบบที่ให้บริการเก�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjExMDI3MiwtMjQwMTUyNTMwXX0=
+eyJoaXN0b3J5IjpbMTk1MTE5MzQ0NSwxOTM2MTEwMjcyLC0yND
+AxNTI1MzBdfQ==
 -->
