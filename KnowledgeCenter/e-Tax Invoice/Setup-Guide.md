@@ -79,12 +79,16 @@ ra@thaidigitalid.com
 (ขออภัยหากท่านได้รับจดหมายฉบับนี้ ขณะที่ได้ดำเนินการตามขั้นตอนทั้งหมดไปเรียบร้อยแล้ว)
 ```
 
-- ดาวน์โหลดไฟล์โปรแกรม TDID KeySuite ที่ goo.gl/W3crxp เมื่อเรียบร้อยแล้วให้ unzip ไฟล์แล้วเปิดโปรแกรมด้วยการดับเบิ้ลคลิกที่ TDID KeySuite.exe  ตามใน Email หรือเอาจาก C:/ECS_RD/Utility/
+1. ดาวน์โหลดไฟล์โปรแกรม TDID KeySuite ที่ goo.gl/W3crxp เมื่อเรียบร้อยแล้วให้ unzip ไฟล์แล้วเปิดโปรแกรมด้วยการดับเบิ้ลคลิกที่ TDID KeySuite.exe  ตามใน Email หรือเอาจาก C:/ECS_RD/Utility/
+2. ระบุหมายเลขใบคำขอที่ได้จาก Email ระบุลงไปตามรูป แล้วกดปุ่ม Login
+3. สร้างคู่กุญแจในอุปกรณ์และไฟล์ CSR กดปุ่มเมนู 1 เพื่อสร้างคู่กุญแจ (Public & Private Key) พร้อมกับไฟล์ CSR (Certificate Signing Request) และบันทึก (Save) ไฟล์ CSR(ไฟล์นามสกุล .csr) ลงบนเครื่องคอมพิวเตอร์เก็บไว้ เพื่อใช้ในขั้นตอนที่ 2 ต่อไป
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjE1MjQxMywtMjA3NzI3NDM3MywxMz
-E5MzgxMzA4LC0xNjg0MzI1MTAwXX0=
+eyJoaXN0b3J5IjpbLTE3MTgxNzM4NjcsLTIwNzcyNzQzNzMsMT
+MxOTM4MTMwOCwtMTY4NDMyNTEwMF19
 -->
