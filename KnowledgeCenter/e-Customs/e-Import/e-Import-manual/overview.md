@@ -233,14 +233,16 @@
 
 ## หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า
 
+![enter image description here](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/deposit.jpg)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAwMjcyOTAsNDc3ODQ4MjYzLC0xMT
-gxNTA1ODMxLDE5MDIwOTc2MTQsLTgwMjc0NzEwOSwtNzY0Njg2
-OTEsMTczMDg5MjYwMSwtMTcxNDUwNzkxNSwyNjc1MTk2NDYsLT
-U2MjY3MTQ0MCwzOTcwMzg2MTYsLTE0OTc0OTAyMCwtMTk5ODgz
-NDI2OSwtNTgwOTQzMjE2LDIyMzcwNjQ3LC0yOTA1NTI5MDIsLT
-ExMTA3NjMwODMsLTEzMTkxMTI4NzksLTIxMzc4NTYzNDksLTc1
-NjUzNjM2M119
+eyJoaXN0b3J5IjpbMjIzMzcyMzQ5LC0xNTcwMDI3MjkwLDQ3Nz
+g0ODI2MywtMTE4MTUwNTgzMSwxOTAyMDk3NjE0LC04MDI3NDcx
+MDksLTc2NDY4NjkxLDE3MzA4OTI2MDEsLTE3MTQ1MDc5MTUsMj
+Y3NTE5NjQ2LC01NjI2NzE0NDAsMzk3MDM4NjE2LC0xNDk3NDkw
+MjAsLTE5OTg4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0NywtMj
+kwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMTM3
+ODU2MzQ5XX0=
 -->
