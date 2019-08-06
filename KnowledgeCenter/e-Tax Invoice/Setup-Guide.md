@@ -9,10 +9,10 @@
  
  4. Config groupdb.ini
  
- > image
+ >  ![image](imagejpg)
 
 >C:\ECS_RD\DATA\groupdb.ini แก้ไขข้อมูลชื่อบริษัท , Member Code และ ConnectionString ตามรูป
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyNzA2NTY0LDEzMTkzODEzMDgsLTE2OD
-QzMjUxMDBdfQ==
+eyJoaXN0b3J5IjpbMTM4MjQ3NzU0NCwxMzE5MzgxMzA4LC0xNj
+g0MzI1MTAwXX0=
 -->
