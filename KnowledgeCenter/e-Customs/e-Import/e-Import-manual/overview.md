@@ -81,7 +81,7 @@
 ---
 ### การตรวจสอบระหว่างใบขนสินค้ากับ Manifest
  |ใบขนสินค้า & Manifest|เรือ|รถไฟ|บก|อากาศ|ไปรษณีย์|ผู้โดยสารนำพา|
-|--|--|--|--|--|--|--|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|
 |Vessel Name|	Y|	Y|	-|	Y|	-|	-|
 |Discharge Port|Y|	Y|	Y|	Y|	Y|	Y|	Y|
 |Arrival Date|	Y|	Y|	Y|	Y|	Y|	Y|	Y|
@@ -235,10 +235,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MzI4MDI1LDE5MDIwOTc2MTQsLTgwMj
-c0NzEwOSwtNzY0Njg2OTEsMTczMDg5MjYwMSwtMTcxNDUwNzkx
-NSwyNjc1MTk2NDYsLTU2MjY3MTQ0MCwzOTcwMzg2MTYsLTE0OT
-c0OTAyMCwtMTk5ODgzNDI2OSwtNTgwOTQzMjE2LDIyMzcwNjQ3
-LC0yOTA1NTI5MDIsLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLT
-IxMzc4NTYzNDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
+eyJoaXN0b3J5IjpbLTExODE1MDU4MzEsMTkwMjA5NzYxNCwtOD
+AyNzQ3MTA5LC03NjQ2ODY5MSwxNzMwODkyNjAxLC0xNzE0NTA3
+OTE1LDI2NzUxOTY0NiwtNTYyNjcxNDQwLDM5NzAzODYxNiwtMT
+Q5NzQ5MDIwLC0xOTk4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2
+NDcsLTI5MDU1MjkwMiwtMTExMDc2MzA4MywtMTMxOTExMjg3OS
+wtMjEzNzg1NjM0OSwtNzU2NTM2MzYzLC0xMzk3OTQyMDY3XX0=
+
 -->
