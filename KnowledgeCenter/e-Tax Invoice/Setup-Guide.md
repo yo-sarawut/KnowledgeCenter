@@ -33,7 +33,7 @@
 	- ขั้นตอนการนำ Cert ใส่ Token ผู้ที่ซื้อ Cert Token จาก TDID จะได้ Email มีข้อความดังด้านล่าง จากหน่วยงานรับลงทะเบียน TDID
 
 
-```pytho
+```javascript
 เรียน ท่านผู้ขอใบรับรองอิเล็กทรอนิกส์
 
 ตามที่ท่านได้ยื่นใบคำขอใบรับรองอิเล็กทรอนิกส์ (หมายเลขตามที่ปรากฏในตารางด้านล่าง) มายังบริษัท ไทยดิจิทัล ไอดี จำกัด (TDID) เพื่อออกใบรับรองอิเล็กทรอนิกส์ให้แก่ท่านนั้น
@@ -73,6 +73,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDI0NTg4LDEzMTkzODEzMDgsLTE2OD
-QzMjUxMDBdfQ==
+eyJoaXN0b3J5IjpbLTIyMzc5MzA5NywxMzE5MzgxMzA4LC0xNj
+g0MzI1MTAwXX0=
 -->
