@@ -16,22 +16,19 @@
 ## ติดตั้ง  Certificate
 1. ติดตั้ง Cert ประเภท TOKEN จาก TDID
 	- ติดตั้ง Driver Safenet ติดตั้ง Driver Safenet ที่ C:\ECS_RD\Utility\SafeNetAuthenticationClient-x64-8.0-SP2.msi หรือดาวน์โหลดได้ที่  http://www.thaidigitalid.com/hardware/
+	- 	ขั้นตอนการตั้งค่าเริ่มต้น (Initialization) ให้กับ Token
 
- >  ![image](image)
-
- >  ![image](image)
+		1. เสียบ Token   กับคอมพิวเตอร์ และเปิดโปรแกรม SafeNet Authentication Client Tools
 
 
- >  ![image](image)
 
- >  ![image](image)
 
- >  ![image](image)
-	- ขั้นตอนการตั้งค่าเริ่มต้น (Initialization) ให้กับ Token
-	
-	
-	1) เสียบ Token   กับคอมพิวเตอร์ และเปิดโปรแกรม SafeNet Authentication Client Tools
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzY1ODM4MSwxMzE5MzgxMzA4LC0xNj
-g0MzI1MTAwXX0=
+eyJoaXN0b3J5IjpbLTg1MDcxNTMwLDEzMTkzODEzMDgsLTE2OD
+QzMjUxMDBdfQ==
 -->
