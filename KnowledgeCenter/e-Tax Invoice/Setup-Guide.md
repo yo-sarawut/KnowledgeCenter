@@ -27,9 +27,11 @@
  >  ![image](image)
 
  >  ![image](image)
-
-
+	- ขั้นตอนการตั้งค่าเริ่มต้น (Initialization) ให้กับ Token
+	
+	
+	1) เสียบ Token   กับคอมพิวเตอร์ และเปิดโปรแกรม SafeNet Authentication Client Tools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMDQ2MDg3LDEzMTkzODEzMDgsLTE2OD
-QzMjUxMDBdfQ==
+eyJoaXN0b3J5IjpbLTgzNzY1ODM4MSwxMzE5MzgxMzA4LC0xNj
+g0MzI1MTAwXX0=
 -->
