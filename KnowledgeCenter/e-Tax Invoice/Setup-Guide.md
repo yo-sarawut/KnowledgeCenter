@@ -71,6 +71,7 @@
 สามารถใช้งานได้ในระหว่างวันที่ 2017/07/31 - 2017/09/29 เท่านั้น
 
 จึงเรียนมาเพื่อโปรดดำเนินการ
+
 หน่วยงานรับลงทะเบียน
 THAI DIGITAL ID COMPANY LIMITED
 142 ชั้น4 อาคารธนาคารกสิกรไทย ถนนสีลม เขตบางรัก กรุงเทพ 10500
@@ -78,12 +79,12 @@ ra@thaidigitalid.com
 (ขออภัยหากท่านได้รับจดหมายฉบับนี้ ขณะที่ได้ดำเนินการตามขั้นตอนทั้งหมดไปเรียบร้อยแล้ว)
 ```
 
-
+- ดาวน์โหลดไฟล์โปรแกรม TDID KeySuite ที่ goo.gl/W3crxp เมื่อเรียบร้อยแล้วให้ unzip ไฟล์แล้วเปิดโปรแกรมด้วยการดับเบิ้ลคลิกที่ TDID KeySuite.exe  ตามใน Email หรือเอาจาก C:/ECS_RD/Utility/
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTA5OTIwMSwtMjA3NzI3NDM3MywxMz
+eyJoaXN0b3J5IjpbMTgzMjE1MjQxMywtMjA3NzI3NDM3MywxMz
 E5MzgxMzA4LC0xNjg0MzI1MTAwXX0=
 -->
