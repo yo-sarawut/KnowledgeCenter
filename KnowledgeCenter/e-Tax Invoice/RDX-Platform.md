@@ -4,6 +4,8 @@ RDX Platform
 # What is the RDX Platform?  
 ![what-RDX-Platform.jpg](https://github.com/yosarawut/WorkingArea/raw/master/e-tax-invoice/img/what-RDX-Platform.jpg)  
   
+RDX Platform เป็นระบบที่ให้บริการเกี่ยวกับการเชื่อมต่อข้อมูล e-Tax Invoice & Receipt ของกรมสรรพากร โดยจะทำหน้าที่เป็นตัวกลางในการสื่อสารระหว่าง โปรแกรมระบบบัญชี กับ กรมสรรพากร ให้สามารถทำรายการส่งข้อมูล e-Tax Invoice & Receipt ตามข้อกำหนดของกรมสรรพากร อีกทั้งยังสามารถแลกเปลี่ยนข้อมูลทางอิเล็กทรอนิกส์ ระหว่างบริษัทคู่ค้าได้อีกด้วย ทำให้ไม่ต้องมีการ Re-Entries ข้อมูลโดยไม่จำเป็น 
+
 # RDX Work Flow  
 ![RDX-work-flow.jpg](https://github.com/yosarawut/WorkingArea/raw/master/e-tax-invoice/img/RDX-work-flow.jpg)  
   
@@ -123,5 +125,5 @@ RDX Platform
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDE1MjUzMF19
+eyJoaXN0b3J5IjpbMTkzNjExMDI3MiwtMjQwMTUyNTMwXX0=
 -->
