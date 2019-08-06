@@ -41,12 +41,12 @@
 
 **เอกสารเพิ่มเติม**
 
-- [** Incoterms Explained | Definitions and Practical Examples**]
+- [**Incoterms Explained | Definitions and Practical Examples**](https://fbabee.com/incoterms/)
 - [EXIM Bank](http://www.exim.go.th/doc/newsCenter/40379.pdf)
 - [INCOTERMS : ข้อกำหนดในการส่งมอบสินค้าระหว่างประเทศแบบเข้าใจง่าย ๆ](http://www.march.co.th/ultimate-guide-to-incoterms/)
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjY5MTAzOSwxNzgyNDkwNDE5LC02ND
-MyODAzODZdfQ==
+eyJoaXN0b3J5IjpbNjE2ODcwMzU5LDE3ODI0OTA0MTksLTY0Mz
+I4MDM4Nl19
 -->
