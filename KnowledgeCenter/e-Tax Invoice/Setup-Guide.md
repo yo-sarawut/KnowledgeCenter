@@ -86,13 +86,15 @@ ra@thaidigitalid.com
 5. **ติดตั้งใบรับรองฯในอุปกรณ์** กดปุ่มเมนู 3 เพื่อป้อนไฟล์ใบรับรองฯ(ไฟล์นามสกุล .crt) ที่ได้จากขั้นตอนที่ 2 เข้าโปรแกรม TDID KeySuite สำหรับนำใบรับรองฯติดตั้งลงในอุปกรณ์ 
 
 
+### ติดตั้ง Cert ประเภท ไฟล์ P12
 
+เลือก Tab Config Setting > Tab Admin > Cer File Name > Cert Password > Save
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTgzMzk5NCwtMjA3NzI3NDM3MywxMz
-E5MzgxMzA4LC0xNjg0MzI1MTAwXX0=
+eyJoaXN0b3J5IjpbLTE5OTk5MDYxNDgsLTIwNzcyNzQzNzMsMT
+MxOTM4MTMwOCwtMTY4NDMyNTEwMF19
 -->
