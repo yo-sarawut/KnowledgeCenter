@@ -9,10 +9,14 @@
  
  4. Config groupdb.ini
  
- >  ![image](imagejpg)
+ >  ![image](image)
 
 >C:\ECS_RD\DATA\groupdb.ini แก้ไขข้อมูลชื่อบริษัท , Member Code และ ConnectionString ตามรูป
+
+## ติดตั้ง  Certificate
+1. ติดตั้ง Cert ประเภท TOKEN จาก TDID
+	- ติดตั้ง Driver Safenet ติดตั้ง Driver Safenet ที่ C:\ECS_RD\Utility\SafeNetAuthenticationClient-x64-8.0-SP2.msi หรือดาวน์โหลดได้ที่  http://www.thaidigitalid.com/hardware/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjQ3NzU0NCwxMzE5MzgxMzA4LC0xNj
-g0MzI1MTAwXX0=
+eyJoaXN0b3J5IjpbNTMxODc5MzYzLDEzMTkzODEzMDgsLTE2OD
+QzMjUxMDBdfQ==
 -->
