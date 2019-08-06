@@ -83,8 +83,17 @@
  |ใบขนสินค้า & Manifest|เรือ|รถไฟ|บก|อากาศ|ไปรษณีย์|ผู้โดยสารนำพา|
 |--|--|--|--|--|--|--|
 |Vessel Name|	Y|	Y|	-|	Y|	-|	-|
-|  |  |
-
+|Discharge Port|Y|	Y|	Y|	Y|	Y|	Y|	Y|
+|Arrival Date|	Y|	Y|	Y|	Y|	Y|	Y|	Y|
+|Master Bill of Lading|	-|	-|	Y|	Y|	-|	-|
+|House Bill of Lading|	Y|	Y|	Y|	Y|	Y|	Y|
+|Company English Name|	Y|	Y|	Y|	Y|	Y|	Y|
+|Total Package Amount(จำนวนหีบห่อรวม)|	=|	=|	>, =|	=|	=|	=|
+|Total Package Unit(ลักษณะหีบห่อรวม)|	=|	=|	=|	=|	=|	=|
+|Gross Weight(น้ำหนักรวม)|	=|	=|	>, =|	=|	=|	=|
+|Gross Weight Unit(หน่วยของน้ำหนักรวม)|	=|	=|	=|	=|	=|	=|
+|Release Port|	Y|	Y|	Y|	Y|	Y|	Y|
+---
 
 
 ## การกำหนดสถานที่
@@ -226,10 +235,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjA5NzYxNCwtODAyNzQ3MTA5LC03Nj
-Q2ODY5MSwxNzMwODkyNjAxLC0xNzE0NTA3OTE1LDI2NzUxOTY0
-NiwtNTYyNjcxNDQwLDM5NzAzODYxNiwtMTQ5NzQ5MDIwLC0xOT
-k4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2NDcsLTI5MDU1Mjkw
-MiwtMTExMDc2MzA4MywtMTMxOTExMjg3OSwtMjEzNzg1NjM0OS
-wtNzU2NTM2MzYzLC0xMzk3OTQyMDY3XX0=
+eyJoaXN0b3J5IjpbMzQ0MzI4MDI1LDE5MDIwOTc2MTQsLTgwMj
+c0NzEwOSwtNzY0Njg2OTEsMTczMDg5MjYwMSwtMTcxNDUwNzkx
+NSwyNjc1MTk2NDYsLTU2MjY3MTQ0MCwzOTcwMzg2MTYsLTE0OT
+c0OTAyMCwtMTk5ODgzNDI2OSwtNTgwOTQzMjE2LDIyMzcwNjQ3
+LC0yOTA1NTI5MDIsLTExMTA3NjMwODMsLTEzMTkxMTI4NzksLT
+IxMzc4NTYzNDksLTc1NjUzNjM2MywtMTM5Nzk0MjA2N119
 -->
