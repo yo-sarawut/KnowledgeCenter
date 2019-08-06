@@ -92,15 +92,17 @@ ra@thaidigitalid.com
 
 ## ติดตั้ง RDX Gateway WebService
 
-### ติดตั้ง IIS
+1.  ติดตั้ง IIS
 
-### Config  IIS เพิ่ม feature WCF Services (กรณีเครื่องที่ยังไม่มี)
+2.  Config  IIS เพิ่ม feature WCF Services (กรณีเครื่องที่ยังไม่มี)
 
 >เข้าเมนู Control Panel > Programs > Turn Windows features on or off
 
 
-
+3. Copy Floder AUTOSENDWCF ไว้ Drive C:\Inetpub\wwwroot
+4. Config  Web.config
+แก้ไข CnnString ใน Web.config file
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg4MjI1ODQsLTIwNzcyNzQzNzMsMT
+eyJoaXN0b3J5IjpbLTExOTQ5MzEwOTAsLTIwNzcyNzQzNzMsMT
 MxOTM4MTMwOCwtMTY4NDMyNTEwMF19
 -->
