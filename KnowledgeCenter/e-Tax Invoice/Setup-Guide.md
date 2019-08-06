@@ -11,7 +11,8 @@
  
  > image
 
+>C:\ECS_RD\DATA\groupdb.ini แก้ไขข้อมูลชื่อบริษัท , Member Code และ ConnectionString ตามรูป
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MzY2MDk1LDEzMTkzODEzMDgsLTE2OD
+eyJoaXN0b3J5IjpbOTUyNzA2NTY0LDEzMTkzODEzMDgsLTE2OD
 QzMjUxMDBdfQ==
 -->
