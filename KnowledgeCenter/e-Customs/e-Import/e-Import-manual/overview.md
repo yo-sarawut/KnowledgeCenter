@@ -78,8 +78,10 @@
 |เรือเล็กทางทะเล สำหรับด่านศุลกากรทางทะเล|8|Received Control No ของ ศ.บ.1|Item No ของ ศ.บ.1 ส่วนรายการ|
 |ทางผู้โดยสารนำพาจากอากาศยาน|9|ไม่ต้องระบุ|เลขที่บัญชีสินค้าที่ผู้โดยสารนำพาลงจากอากาศยาน (Passenger Baggage No)|
 
+---
+### การตรวจสอบระหว่างใบขนสินค้ากับ Manifest
  |ใบขนสินค้า & Manifest|เรือ|รถไฟ|บก|อากาศ|ไปรษณีย์|ผู้โดยสารนำพา|
-|--|--|
+|--|--|--|--|--|--|--|
 |  |  |
 
 
@@ -223,10 +225,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NjI5MjA4LC04MDI3NDcxMDksLTc2ND
-Y4NjkxLDE3MzA4OTI2MDEsLTE3MTQ1MDc5MTUsMjY3NTE5NjQ2
-LC01NjI2NzE0NDAsMzk3MDM4NjE2LC0xNDk3NDkwMjAsLTE5OT
-g4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0NywtMjkwNTUyOTAy
-LC0xMTEwNzYzMDgzLC0xMzE5MTEyODc5LC0yMTM3ODU2MzQ5LC
-03NTY1MzYzNjMsLTEzOTc5NDIwNjddfQ==
+eyJoaXN0b3J5IjpbMTAyNDU3NDk4NSwtODAyNzQ3MTA5LC03Nj
+Q2ODY5MSwxNzMwODkyNjAxLC0xNzE0NTA3OTE1LDI2NzUxOTY0
+NiwtNTYyNjcxNDQwLDM5NzAzODYxNiwtMTQ5NzQ5MDIwLC0xOT
+k4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2NDcsLTI5MDU1Mjkw
+MiwtMTExMDc2MzA4MywtMTMxOTExMjg3OSwtMjEzNzg1NjM0OS
+wtNzU2NTM2MzYzLC0xMzk3OTQyMDY3XX0=
 -->
