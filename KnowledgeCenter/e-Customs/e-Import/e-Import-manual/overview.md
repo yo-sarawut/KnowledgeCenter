@@ -80,6 +80,7 @@
 
 
 
+
 ## การกำหนดสถานที่
 
 รหัสสถานที่นำเข้า (Discharge Port ) ให้บันทึกข้อมูลรหัสสถานที่ของศุลกากร ณ ด่านศุลกากร ที่นำของเข้า หรือโรงพักสินค้าหรือที่มั่นคงซึ่งเป็นที่ตรวจและเก็บสินค้าดังกล่าว
@@ -219,10 +220,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDY4NjkxLDE3MzA4OTI2MDEsLTE3MT
-Q1MDc5MTUsMjY3NTE5NjQ2LC01NjI2NzE0NDAsMzk3MDM4NjE2
-LC0xNDk3NDkwMjAsLTE5OTg4MzQyNjksLTU4MDk0MzIxNiwyMj
-M3MDY0NywtMjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5MTEy
-ODc5LC0yMTM3ODU2MzQ5LC03NTY1MzYzNjMsLTEzOTc5NDIwNj
-ddfQ==
+eyJoaXN0b3J5IjpbLTgwMjc0NzEwOSwtNzY0Njg2OTEsMTczMD
+g5MjYwMSwtMTcxNDUwNzkxNSwyNjc1MTk2NDYsLTU2MjY3MTQ0
+MCwzOTcwMzg2MTYsLTE0OTc0OTAyMCwtMTk5ODgzNDI2OSwtNT
+gwOTQzMjE2LDIyMzcwNjQ3LC0yOTA1NTI5MDIsLTExMTA3NjMw
+ODMsLTEzMTkxMTI4NzksLTIxMzc4NTYzNDksLTc1NjUzNjM2My
+wtMTM5Nzk0MjA2N119
 -->
