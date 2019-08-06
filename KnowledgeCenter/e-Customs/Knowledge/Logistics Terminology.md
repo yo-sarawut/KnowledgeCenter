@@ -232,10 +232,10 @@ REQUESTED ROUTING – เส้นทางเดินอากาศที่�
 
 SHIPPER – ผู้ส่งสินค้า
 
-[Source : www.march.co.th]()
+[Source : www.march.co.th](http://www.march.co.th/freight-shipping-logistics-terminology/)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI2MDk4NjNdfQ==
+eyJoaXN0b3J5IjpbLTg2MTkyNzI3M119
 -->
