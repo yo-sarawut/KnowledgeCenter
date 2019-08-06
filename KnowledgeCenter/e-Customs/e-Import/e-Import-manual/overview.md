@@ -82,6 +82,7 @@
 ### การตรวจสอบระหว่างใบขนสินค้ากับ Manifest
  |ใบขนสินค้า & Manifest|เรือ|รถไฟ|บก|อากาศ|ไปรษณีย์|ผู้โดยสารนำพา|
 |--|--|--|--|--|--|--|
+|Vessel Name|	Y|	Y|	-|	Y|	-|	-|
 |  |  |
 
 
@@ -225,7 +226,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDU3NDk4NSwtODAyNzQ3MTA5LC03Nj
+eyJoaXN0b3J5IjpbMTkwMjA5NzYxNCwtODAyNzQ3MTA5LC03Nj
 Q2ODY5MSwxNzMwODkyNjAxLC0xNzE0NTA3OTE1LDI2NzUxOTY0
 NiwtNTYyNjcxNDQwLDM5NzAzODYxNiwtMTQ5NzQ5MDIwLC0xOT
 k4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2NDcsLTI5MDU1Mjkw
