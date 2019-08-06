@@ -94,11 +94,13 @@ ra@thaidigitalid.com
 
 ### ติดตั้ง IIS
 
+### Config  IIS เพิ่ม feature WCF Services (กรณีเครื่องที่ยังไม่มี)
 
+>เข้าเมนู Control Panel > Programs > Turn Windows features on or off
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgwOTY3NzEsLTIwNzcyNzQzNzMsMT
+eyJoaXN0b3J5IjpbLTEwNDg4MjI1ODQsLTIwNzcyNzQzNzMsMT
 MxOTM4MTMwOCwtMTY4NDMyNTEwMF19
 -->
