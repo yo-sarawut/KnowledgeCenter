@@ -100,9 +100,11 @@ ra@thaidigitalid.com
 
 
 3. Copy Floder AUTOSENDWCF ไว้ Drive C:\Inetpub\wwwroot
-4. Config  Web.config
-แก้ไข CnnString ใน Web.config file
+4. Config  Web.config แก้ไข CnnString ใน Web.config file
+5. Config  WebService AUTOSENDWCF ใน IIS เข้าเมนู Control Panel > System and Security > Administrative Tools > Internet Information Service (IIS) Manager ได้ดังภาพ (Copy ShortCut IIS ไว้ที่หน้าจอ Desktop ด้วย)
+6. Install SSL ลง IIS (https)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ5MzEwOTAsLTIwNzcyNzQzNzMsMT
+eyJoaXN0b3J5IjpbLTEyMTU3NjU1NTEsLTIwNzcyNzQzNzMsMT
 MxOTM4MTMwOCwtMTY4NDMyNTEwMF19
 -->
