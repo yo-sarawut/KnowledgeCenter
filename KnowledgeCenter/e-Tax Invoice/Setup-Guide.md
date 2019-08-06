@@ -88,13 +88,17 @@ ra@thaidigitalid.com
 
 ### ติดตั้ง Cert ประเภท ไฟล์ P12
 
-เลือก Tab Config Setting > Tab Admin > Cer File Name > Cert Password > Save
+>เลือก Tab Config Setting > Tab Admin > Cer File Name > Cert Password > Save
+
+## ติดตั้ง RDX Gateway WebService
+
+### ติดตั้ง IIS
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk5MDYxNDgsLTIwNzcyNzQzNzMsMT
+eyJoaXN0b3J5IjpbLTExMTgwOTY3NzEsLTIwNzcyNzQzNzMsMT
 MxOTM4MTMwOCwtMTY4NDMyNTEwMF19
 -->
