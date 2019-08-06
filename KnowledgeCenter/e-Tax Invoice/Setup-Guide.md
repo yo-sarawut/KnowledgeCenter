@@ -44,7 +44,8 @@
 
 1. สร้างคู่กุญแจในอุปกรณ์และไฟล์ CSR
 
-กดปุ่มเมนู 1 เพื่อสร้างคู่กุญแจ (Public & Private Key) พร้อมกับไฟล์ CSR (Certificate Signing Request) และบันทึก (Save) ไฟล์ CSR(ไฟล์นามสกุล .csr) ลงบนเครื่องคอมพิวเตอร์เก็บไว้ เพื่อใช้ในขั้นตอนที่ 2 ต่อไป
+กดปุ่มเมนู 1 เพื่อสร้างคู่กุญแจ (Public & Private Key) พร้อมกับไฟล์ CSR (Certificate Signing Request) และบันทึก (Save).
+ไฟล์ CSR(ไฟล์นามสกุล .csr) ลงบนเครื่องคอมพิวเตอร์เก็บไว้ เพื่อใช้ในขั้นตอนที่ 2 ต่อไป
 
 2. รับไฟล์ใบรับรองอิเล็กทรอนิกส์
 
@@ -75,6 +76,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQxMTA2MjksMTMxOTM4MTMwOCwtMT
+eyJoaXN0b3J5IjpbLTIwNzcyNzQzNzMsMTMxOTM4MTMwOCwtMT
 Y4NDMyNTEwMF19
 -->
