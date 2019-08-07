@@ -12,7 +12,8 @@ Incoterms 2010 แบ่งตามรูปแบบการขนส่ง�
 ![Incoterms based on the mode of transport](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incorterms-brack-down-Modes-of-transport-1024x421.jpg)
 
 ทั้งนี้เพื่อที่จะเข้าใจ Incoterms ได้ง่ายขึ้น จะแสดงเป็นแผนภาพตลอด Supply Chain ของกระบวนการส่งออกสินค้า ดังนี้
-![Incoterms based on the mode of transport](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incortmes-breakdown-main-carriage-payment-1024x385)
+
+![### Incoterms based on the point of delivery](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incortmes-breakdown-main-carriage-payment-1024x385.jpg)
 
 ## คำอธิบายตามคู่มือกรมศุลกากร
 
@@ -64,6 +65,6 @@ Incoterms 2010 แบ่งตามรูปแบบการขนส่ง�
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjkzMzMwNSwyMDAxMzc2MzQxLC0xNj
+eyJoaXN0b3J5IjpbLTc4MzgzOTgxOSwyMDAxMzc2MzQxLC0xNj
 k4NTc3NjY4LC0xMTI1ODA5NjU1XX0=
 -->
