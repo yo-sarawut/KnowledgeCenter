@@ -122,15 +122,17 @@ RDX Platform เป็นระบบที่ให้บริการเก�
 
 # แหล่งศึกษาข้อมูลเพิ่มเติม  
 
-- [e-Tax Invoice & Receipt | Official Website](https://etax.rd.go.th)
-- [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
-- [กรมสรรพากร](http://www.rd.go.th/)
+ข้อมูลทางโปรแกรมเมอร์จะนำมาวางไว้ที่ Folder  **S:\Doc_กรมสรรพากร\Document First Customer RD\**
+
+- คู่มือการติดตั้งโปรแกรม RDX Gateway Client.pdf
+- คู่มือการใช้งานโปรแกรม RDX Gateway Client.pdf
+- Application Programming Interface Document v.1.00.pdf
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDE1MzcyLC0zODE5MDIxMTYsMTkzNj
+eyJoaXN0b3J5IjpbMTg3MTU3OTkyLC0zODE5MDIxMTYsMTkzNj
 ExMDI3MiwtMjQwMTUyNTMwXX0=
 -->
