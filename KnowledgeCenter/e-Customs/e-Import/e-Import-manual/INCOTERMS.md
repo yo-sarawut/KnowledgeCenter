@@ -6,7 +6,7 @@
 
 Incoterms 2010 แบ่งตามรูปแบบการขนส่งสินค้าเป็น 2 กลุ่มหลักคือ **กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ**  (**Multimodal transport**) มี 7 เงื่อนไข และ**กลุ่มการขนส่งทางทะเลหรือทางน้ำ** (**Sea and waterways transport**) มี 4 เงื่อนไข รวม 11 เงื่อนไข 
 
-![INCOTERMS 2010](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incorterms-brack-down-Modes-of-transport-1024x421.jpg)
+![Incoterms based on the mode of transport](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incorterms-brack-down-Modes-of-transport-1024x421.jpg)
 
 ทั้งนี้เพื่อที่จะเข้าใจ Incoterms ได้ง่ายขึ้น จะแสดงเป็นแผนภาพตลอด Supply Chain ของกระบวนการส่งออกสินค้า ดังนี้
 
@@ -61,5 +61,6 @@ Incoterms 2010 แบ่งตามรูปแบบการขนส่ง�
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3ODc5MTI5LC0xMTI1ODA5NjU1XX0=
+eyJoaXN0b3J5IjpbLTE2OTg1Nzc2NjgsLTExMjU4MDk2NTVdfQ
+==
 -->
