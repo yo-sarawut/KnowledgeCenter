@@ -5,11 +5,13 @@
 ![INCOTERMS 2010](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incoterms-2010-infographic-1024x814.jpg)
 
 Incoterms 2010 แบ่งตามรูปแบบการขนส่งสินค้าเป็น 2 กลุ่มหลักคือ 
+
+![Incoterms based on the mode of transport](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incorterms-brack-down-Modes-of-transport-1024x421.jpg)
 1. กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ**  (**Multimodal transport**) มี 7 เงื่อนไข คือ **EXW, FCA, CPT, CIP, DAT, DAP และ  DDP**
 	
 2. **กลุ่มการขนส่งทางทะเลหรือทางน้ำ** (**Sea and waterways transport**) มี 4 เงื่อนไขคือ **FAS, FOB, CFR และ CIF** 
 
-![Incoterms based on the mode of transport](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incorterms-brack-down-Modes-of-transport-1024x421.jpg)
+
 
 ทั้งนี้เพื่อที่จะเข้าใจ Incoterms ได้ง่ายขึ้น จะแสดงเป็นแผนภาพแบ่งตามจุดส่งมอบสินค้า และเพิ่มความเข้าใจ Supply Chain ของกระบวนการส่งออกสินค้า
 
@@ -70,6 +72,7 @@ Incoterms 2010 แบ่งตามรูปแบบการขนส่ง�
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjMyNTg3OCwxOTQ5NjAxNjE2LDIwMD
-EzNzYzNDEsLTE2OTg1Nzc2NjgsLTExMjU4MDk2NTVdfQ==
+eyJoaXN0b3J5IjpbMTgzODU0NDkwLDE3NTYzMjU4NzgsMTk0OT
+YwMTYxNiwyMDAxMzc2MzQxLC0xNjk4NTc3NjY4LC0xMTI1ODA5
+NjU1XX0=
 -->
