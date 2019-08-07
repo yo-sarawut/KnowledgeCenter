@@ -33,7 +33,9 @@
 ผู้ประกอบการที่มีซอฟต์แวร์ระบบบัญชีในการใช้งานและสามารถพัฒนาระบบงานของตนเองหรือจัดหาซอฟต์แร์การจัดทำ ใบกำกับภาษี ใบเพิ่มหนี้ และใบลดหนี้รวมถึงใบรับให้เป็นข้อมูลอิเล็กทรอนิกส์ที่มีการลงลายมือชื่อดิจิทัล (Digital Signature) ให้อยู่ในรูปแบบข้อมูลอิเล็กทรอนิกส์ เช่น PDF, PDF/A-3, XML File ที่มีการลงลายมือชื่อดิจิทัล (Digital Signature) หรืออื่นๆ ส่งมอบให้แก่ ผู้ซื้อสินค้าหรือผู้รับบริการตาม พ.ร.บ ว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544 และต้องนำส่งข้อมูลรูปแบบ XML File ที่มีการลงลายมือชื่อดิจิทัล ผ่านระบบอิเล็กทรอนิกส์ของกรมสรรพากร ภายในวันที่ 15 ของเดือนถาษีถัดไป ตามระเบียบกรมสรรพากร ว่าด้วยการจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ พ.ศ. 2560  
   
 - กรมสรรพากรเผยแพร่ **เอกสารอธิบายภาพรวมการจัดทำและนำส่งข้อมูลใบกำกับภาษีอิเล็กทรอนิกส์** สามารถเข้าไปดูรายละเอียดเพิ่มเติม [**ดาวน์โหลดเอกสาร**](https://github.com/yosarawut/WorkingArea/raw/master/e-tax-invoice/data/OVERVIEW_ETAX0662.pdf)  
-  
+# การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email
+
+![การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax%20Invoice/img/FlowETAXpng_Page1.png)
   
 # การเตรียมความพร้อม  
   
@@ -146,9 +148,8 @@
   
 3. ลงลายมือชื่อดิจิทัลเพื่อจัดทำใบกำกับภาษีอิเล็กทรอนิกส์ หรือใบรับอิเล็กทรอนิกส์  
   
-  # การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email
 
-![การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax%20Invoice/img/FlowETAXpng_Page1.png)
+
   
   
 # VDO Presentation : e-Tax Invoice & Receipt by RDX Platform  
@@ -176,6 +177,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NjE5MjY4LC0xNDY3OTA1MDEwLDIwNT
+eyJoaXN0b3J5IjpbNTAwMjM0MzQwLC0xNDY3OTA1MDEwLDIwNT
 YyNDk5NDNdfQ==
 -->
