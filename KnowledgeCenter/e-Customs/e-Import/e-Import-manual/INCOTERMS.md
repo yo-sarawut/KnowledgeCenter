@@ -10,7 +10,7 @@
 
 ![Incoterms based on the mode of transport](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incorterms-brack-down-Modes-of-transport-1024x421.jpg)
 
-1. กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ ** (**Multimodal transport**) มี 7 เงื่อนไข คือ **EXW, FCA, CPT, CIP, DAT, DAP และ  DDP**
+1. **กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ**  (**Multimodal transport**) มี 7 เงื่อนไข คือ **EXW, FCA, CPT, CIP, DAT, DAP และ  DDP**
 	
 2. **กลุ่มการขนส่งทางทะเลหรือทางน้ำ** (**Sea and waterways transport**) มี 4 เงื่อนไขคือ **FAS, FOB, CFR และ CIF** 
 
@@ -78,7 +78,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDQ4NTA1NSwtMTA1NTc0MTg0OCw5Mz
+eyJoaXN0b3J5IjpbMTkxOTc4MTY5NSwtMTA1NTc0MTg0OCw5Mz
 I1NjAwNDEsMTgzODU0NDkwLDE3NTYzMjU4NzgsMTk0OTYwMTYx
 NiwyMDAxMzc2MzQxLC0xNjk4NTc3NjY4LC0xMTI1ODA5NjU1XX
 0=
