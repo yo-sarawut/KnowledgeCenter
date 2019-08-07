@@ -120,11 +120,17 @@ RDX Platform เป็นระบบที่ให้บริการเก�
 - Call GetPDFX(Log.TaxNumber, Log.BranchCode, Log.RefNo) เพื่ออ่านข้อมูล PDF ที่ Seller ส่งมา ให้ทำการแปลง Bese64 เป็น Binary เพื่อสร้าง PDF File  
 4. ทำการ Call CommitLog() เพื่อปรับสถานะ Log.StatusRead จาก 1 เป็น 2
 
+# แหล่งศึกษาข้อมูลเพิ่มเติม  
+
+- [e-Tax Invoice & Receipt | Official Website](https://etax.rd.go.th)
+- [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
+- [กรมสรรพากร](http://www.rd.go.th/)
+
 > Written with [StackEdit](https://stackedit.io/).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTkwMjExNiwxOTM2MTEwMjcyLC0yND
-AxNTI1MzBdfQ==
+eyJoaXN0b3J5IjpbMjA3MDE1MzcyLC0zODE5MDIxMTYsMTkzNj
+ExMDI3MiwtMjQwMTUyNTMwXX0=
 -->
