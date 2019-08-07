@@ -146,9 +146,9 @@
   
 3. ลงลายมือชื่อดิจิทัลเพื่อจัดทำใบกำกับภาษีอิเล็กทรอนิกส์ หรือใบรับอิเล็กทรอนิกส์  
   
-  # แผนภาพการเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email
+  # การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email
 
-
+![การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax%20Invoice/img/FlowETAXpng_Page1.png)
   
   
 # VDO Presentation : e-Tax Invoice & Receipt by RDX Platform  
@@ -176,5 +176,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc5MDUwMTAsMjA1NjI0OTk0M119
+eyJoaXN0b3J5IjpbMzQ3NjE5MjY4LC0xNDY3OTA1MDEwLDIwNT
+YyNDk5NDNdfQ==
 -->
