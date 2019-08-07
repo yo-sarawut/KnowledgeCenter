@@ -4,7 +4,10 @@
 
 ![INCOTERMS 2010](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incoterms-2010-infographic-1024x814.jpg)
 
-Incoterms 2010 แบ่งตามรูปแบบการขนส่งสินค้าเป็น 2 กลุ่มหลักคือ **กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ**  (**Multimodal transport**) มี 7 เงื่อนไข และ**กลุ่มการขนส่งทางทะเลหรือทางน้ำ** (**Sea and waterways transport**) มี 4 เงื่อนไข รวม 11 เงื่อนไข 
+Incoterms 2010 แบ่งตามรูปแบบการขนส่งสินค้าเป็น 2 กลุ่มหลักคือ 
+1. กลุ่มการขนส่งรูปแบบใดรูปแบบหนึ่งหรือหลายรูปแบบ**  (**Multimodal transport**) มี 7 เงื่อนไข คือ EXW, FCA, CPT, CIP, DAT, DAP และ  DDP
+	
+3. **กลุ่มการขนส่งทางทะเลหรือทางน้ำ** (**Sea and waterways transport**) มี 4 เงื่อนไข รวม 11 เงื่อนไข 
 
 ![Incoterms based on the mode of transport](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incorterms-brack-down-Modes-of-transport-1024x421.jpg)
 
@@ -61,6 +64,6 @@ Incoterms 2010 แบ่งตามรูปแบบการขนส่ง�
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg1Nzc2NjgsLTExMjU4MDk2NTVdfQ
-==
+eyJoaXN0b3J5IjpbMjAwMTM3NjM0MSwtMTY5ODU3NzY2OCwtMT
+EyNTgwOTY1NV19
 -->
