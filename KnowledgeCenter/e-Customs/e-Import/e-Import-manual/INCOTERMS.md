@@ -25,14 +25,14 @@
 - [EXW (Ex Works)]()
 - [FCA (Free Carrier)]()
 - [FAS (Free Alongside Ship)]()
-- [FOB (Free on Board)]
-- CFR (Cost and Freight)
-- CIF (Cost Insurance and Freight)
-- CPT (Carriage Paid to)
-- CIP (Carriage Insurance Paid to)
-- DAT (Delivered at Terminal)
-- DAP (Delivered at Place)
-- DDP (Delivered Duty Paid)
+- [FOB (Free on Board)]()
+- [CFR (Cost and Freight)]()
+- [CIF (Cost Insurance and Freight)]()
+- [CPT (Carriage Paid to)]()
+- [CIP (Carriage Insurance Paid to)]()
+- [DAT (Delivered at Terminal)]()
+- [DAP (Delivered at Place)]()
+- [DDP (Delivered Duty Paid]()
 
 ### Group E (การออกจากสถานที่)
 
@@ -88,8 +88,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDgxNTk5OSwxOTE5NzgxNjk1LC0xMD
-U1NzQxODQ4LDkzMjU2MDA0MSwxODM4NTQ0OTAsMTc1NjMyNTg3
-OCwxOTQ5NjAxNjE2LDIwMDEzNzYzNDEsLTE2OTg1Nzc2NjgsLT
-ExMjU4MDk2NTVdfQ==
+eyJoaXN0b3J5IjpbMjczMzY3NzkyLDE5MTk3ODE2OTUsLTEwNT
+U3NDE4NDgsOTMyNTYwMDQxLDE4Mzg1NDQ5MCwxNzU2MzI1ODc4
+LDE5NDk2MDE2MTYsMjAwMTM3NjM0MSwtMTY5ODU3NzY2OCwtMT
+EyNTgwOTY1NV19
 -->
