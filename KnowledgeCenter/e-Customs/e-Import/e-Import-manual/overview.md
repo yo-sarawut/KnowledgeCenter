@@ -175,10 +175,10 @@
 ### หลักการคำนวณราคาของจากเงินตราต่างประเทศเป็นเงินตราไทย
 1. การคำนวณราคาของให้เป็นเงินตราไทย ให้ปฏิบัติดังนี้
 	- คำนวณตามอัตราแลกเปลี่ยนเงินตราต่างประเทศที่กรมศุลกากรประกาศกำหนด  สำหรับการนำเข้าและการส่งออก 
-	- ของที่**นำเข้า** ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน **_วันนำเข้า_**
-	-  ของ**ส่งออก**ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน **_วันที่ออกใบขนสินค้าให้_**
+	- ของที่**นำเข้า** ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน **วันนำเข้า**
+	-  ของ**ส่งออก**ให้ใช้อัตราแลกเปลี่ยนที่ใช้อยู่ใน **วันที่ออกใบขนสินค้าให้**
 2. การประกาศกำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศ สำนักมาตรฐานพิธีการและราคาศุลกากร จะดำเนินการ ดังนี้
-	- พิจารณากำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศเป็นเงินตราไทย จากข้อมูลของธนาคารแห่งประเทศไทยในรอบ 7 วัน ก่อนวันประกาศ  โดยใช้อัตราซื้อสำหรับการส่งออก และอัตราขายสำหรับการนำเข้า
+	- พิจารณากำหนดอัตราแลกเปลี่ยนเงินตราต่างประเทศเป็นเงินตราไทย จากข้อมูลของธนาคารแห่งประเทศไทยในรอบ **7 วัน ก่อนวันประกาศ**  โดยใช้**อัตราซื้อสำหรับการส่งออก** และ**อัตราขายสำหรับการนำเข้า**
 	- ดำเนินการให้มีการประกาศใช้อัตราแลกเปลี่ยนเงินตราต่างประเทศก่อนสิ้นเดือนไม่น้อยกว่า 7 วัน และมีผลใช้ในเดือนถัดไป หากวันประกาศตรงกับวันหยุดราชการ ให้ประกาศในวันทำการถัดไป
 
 
@@ -245,11 +245,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2OTY3ODUsMzc2ODcyNDMwLC0xNT
-cwMDI3MjkwLDQ3Nzg0ODI2MywtMTE4MTUwNTgzMSwxOTAyMDk3
-NjE0LC04MDI3NDcxMDksLTc2NDY4NjkxLDE3MzA4OTI2MDEsLT
-E3MTQ1MDc5MTUsMjY3NTE5NjQ2LC01NjI2NzE0NDAsMzk3MDM4
-NjE2LC0xNDk3NDkwMjAsLTE5OTg4MzQyNjksLTU4MDk0MzIxNi
-wyMjM3MDY0NywtMjkwNTUyOTAyLC0xMTEwNzYzMDgzLC0xMzE5
-MTEyODc5XX0=
+eyJoaXN0b3J5IjpbMTExMDM5MzUxMSwtMTc1NzY5Njc4NSwzNz
+Y4NzI0MzAsLTE1NzAwMjcyOTAsNDc3ODQ4MjYzLC0xMTgxNTA1
+ODMxLDE5MDIwOTc2MTQsLTgwMjc0NzEwOSwtNzY0Njg2OTEsMT
+czMDg5MjYwMSwtMTcxNDUwNzkxNSwyNjc1MTk2NDYsLTU2MjY3
+MTQ0MCwzOTcwMzg2MTYsLTE0OTc0OTAyMCwtMTk5ODgzNDI2OS
+wtNTgwOTQzMjE2LDIyMzcwNjQ3LC0yOTA1NTI5MDIsLTExMTA3
+NjMwODNdfQ==
 -->
