@@ -20,9 +20,19 @@
 
 ![Incoterms based on the point of delivery](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incortmes-breakdown-main-carriage-payment-1024x385.jpg)
 
-## คำอธิบายตามคู่มือกรมศุลกากร
-
 ข้อตกลงการส่งมอบของในทางการค้าระหว่างประเทศ (International Commercial Terms : Incoterms) ข้อตกลงการส่งมอบของในทางการค้าระหว่างประเทศ  เป็นข้อตกลงที่กำหนดโดยหอการค้าระหว่างประเทศ เพื่อใช้แปลความข้อตกลงการค้าต่างประเทศ ให้เกิดความเข้าใจในหน้าที่และความรับผิดชอบระหว่างผู้ซื้อและผู้ขาย ประกอบด้วยข้อตกลง 4 กลุ่ม จำนวน 11 ข้อตกลง ดังต่อไปนี้
+
+- [EXW (Ex Works)]()
+- [FCA (Free Carrier)]()
+- [FAS (Free Alongside Ship)]()
+- [FOB (Free on Board)]
+- CFR (Cost and Freight)
+- CIF (Cost Insurance and Freight)
+- CPT (Carriage Paid to)
+- CIP (Carriage Insurance Paid to)
+- DAT (Delivered at Terminal)
+- DAP (Delivered at Place)
+- DDP (Delivered Duty Paid)
 
 ### Group E (การออกจากสถานที่)
 
@@ -78,8 +88,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTc4MTY5NSwtMTA1NTc0MTg0OCw5Mz
-I1NjAwNDEsMTgzODU0NDkwLDE3NTYzMjU4NzgsMTk0OTYwMTYx
-NiwyMDAxMzc2MzQxLC0xNjk4NTc3NjY4LC0xMTI1ODA5NjU1XX
-0=
+eyJoaXN0b3J5IjpbMTcwNDgxNTk5OSwxOTE5NzgxNjk1LC0xMD
+U1NzQxODQ4LDkzMjU2MDA0MSwxODM4NTQ0OTAsMTc1NjMyNTg3
+OCwxOTQ5NjAxNjE2LDIwMDEzNzYzNDEsLTE2OTg1Nzc2NjgsLT
+ExMjU4MDk2NTVdfQ==
 -->
