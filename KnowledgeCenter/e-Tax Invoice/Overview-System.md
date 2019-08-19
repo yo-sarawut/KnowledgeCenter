@@ -15,7 +15,7 @@
 ## วัตถุประสงค์  
 1. ส่งเสริมและสนับสนุนนโยบาย Thailand 4.0 และ National e-Payment  
 2. รองรับการทำธุรกรรมอิเล็กทรอนิกส์อย่างครบวงจร  
-3. ลดต้นทุนค่าใช้จ่ายและการบริหารจัดการของภาครัฐและภาคเอกชน  
+3. ลดต้นทุนค่าใช้จ่ายและการบริหารจัดการของภาครัฐและภาคเอกชน 
 4. ลดการใช้เอกสารในรูปแบบระดาษ ช่วยลดภาวะโลกร้อน  
 5. เพิ่มความมั่นใจ ปลอดภัยตามมาตรฐานสากล  
   
@@ -177,6 +177,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMjM0MzQwLC0xNDY3OTA1MDEwLDIwNT
-YyNDk5NDNdfQ==
+eyJoaXN0b3J5IjpbMTczMjM1NDIxMCw1MDAyMzQzNDAsLTE0Nj
+c5MDUwMTAsMjA1NjI0OTk0M119
 -->
