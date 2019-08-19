@@ -1,7 +1,7 @@
 
 # INCOTERMS
 
-**Incoterms (International Commercial Terms)** เป็นข้อกำหนดการส่งมอบสินค้า (Term of Shipment) ระหว่างผู้ซื้อกับผู้ขายที่เป็นสากล ซึ่งกำหนดขึ้นโดยสภาหอการค้านานาชาติ (International Chamber of Commerce) ได้มีการประชุมบรรดาสมาชิกสภาหอการค้าระหว่างประเทศ [**ทุก 10 ปี**](#) เพื่อวางหลักเกณฑ์ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ เริ่มใช้ในปี ค.ศ. 1963 ฉบับปัจจุบันปรับปรุงแก้ไขเมื่อ ค.ศ. 2010 ประกาศใช้เมื่อ 1 มกราคม ค.ศ. 2011 เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าระหว่างประเทศและในประเทศในปัจจุบัน โดยกําหนดให้ขอบเขตของ Incoterms @ 2010 จํากัดอยู่เฉพาะเรื่องที่เกี่ยวข้องกับสิทธิและหน้าที่ของคู่สัญญาซื้อขาย ในเรื่องการสส่งมอบสินค้าที่ขาย ว่าโดยนัยของสินค้า [**ที่จับต้องได้**]() (Tangible Goods) เท่านั้น ไม่รวมถึง **ที่จับต้องไม่ได้**
+**Incoterms (International Commercial Terms)** เป็นข้อกำหนดการส่งมอบสินค้า (Term of Shipment) ระหว่างผู้ซื้อกับผู้ขายที่เป็นสากล ซึ่งกำหนดขึ้นโดยสภาหอการค้านานาชาติ (International Chamber of Commerce) ได้มีการประชุมบรรดาสมาชิกสภาหอการค้าระหว่างประเทศ **ทุก 10 ปี** เพื่อวางหลักเกณฑ์ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ เริ่มใช้ในปี ค.ศ. 1963 ฉบับปัจจุบันปรับปรุงแก้ไขเมื่อ ค.ศ. 2010 ประกาศใช้เมื่อ 1 มกราคม ค.ศ. 2011 เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าระหว่างประเทศและในประเทศในปัจจุบัน โดยกําหนดให้ขอบเขตของ Incoterms @ 2010 จํากัดอยู่เฉพาะเรื่องที่เกี่ยวข้องกับสิทธิและหน้าที่ของคู่สัญญาซื้อขาย ในเรื่องการสส่งมอบสินค้าที่ขาย ว่าโดยนัยของสินค้า **ที่จับต้องได้** (Tangible Goods) เท่านั้น ไม่รวมถึง **ที่จับต้องไม่ได้**
 
 ![INCOTERMS 2010](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incoterms-2010-infographic-1024x814.jpg)
 
@@ -88,8 +88,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjQ2MTcxOSwyNzMzNjc3OTIsMTkxOT
-c4MTY5NSwtMTA1NTc0MTg0OCw5MzI1NjAwNDEsMTgzODU0NDkw
-LDE3NTYzMjU4NzgsMTk0OTYwMTYxNiwyMDAxMzc2MzQxLC0xNj
-k4NTc3NjY4LC0xMTI1ODA5NjU1XX0=
+eyJoaXN0b3J5IjpbLTEzNzIxMTA4MzQsMjczMzY3NzkyLDE5MT
+k3ODE2OTUsLTEwNTU3NDE4NDgsOTMyNTYwMDQxLDE4Mzg1NDQ5
+MCwxNzU2MzI1ODc4LDE5NDk2MDE2MTYsMjAwMTM3NjM0MSwtMT
+Y5ODU3NzY2OCwtMTEyNTgwOTY1NV19
 -->
