@@ -240,16 +240,17 @@
 
 - ตัวอย่างด้านบนใช้ Duty rate เท่ากับ 20%
 - การคำนวณอากรที่ชำระ (Amount Paid) ปกติแล้วจะต้องมีค่าเท่ากับอากรตามปกติ (Amount) ตาม Case 1  ยกเว้น Exemption Rate มีค่า
-- อากรที่ชำระ (Amount Paid)  ที่คำนวณได้นั้น หากต้องการวางประกัน ให้บันทึกค่าที่ช่อง Deposit Amount ให้เท่ากับ อากรที่ชำระ (Amount Paid)  นั้น 
-> •	การคำนวณค่าวางประกัน ทุกกรณี ไม่ต้องปัดเป็นตัวกลมให้วางเท่ากับค่าอากรที่ชำระ
+- อากรที่ชำระ (Amount Paid)  ที่คำนวณได้นั้น หากต้องการวางประกัน ให้บันทึกค่าที่ช่อง **_Deposit Amount_** ให้เท่ากับ ==อากรที่ชำระ (Amount Paid)==  นั้น 
+
+> ==การคำนวณค่าวางประกัน ทุกกรณี ไม่ต้องปัดเป็นตัวกลมให้วางเท่ากับค่าอากรที่ชำระ==
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTM2MDU3NSwxMTEwMzkzNTExLC0xNz
-U3Njk2Nzg1LDM3Njg3MjQzMCwtMTU3MDAyNzI5MCw0Nzc4NDgy
-NjMsLTExODE1MDU4MzEsMTkwMjA5NzYxNCwtODAyNzQ3MTA5LC
-03NjQ2ODY5MSwxNzMwODkyNjAxLC0xNzE0NTA3OTE1LDI2NzUx
-OTY0NiwtNTYyNjcxNDQwLDM5NzAzODYxNiwtMTQ5NzQ5MDIwLC
-0xOTk4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2NDcsLTI5MDU1
-MjkwMl19
+eyJoaXN0b3J5IjpbNDc0ODIyNjgzLDExMTAzOTM1MTEsLTE3NT
+c2OTY3ODUsMzc2ODcyNDMwLC0xNTcwMDI3MjkwLDQ3Nzg0ODI2
+MywtMTE4MTUwNTgzMSwxOTAyMDk3NjE0LC04MDI3NDcxMDksLT
+c2NDY4NjkxLDE3MzA4OTI2MDEsLTE3MTQ1MDc5MTUsMjY3NTE5
+NjQ2LC01NjI2NzE0NDAsMzk3MDM4NjE2LC0xNDk3NDkwMjAsLT
+E5OTg4MzQyNjksLTU4MDk0MzIxNiwyMjM3MDY0NywtMjkwNTUy
+OTAyXX0=
 -->
