@@ -107,11 +107,11 @@
 2. หากประสงค์จะขออนุญาตขนย้ายสินค้าไปตรวจปล่อย ณ สถานที่อื่นนอกจากเขตด่านศุลกากร ที่นำของเข้า (First Port) ให้บันทึกข้อมูล ดังนี้
 
 	- รหัสสถานที่ตรวจปล่อย (Release Port)  ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น  ด่านศุลกากร ที่นำของเข้า (First Port)  และ
-	- ให้บันทึกค่า **"Y" ในช่องขออนุญาตเปิดตรวจนอกสถานที่**  (Inspection request code)
+	- ให้บันทึกค่า **=="Y" ในช่องขออนุญาตเปิดตรวจนอกสถานที่==**  (Inspection request code)
 		- หากไม่ติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจปล่อยสินค้าโดยไม่ต้องมัดลวด
 		- หากติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจเป็น “ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากรที่นำของเข้า” เพื่อนำไปตรวจปล่อยนอกสถานที่ตามที่ระบุข้อมูลไว้ ในช่องรหัสสถานที่ตรวจปล่อยนอกสถานที่ (Outside Release Port)
 
-	- กรณีติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจเป็น  **_"ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากร ที่นำของเข้า "_** หากพนักงานศุลกากรผู้มีอำนาจหน้าที่หรือผู้ที่ได้รับมอบหมายเห็นว่าการเปิดตรวจที่ ด่านศุลกากรที่นำของเข้า (First Port)  จะเป็นประโยชน์กว่าให้ทำการเปิดตรวจของ ณ ที่นำของเข้าได้
+	- กรณีติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจเป็น  **==_"ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากร ที่นำของเข้า "_==** หากพนักงานศุลกากรผู้มีอำนาจหน้าที่หรือผู้ที่ได้รับมอบหมายเห็นว่าการเปิดตรวจที่ ด่านศุลกากรที่นำของเข้า (First Port)  จะเป็นประโยชน์กว่าให้ทำการเปิดตรวจของ ณ ที่นำของเข้าได้
 
 
 
@@ -245,11 +245,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDM5MzUxMSwtMTc1NzY5Njc4NSwzNz
-Y4NzI0MzAsLTE1NzAwMjcyOTAsNDc3ODQ4MjYzLC0xMTgxNTA1
-ODMxLDE5MDIwOTc2MTQsLTgwMjc0NzEwOSwtNzY0Njg2OTEsMT
-czMDg5MjYwMSwtMTcxNDUwNzkxNSwyNjc1MTk2NDYsLTU2MjY3
-MTQ0MCwzOTcwMzg2MTYsLTE0OTc0OTAyMCwtMTk5ODgzNDI2OS
-wtNTgwOTQzMjE2LDIyMzcwNjQ3LC0yOTA1NTI5MDIsLTExMTA3
-NjMwODNdfQ==
+eyJoaXN0b3J5IjpbLTk1NjM5OTI1NywxMTEwMzkzNTExLC0xNz
+U3Njk2Nzg1LDM3Njg3MjQzMCwtMTU3MDAyNzI5MCw0Nzc4NDgy
+NjMsLTExODE1MDU4MzEsMTkwMjA5NzYxNCwtODAyNzQ3MTA5LC
+03NjQ2ODY5MSwxNzMwODkyNjAxLC0xNzE0NTA3OTE1LDI2NzUx
+OTY0NiwtNTYyNjcxNDQwLDM5NzAzODYxNiwtMTQ5NzQ5MDIwLC
+0xOTk4ODM0MjY5LC01ODA5NDMyMTYsMjIzNzA2NDcsLTI5MDU1
+MjkwMl19
 -->
