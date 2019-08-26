@@ -86,10 +86,10 @@
 - [EXIM Bank](http://www.exim.go.th/doc/newsCenter/40379.pdf)
 - [INCOTERMS : ข้อกำหนดในการส่งมอบสินค้าระหว่างประเทศแบบเข้าใจง่าย ๆ](http://www.march.co.th/ultimate-guide-to-incoterms/)
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIxMTA4MzQsMjczMzY3NzkyLDE5MT
-k3ODE2OTUsLTEwNTU3NDE4NDgsOTMyNTYwMDQxLDE4Mzg1NDQ5
-MCwxNzU2MzI1ODc4LDE5NDk2MDE2MTYsMjAwMTM3NjM0MSwtMT
-Y5ODU3NzY2OCwtMTEyNTgwOTY1NV19
+eyJoaXN0b3J5IjpbLTExNTk3OTQyNDAsLTEzNzIxMTA4MzQsMj
+czMzY3NzkyLDE5MTk3ODE2OTUsLTEwNTU3NDE4NDgsOTMyNTYw
+MDQxLDE4Mzg1NDQ5MCwxNzU2MzI1ODc4LDE5NDk2MDE2MTYsMj
+AwMTM3NjM0MSwtMTY5ODU3NzY2OCwtMTEyNTgwOTY1NV19
 -->
