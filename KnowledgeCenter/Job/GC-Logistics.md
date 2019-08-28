@@ -11,10 +11,10 @@
 
 # Declaration
 - ต้องการให้มีการระบุ Payment term ในโปรแกรมเพิ่มเติมได้ 
-	- ECS แจ้งว่าจะดึงจากข้อมูลใบขนเก่า ๆ เมื่อ
+	- ECS แจ้งว่าจะดึงจากข้อมูลใบขนเก่า ๆ เมื่อ user แจ้งว่าไม่ขึ้น ทางโปรมเมอร์แจ้งให้ขอตัวอย่าง zip ไฟล์เพื่อตรวจสอบ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NTU3NDUsMTM4OTY0OTQwOCwxNDQ5ND
-MyNjIzXX0=
+eyJoaXN0b3J5IjpbLTgwNDk1ODIzNCwxMzg5NjQ5NDA4LDE0ND
+k0MzI2MjNdfQ==
 -->
