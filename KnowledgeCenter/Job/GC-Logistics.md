@@ -10,9 +10,11 @@
 - ให้มี report Counter Service ในส่วนของ Goods + Short
 
 # Declaration
-- ต้องการให้มีการระบุ Payment term ในโปรแกรมเพิ่มเติมได้
+- ต้องการให้มีการระบุ Payment term ในโปรแกรมเพิ่มเติมได้ 
+	- ECS แจ้งว่าจะดึงจากข้อมูลใบขนเก่า ๆ เมื่อ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTY0OTQwOCwxNDQ5NDMyNjIzXX0=
+eyJoaXN0b3J5IjpbOTg5NTU3NDUsMTM4OTY0OTQwOCwxNDQ5ND
+MyNjIzXX0=
 -->
