@@ -12,10 +12,10 @@
 # Declaration
 - ต้องการให้มีการระบุ Payment term ในโปรแกรมเพิ่มเติมได้ 
 	- ECS แจ้งว่าจะดึงจากข้อมูลใบขนเก่า ๆ เมื่อ user แจ้งว่าไม่ขึ้น ทางโปรมเมอร์แจ้งให้ขอตัวอย่าง zip ไฟล์เพื่อตรวจสอบ
-- ะเพิ่มรูปแบบ file text เพิ่มเติมจากที่มีอยู่ให้ import เข้าโปรแกรม ตรง create flat file
+- เพิ่มรูปแบบ file text เพิ่มเติมจากที่มีอยู่ให้ import เข้าโปรแกรม ตรง create flat file เพื่อให้ได้ข้อมูลตรงส่วนของใบขนที่เดิมไม่ได้มีการ import (Declaration Header)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0NjY4MTA2LC04MDQ5NTgyMzQsMTM4OT
-Y0OTQwOCwxNDQ5NDMyNjIzXX0=
+eyJoaXN0b3J5IjpbLTE5MDgxMjk3ODQsLTgwNDk1ODIzNCwxMz
+g5NjQ5NDA4LDE0NDk0MzI2MjNdfQ==
 -->
