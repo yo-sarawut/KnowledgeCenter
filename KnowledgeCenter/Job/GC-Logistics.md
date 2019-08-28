@@ -1,7 +1,8 @@
 
+บันทึกการขอแก้ไขโปรแกรมตามประชุมร่วม 
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODg3MzA3M119
+eyJoaXN0b3J5IjpbMTQ0OTQzMjYyM119
 -->
