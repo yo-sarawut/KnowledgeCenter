@@ -17,6 +17,8 @@ Data Science for e-Customs Systems
 
 ## 2. ช่วยตรวจสอบการทำงาน ลดข้อผิดพลาด
 
+- check digit 
+	- 
 
 
 ## 3. ความรู้ข่าวสาร
@@ -40,6 +42,6 @@ See online documentation :  [https://dreamrs.github.io/esquisse/index.html](http
 ![enter image description here](https://github.com/dreamRs/esquisse/raw/master/man/figures/esquisse.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTA4MjM5LC0yNTI2MDQzNzEsMjA2Nz
-g0MDgyNF19
+eyJoaXN0b3J5IjpbMTg1Nzk4OTUzMiw5MzgxMDgyMzksLTI1Mj
+YwNDM3MSwyMDY3ODQwODI0XX0=
 -->
