@@ -91,8 +91,24 @@ Check digit(?) ได้มาจากการใช้ Luhn algorithm (เท
   
 ดูภาพประกอบ>>> [https://bit.ly/2IuuzbK](https://goo.gl/aDWVoh)
 
-> [Source:](http://thaicashlesssociety.blogspot.com/2018/03/anatomy-of-credit-card-number.html)
+---
+
+### บัตรประชาชน
+
+เลขบัตร 1201541462234  
+  
+* ขั้นตอนที่ 1 - เอาเลข 12 หลักมา เขียนแยกหลักกันก่อน (หลักที่ 13 ไม่ต้องเอามานะคร้าบ)  
+1 2 0 1 5 4 1 4 6 2 2 3  
+* ขั้นตอนที่ 2 - เอาเลข 12 หลักนั้นมา คูณเข้ากับเลขประจำหลักของมัน  
+รหัสบัตร 1 2 0 1 5 4 1 4 6 2 2 3  
+ตัวคูณ 13 12 11 10 9 8 7 6 5 4 3 2  
+ผลคูณ 13 24 0 10 45 32 7 24 30 8 6 6  
+* ขั้นตอนที่ 3 - เอาผลคูณทั้ง 12 ตัวมา บวกกันทั้งหมด จะได้ 13+24+0+10+45+32+7+24+30+8+6+6=205  
+* ขั้นตอนที่ 4 - เอาเลขที่ได้จากขั้นตอนที่ 3 มา mod 11 (หารเอาเศษ) จะได้ 205 mod 11 = 7  
+* ขั้นตอนที่ 5 - เอา 11 ตั้ง ลบออกด้วย เลขที่ได้จากขั้นตอนที่ 4 จะได้ 11-7 = 4 (เราจะได้ 4 เป็นเลขในหลัก Check Digit)  
+ถ้าเกิด ลบแล้วได้ออกมาเป็นเลข 2 หลัก ให้เอาเลขในหลักหน่วยมาเป็น Check Digit (เช่น 11 ให้เอา 1 มา, 10 ให้เอา 0 มา เป็นต้น)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkwMjgxMjUsLTMwNzQ5MDQxOSw5Mz
-gxMDgyMzksLTI1MjYwNDM3MSwyMDY3ODQwODI0XX0=
+eyJoaXN0b3J5IjpbMTY0NDUyMTE5OCwtMTcxOTAyODEyNSwtMz
+A3NDkwNDE5LDkzODEwODIzOSwtMjUyNjA0MzcxLDIwNjc4NDA4
+MjRdfQ==
 -->
