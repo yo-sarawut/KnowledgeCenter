@@ -18,7 +18,11 @@ Data Science for e-Customs Systems
 ## 2. ช่วยตรวจสอบการทำงาน ลดข้อผิดพลาด
 
 - check digit 
-	- 
+	- Bank Account
+	- ID Card
+	- Container No.
+- EXAM ใบอนุญาต ให้นำ excel เข้าในระบบเพื่อตรวจสอบ
+
 
 
 ## 3. ความรู้ข่าวสาร
@@ -42,6 +46,6 @@ See online documentation :  [https://dreamrs.github.io/esquisse/index.html](http
 ![enter image description here](https://github.com/dreamRs/esquisse/raw/master/man/figures/esquisse.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Nzk4OTUzMiw5MzgxMDgyMzksLTI1Mj
-YwNDM3MSwyMDY3ODQwODI0XX0=
+eyJoaXN0b3J5IjpbMjUyNjA3MTk5LDkzODEwODIzOSwtMjUyNj
+A0MzcxLDIwNjc4NDA4MjRdfQ==
 -->
