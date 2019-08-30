@@ -46,7 +46,9 @@ See online documentation :  [https://dreamrs.github.io/esquisse/index.html](http
 
 ![enter image description here](https://github.com/dreamRs/esquisse/raw/master/man/figures/esquisse.gif)
 
+
+** Anatomy of Credit Card Number ความหมายของเลขบัตรเครดิต**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzQ5MDQxOSw5MzgxMDgyMzksLTI1Mj
-YwNDM3MSwyMDY3ODQwODI0XX0=
+eyJoaXN0b3J5IjpbMjAzNjE2MzAxLC0zMDc0OTA0MTksOTM4MT
+A4MjM5LC0yNTI2MDQzNzEsMjA2Nzg0MDgyNF19
 -->
