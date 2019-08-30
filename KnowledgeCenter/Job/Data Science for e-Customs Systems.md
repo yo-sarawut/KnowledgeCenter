@@ -8,18 +8,23 @@ Data Science for e-Customs Systems
 4. ความรู้ข่าวสาร ประกาศกฎหมาย ข้อมูลที่แตกต่าง เพื่อความได้เปรียบทางธุรกิจ
 5. Data Visualization ต่อยอดจาก Report ของเดิม เพื่อให้จบกระบวนการทำงาน อาจจะลองนำแนวคิด Privot table มาปรับใช้
 
+ ==**Detail**==
+ 
 ## 1. การนำเข้าข้อมูล
-
-
-
 
 
 
 
 ## 2. ช่วยตรวจสอบการทำงาน ลดข้อผิดพลาด
 
-##3 . ความรู้ข่าวสาร
+
+
+## 3. ความรู้ข่าวสาร
+
+
+
+## 4. Data Visualization 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI5NTMxNDEsLTI1MjYwNDM3MSwyMD
-Y3ODQwODI0XX0=
+eyJoaXN0b3J5IjpbNTE2MjMyMDc0LC0yNTI2MDQzNzEsMjA2Nz
+g0MDgyNF19
 -->
