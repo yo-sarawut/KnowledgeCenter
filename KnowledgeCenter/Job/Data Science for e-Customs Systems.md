@@ -25,8 +25,11 @@ Data Science for e-Customs Systems
 
 ## 4. Data Visualization 
 
-**ตัวอย่างโปรแกรมซึ่งเป็น Interactive 
-- [**_esquisse_**](https://github.com/dreamRs/esquisse)
+### Example
+
+
+- [**_esquisse_**](https://github.com/dreamRs/esquisse) 
+โปรแกรมซึ่งเป็น Interactive มีความยืดหยุ่นสูง สามารถกำหนดค่าต่าง ๆ ได้จากผู้ใช้งาน
 
 This addin allows you to interactively explore your data by visualizing it with the  [ggplot2](https://github.com/tidyverse/ggplot2)  package. It allows you to draw bar plots, curves, scatter plots, histograms, boxplot and  [sf](https://github.com/r-spatial/sf)  objects, then export the graph or retrieve the code to reproduce the graph.
 
@@ -36,6 +39,6 @@ See online documentation :  [https://dreamrs.github.io/esquisse/index.html](http
 ![enter image description here](https://github.com/dreamRs/esquisse/raw/master/man/figures/esquisse.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNjAyODc5LC0yNTI2MDQzNzEsMjA2Nz
-g0MDgyNF19
+eyJoaXN0b3J5IjpbLTg2MDEyNjY1MiwtMjUyNjA0MzcxLDIwNj
+c4NDA4MjRdfQ==
 -->
