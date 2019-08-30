@@ -3,11 +3,14 @@ Data Science for e-Customs Systems
 
 # เป้าหมายที่จะนำมาแก้ปัญหาในด้านใดบ้าง
 
-- การนำเข้าข้อมูล ( import data ) ให้สะดวก ย
+1. การนำเข้าข้อมูล ( import data ) ให้สะดวก ยืดหยุ่น มีความหลากหลาย 
+2. ช่วยตรวจสอบการทำงาน ลดข้อผิดพลาด
+3. ความรู้ข่าวสาร ประกาศกฎหมาย ข้อมูลที่แตกต่าง เพื่อความได้เปรียบทางธุรกิจ
+4. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDI1MzY5NiwyMDY3ODQwODI0XX0=
+eyJoaXN0b3J5IjpbLTI1MjYwNDM3MSwyMDY3ODQwODI0XX0=
 -->
