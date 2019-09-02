@@ -2,7 +2,7 @@
 
 ![Payment Method and Guarantee Method Guideline](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/Payment-Method.png)
 
-**_หมายเหตุ_**
+**หมายเหตุ**
 ถ้า Total Payment Amount  มีค่าต้องระบุ ข้อมูลดังต่อไปนี้ด้วย
 	•	Bank Code	
 	•	Bank Branch Code
@@ -20,6 +20,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDE2NjIxNSwtOTcxMDM1MDUxLDQzOT
-g3NDM0OV19
+eyJoaXN0b3J5IjpbODY1OTk5Njk1LDE5OTQxNjYyMTUsLTk3MT
+AzNTA1MSw0Mzk4NzQzNDldfQ==
 -->
