@@ -39,13 +39,7 @@ All these projects are powered by alien technology.
 
 
 
-[Google][1]  
-[Facebook][2]  
-[GitHub][3]  
-  
-[1]: https://www.google.co.th/  
-[2]: https://www.facebook.com/  
-[3]: https://www.github.com/  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjQzNTQ0OSwtOTIyNjUwNDg0XX0=
+eyJoaXN0b3J5IjpbLTQzNzE5NDY4NCwtOTIyNjUwNDg0XX0=
 -->
