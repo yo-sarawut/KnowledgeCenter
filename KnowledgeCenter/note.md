@@ -14,7 +14,7 @@
 ```
 # กำหนดค่าที่จุด Link (id)
 <a id='section2'></a>
-### Section 
+### Header 
 some text ...
 
 
@@ -35,5 +35,5 @@ some text ...
 
 - [Link to section2](#section2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM2MjQ3NTgsMzE1Njg2MDk4XX0=
+eyJoaXN0b3J5IjpbLTE1NzYxNTkyNjYsMzE1Njg2MDk4XX0=
 -->
