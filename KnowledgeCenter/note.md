@@ -12,15 +12,28 @@
 
 
 ```
-# กำหนดค่าที่จุด Link 
+# กำหนดค่าที่จุด Link (id)
 <a id='section2'></a>
 ### Section 
 some text ...
 
 
-
+# กำหนดค่าในส่วนของ link
 - [Link to section2](#section2)
 ```
+
+<a id='section2'></a>
+### Section 
+some text ...
+.
+.
+.
+.
+.
+
+
+
+- [Link to section2](#section2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTQzMDE1MCwzMTU2ODYwOThdfQ==
+eyJoaXN0b3J5IjpbLTEyMTM2MjQ3NTgsMzE1Njg2MDk4XX0=
 -->
