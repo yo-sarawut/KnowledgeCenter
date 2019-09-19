@@ -1,3 +1,6 @@
+## upload image
+- [https://github.com/yosarawut/KnowledgeCenter/tree/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img](https://github.com/yosarawut/KnowledgeCenter/tree/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img)
+
 ## Link
 <a id='top'></a>
 [e-customs][1]  
@@ -39,6 +42,6 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODc1ODAzNSwtMTU3NjE1OTI2NiwzMT
-U2ODYwOThdfQ==
+eyJoaXN0b3J5IjpbLTE5NzI3MjkwNDEsLTkzODc1ODAzNSwtMT
+U3NjE1OTI2NiwzMTU2ODYwOThdfQ==
 -->
