@@ -299,13 +299,13 @@ Declaration Number = เลขที่ใบขนสินค้าขาเ�
 
 ## การโอนย้ายของออกจากสิทธิประโยชน์เขตประกอบการเสรี
 
-
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-i-ea.jpg)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODgwNjAxNSwtMTExNTYxNzc1MCw4MD
-I0MjQyOTUsMTE3OTYyOTQxMF19
+eyJoaXN0b3J5IjpbLTE4OTEwMjIwMTQsLTY0ODgwNjAxNSwtMT
+ExNTYxNzc1MCw4MDI0MjQyOTUsMTE3OTYyOTQxMF19
 -->
