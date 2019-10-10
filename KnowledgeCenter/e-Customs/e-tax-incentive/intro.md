@@ -11,8 +11,8 @@
 
 ## กระบวนการผ่านพิธีการใบขนสินค้าโอนย้ายภายในประเทศด้วยวิธีทางอิเล็กทรอนิกส์
 
-![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentivejpg_Page2.jpg)
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page2.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ0ODE5MzksMzYzMjcwODc5LDEwMT
+eyJoaXN0b3J5IjpbLTEzMzI2ODAyMjksMzYzMjcwODc5LDEwMT
 kzNDMzMTIsLTE3MTczNTM3NDAsNTU0NjMxMTI5XX0=
 -->
