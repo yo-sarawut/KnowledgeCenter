@@ -15,9 +15,9 @@
 
 ## การโอนย้ายของออกจากคลังสินค้าทัณฑ์บน 
 
-[enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-bond.jpg)
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-bond.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjUyNjgyN119
+eyJoaXN0b3J5IjpbNTI1ODYxOTU2XX0=
 -->
