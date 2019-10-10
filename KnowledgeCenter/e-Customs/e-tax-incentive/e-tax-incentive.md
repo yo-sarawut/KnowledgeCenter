@@ -118,7 +118,7 @@
 
 ## การโอนย้ายของออกจากสิทธิประโยชน์ขอคืนอากรตามมาตรา 29
 
-![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/section-29.jpg)
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/section-29-2.jpg)
 
 
 
@@ -126,5 +126,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyNDI0Mjk1LDExNzk2Mjk0MTBdfQ==
+eyJoaXN0b3J5IjpbMTMwMDQyODkyLDgwMjQyNDI5NSwxMTc5Nj
+I5NDEwXX0=
 -->
