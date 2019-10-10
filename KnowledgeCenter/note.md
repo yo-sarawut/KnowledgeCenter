@@ -3,6 +3,7 @@ Knowledge Center (GitHub)
 
 ## upload image
 - [https://github.com/yosarawut/KnowledgeCenter/tree/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img](https://github.com/yosarawut/KnowledgeCenter/tree/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img)
+- [https://github.com/yosarawut/KnowledgeCenter/tree/master/img/e-tax-incentive](https://github.com/yosarawut/KnowledgeCenter/tree/master/img/e-tax-incentive)
 
 ## Link
 <a id='top'></a>
@@ -45,6 +46,7 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTY2ODcxMSwtMTk3MjcyOTA0MSwtOT
-M4NzU4MDM1LC0xNTc2MTU5MjY2LDMxNTY4NjA5OF19
+eyJoaXN0b3J5IjpbLTE3NjY3MjM5OTksMTk5OTY2ODcxMSwtMT
+k3MjcyOTA0MSwtOTM4NzU4MDM1LC0xNTc2MTU5MjY2LDMxNTY4
+NjA5OF19
 -->
