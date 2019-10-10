@@ -12,7 +12,12 @@
 ## กระบวนการผ่านพิธีการใบขนสินค้าโอนย้ายภายในประเทศด้วยวิธีทางอิเล็กทรอนิกส์
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page2.jpg)
+
+## การโอนย้ายของออกจากคลังสินค้าทัณฑ์บน 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI2ODAyMjksMzYzMjcwODc5LDEwMT
-kzNDMzMTIsLTE3MTczNTM3NDAsNTU0NjMxMTI5XX0=
+eyJoaXN0b3J5IjpbMTQ3MDU5MjUwLC0xMzMyNjgwMjI5LDM2Mz
+I3MDg3OSwxMDE5MzQzMzEyLC0xNzE3MzUzNzQwLDU1NDYzMTEy
+OV19
 -->
