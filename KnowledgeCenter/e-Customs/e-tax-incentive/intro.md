@@ -10,7 +10,9 @@
 ปฏิบัติและขอความเห็นชอบจากกรมศุลกากร  ให้กำหนดเพิ่มเติมเป็นการเฉพาะหรือแตกต่างไปจากที่กำหนดในคู่มือฉบับนี้ ให้ถือปฏิบัติตามข้อปฎิบัติดังกล่าวนั้น
 
 ## กระบวนการผ่านพิธีการใบขนสินค้าโอนย้ายภายในประเทศด้วยวิธีทางอิเล็กทรอนิกส์
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentivejpg_Page2.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMjcwODc5LDEwMTkzNDMzMTIsLTE3MT
-czNTM3NDAsNTU0NjMxMTI5XX0=
+eyJoaXN0b3J5IjpbLTIwNjQ0ODE5MzksMzYzMjcwODc5LDEwMT
+kzNDMzMTIsLTE3MTczNTM3NDAsNTU0NjMxMTI5XX0=
 -->
