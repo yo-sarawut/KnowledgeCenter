@@ -1,6 +1,16 @@
 มาตรการปกป้องและตอบโต้ทางการค้า﻿
 ====
 
+
+
+**สรุปสถานะมาตรการ AD/CVD/SG**
+
+[- สินค้าที่ไทยใช้มาตราการ AD/CVD](https://www.thaitr.go.th/storage/file2/a5mjzqPijy6x2hPGgy1cjZ9uQcN9Lu8QMZC2QOoS.xls)
+[- สินค้าที่ไทยใช้มาตราการ SG](https://www.thaitr.go.th/storage/file2/qNgVIjbmT8DYXAFK7G3MC7VP0CNQM4CKeI8Sa5cy.xls)
+[- สินค้าที่ไทยถูกใช้มาตรการ AD/CVD/SG](https://www.thaitr.go.th/storage/file2/FCzRDXlj0B1t90BcZUxuQaI96pGZKNnOUqvo2PMt.xls)
+
+
+
 ## มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)
 
 มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหายจากการทุ่มตลาดอันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม
@@ -187,5 +197,5 @@ Bilateral Safeguards หรือ Transitional Safeguards คือ มาตร
 - คปป. วินิจฉัยผลการไต่สวนและนำเสนอ รมว. พาณิชย์พิจารณาเห็นชอบ
 - รมว. พาณิชย์พิจารณาคำวินิจฉัย หากเห็นชอบ กรมการค้าต่างประเทศจะออกประกาศบังคับใช้มาตรการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE4NDI0NCwtMTM2NTQ1NTI3MV19
+eyJoaXN0b3J5IjpbLTQ0ODMyODkzNCwtMTM2NTQ1NTI3MV19
 -->
