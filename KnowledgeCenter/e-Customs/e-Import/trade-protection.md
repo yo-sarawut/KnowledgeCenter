@@ -1,7 +1,7 @@
 มาตรการปกป้องและตอบโต้ทางการค้า﻿
 ====
 
-
+- [**พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ**](https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf)  
 
 **สรุปสถานะมาตรการ AD/CVD/SG**
 
@@ -197,5 +197,6 @@ Bilateral Safeguards หรือ Transitional Safeguards คือ มาตร
 - คปป. วินิจฉัยผลการไต่สวนและนำเสนอ รมว. พาณิชย์พิจารณาเห็นชอบ
 - รมว. พาณิชย์พิจารณาคำวินิจฉัย หากเห็นชอบ กรมการค้าต่างประเทศจะออกประกาศบังคับใช้มาตรการ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODMyODkzNCwtMTM2NTQ1NTI3MV19
+eyJoaXN0b3J5IjpbNzU0NDE0MDUsLTQ0ODMyODkzNCwtMTM2NT
+Q1NTI3MV19
 -->
