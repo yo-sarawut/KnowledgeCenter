@@ -37,8 +37,8 @@
 - เกิดความเสียหายต่ออุตสาหกรรมภายในของประเทศผู้นำเข้า (Injury)
 - ความเสียหายของอุตสาหกรรมภายในนั้นเป็นผลมาจากการทุ่มตลาด (Causal Link Between Dumping and Injury)
 
-
-คู่มือสนทนาตอบโต้การทุ่มตลาด
+**เอกสารเพิ่มเติม :**
+- [คู่มือสนทนาตอบโต้การทุ่มตลาด](https://www.thaitr.go.th/storage/measure_info/Q0MjRqdxGtqjPqmMxwsCGa8MCi5hTbFWnVmpHIfm.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDQzODgwOF19
+eyJoaXN0b3J5IjpbLTExMjQ5MTgzOTBdfQ==
 -->
