@@ -11,7 +11,7 @@
  
   3. **กำไรมาตรฐาน** หมายถึง ให้พิจารณาจากราคาขายปลีกแนะนำหักต้นทุนการผลิตและค่าบริหารจัดการ
 
-
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/price-structure.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjk1MDY2Miw5NjMwMTAzMzRdfQ==
+eyJoaXN0b3J5IjpbLTE0NzM1NTk1ODUsOTYzMDEwMzM0XX0=
 -->
