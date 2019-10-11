@@ -1,6 +1,7 @@
 มาตรการปกป้องและตอบโต้ทางการค้า﻿
 ====
 
+**เอกสารที่เกี่ยวข้อง** 
 - [**พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ**](https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf)  ฉบับรวบรวม ซึ่งมีผลบังคับใช้ในวันที่ 18 พ.ย. 2562
 - [คู่มือสนทนาตอบโต้การทุ่มตลาด](https://www.thaitr.go.th/storage/measure_info/Q0MjRqdxGtqjPqmMxwsCGa8MCi5hTbFWnVmpHIfm.pdf)
 
@@ -185,6 +186,6 @@
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY2NDkyNTYsLTQ0ODMyODkzNCwtMT
-M2NTQ1NTI3MV19
+eyJoaXN0b3J5IjpbMTUzMDE4NDczOSwtNDQ4MzI4OTM0LC0xMz
+Y1NDU1MjcxXX0=
 -->
