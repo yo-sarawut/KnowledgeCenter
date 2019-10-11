@@ -197,8 +197,9 @@ Bilateral Safeguards หรือ Transitional Safeguards คือ มาตร
 - คปป. วินิจฉัยผลการไต่สวนและนำเสนอ รมว. พาณิชย์พิจารณาเห็นชอบ
 - รมว. พาณิชย์พิจารณาคำวินิจฉัย หากเห็นชอบ กรมการค้าต่างประเทศจะออกประกาศบังคับใช้มาตรการ
 
-ที่มาบทความ : กรมการค้าต่างประเทศ
+ที่มาบทความ : [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
+ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-5474738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTE5MzE0LC00NDgzMjg5MzQsLTEzNj
-U0NTUyNzFdfQ==
+eyJoaXN0b3J5IjpbMTIxNDIzMjY5NywtNDQ4MzI4OTM0LC0xMz
+Y1NDU1MjcxXX0=
 -->
