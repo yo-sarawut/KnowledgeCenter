@@ -70,9 +70,12 @@
 
 
 - หลักที่ 4-6 รหัสจังหวัด 
-- หลักที่ 7-10  รหัสเขต 4 หลัก
+- หลักที่ 7-10  รหัสเขตฯ 4 หลัก
+- หลักที่ 11-14 
+	- มีค่า '0000' (กรณีเป็นผู้จัดตั้งเขตฯ)
+	- มีค่า Running No. (กรณีเป็นประกอบกิจการในเขตฯ)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDk2NDI2NiwzODQwNTQ1NjgsLTYxND
-MzMjY4MywtMTYwNDgyNzMyMV19
+eyJoaXN0b3J5IjpbLTE5NDc4MjIyMTAsLTQyMDk2NDI2NiwzOD
+QwNTQ1NjgsLTYxNDMzMjY4MywtMTYwNDgyNzMyMV19
 -->
