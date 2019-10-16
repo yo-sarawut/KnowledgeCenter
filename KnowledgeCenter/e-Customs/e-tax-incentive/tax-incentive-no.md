@@ -37,7 +37,7 @@
 	* I – เขตประกอบการเสรี
 	* D – มาตรา  29
 
-- หลักที่ 2-3 ประเภทย่อยของเขตปลอดอากร
+- ประเภทย่อยของเขตปลอดอากร
 	* 01 – พาณิชยกรรม 
 	* 02  – อุตสาหกรรม
 	* 03  – อุตสาหกรรมและพาณิชยกรรม
@@ -46,10 +46,14 @@
 	* 06  – ซ่อมหรือสร้างอากาศยานหรือเรือ
 	* 07  – ปิโตรเลียม
 
+
+
+
+
 - หลักที่ 4-6 รหัสจังหวัด 
 - หลักที่ 7-14  Running ตัวเลข 8 หลัก
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg3NDA1MTUsMzg0MDU0NTY4LC02MT
-QzMzI2ODMsLTE2MDQ4MjczMjFdfQ==
+eyJoaXN0b3J5IjpbMzczNjk5NDY5LDM4NDA1NDU2OCwtNjE0Mz
+MyNjgzLC0xNjA0ODI3MzIxXX0=
 -->
