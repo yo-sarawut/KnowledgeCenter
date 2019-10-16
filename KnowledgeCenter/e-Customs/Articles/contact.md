@@ -56,8 +56,8 @@
 |17. ด่านศุลกากรบ้านประกอบ|	3 ต.ประกอบ อ.นาทวี จ.สงขลา 90160	|0-7489-0302|
 |18. ด่านศุลกากรบูเก๊ะตา|	อ.แว้ง ต.โละจูด จ.นราธิวาส 96160	|0-7361-1368|
 
-ที่มา : [กรมศุลกากร]
+ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=list_abstract_tb_simple.php&ini_content=absdb_customs_house_contact&ini_menu=menu_about_160421_01&left_menu=menu_about_160421_01_161003_02&ini_tab=menu_about_160421_01_161003_02&tab=menu_about_160421_01_161003_02_161003_03&&tab=menu_about_160421_01_161003_02_161003_03&xleft_menu=menu_about_160421_01_161003_02_161003_03)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc0OTU2MTEsLTc4NzUzODYwNCwxOD
+eyJoaXN0b3J5IjpbLTIxMjIzNTcyMDgsLTc4NzUzODYwNCwxOD
 Q3MDM4ODA5XX0=
 -->
