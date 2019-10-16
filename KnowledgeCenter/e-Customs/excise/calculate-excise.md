@@ -21,8 +21,12 @@
 ## เครื่องดื่ม
 
 
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/beverage-01.jpg)
+
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/beverage-02.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTY1MjAwOCwtNzE2MzA5NDUsLTEwOD
-c2NzMyMzVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjEzNTQyNjMsLTcxNjMwOTQ1LC0xMD
+g3NjczMjM1XX0=
 -->
