@@ -124,7 +124,25 @@
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page61.png)
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page62.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page63.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page64.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page65.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page66.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page67.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page68.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page69.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page70.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page71.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDk1OTQ3MSwtMTY3MzExMDc4OCwtNz
-Q5OTQxNTk4XX0=
+eyJoaXN0b3J5IjpbNjI3MTI4Njg5LC0xNjczMTEwNzg4LC03ND
+k5NDE1OThdfQ==
 -->
