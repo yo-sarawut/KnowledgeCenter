@@ -1,5 +1,6 @@
-ระบบสืบค้นรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์
+สืบค้นรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์
 ==
+
 ## สืบค้นตามชนิดสินค้า
 
 | ชนิดสินค้า | ชื่อสินค้า |
@@ -21,5 +22,5 @@
 |ตอนที่ 15. |[สินค้าไพ่](http://edi.excise.go.th/form_search_by_product.php?product_code=1500&search=S&menu=2)|
 |ตอนที่ 16.| [สินค้าอื่่น ๆ](http://edi.excise.go.th/form_search_by_product.php?product_code=1600&search=S&menu=2)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NTU5NTMsMTI2MDA0NzIwNl19
+eyJoaXN0b3J5IjpbLTU1NDEwNjA4LDEyNjAwNDcyMDZdfQ==
 -->
