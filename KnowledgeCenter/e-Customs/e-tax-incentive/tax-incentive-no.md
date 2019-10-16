@@ -5,10 +5,10 @@
 
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/e-tax-manual/img/tax-incentive-no-1.jpg)
 
-### หลักที่ 1 ประเภทสิทธิประโยชน์ทางภาษีอากร
-* W – คลังสินค้าทัณฑ์บน
-* F – เขตปลอดอากร
-* I – เขตประกอบการเสรี
+- หลักที่ 1 ประเภทสิทธิประโยชน์ทางภาษีอากร
+	* W – คลังสินค้าทัณฑ์บน
+	* F – เขตปลอดอากร
+	* I – เขตประกอบการเสรี
 * D – มาตรา  29
 
 ### หลักที่ 2-3 ประเภทย่อยของคลังสินค้าทัณฑ์บน
@@ -21,7 +21,10 @@
 07  – คลังเสบียงทัณฑ์บน
 08  - คลังสินค้าทัณฑ์บนทั่วไปส าหรับจัดแสดงสินค้าหรือนิทรรศการ  (คสท.)
 09  – คลังสินค้าทัณฑ์บนส าหรับอู่ซ่อมหรือสร้างเรือ
+
+### หลักที่ 4-6 รหัสจังหวัด 
+### หลักที่ 7-14  Running ตัวเลข 8 หลัก
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY1MzIxMjQsLTYxNDMzMjY4MywtMT
-YwNDgyNzMyMV19
+eyJoaXN0b3J5IjpbMTY0MDkzMzI3LC02MTQzMzI2ODMsLTE2MD
+Q4MjczMjFdfQ==
 -->
