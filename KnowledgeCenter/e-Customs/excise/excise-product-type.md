@@ -15,11 +15,11 @@
 |ตอนที่ 9.| [สินค้าผลิตภัณฑ์เครื่องหอมและเครื่องสำอาง](http://edi.excise.go.th/form_search_by_product.php?product_code=0900&search=S&menu=2)|
 |ตอนที่ 10.| [สินค้าพรมและสิ่งทอปูพื้น](http://edi.excise.go.th/form_search_by_product.php?product_code=1000&search=S&menu=2)|
 |ตอนที่ 11. |[สินค้าหินอ่อนและหินแกรนิต](http://edi.excise.go.th/form_search_by_product.php?product_code=1100&search=S&menu=2)|
-|ตอนที่ 12.|[สินค้าทำลายชั้นบรรยากาศโอโซน]|
-|ตอนที่ 13. |สินค้าสุรา|
-|ตอนที่ 14.| สินค้ายาสูบ|
-|ตอนที่ 15. |สินค้าไพ่|
-|ตอนที่ 16.| สินค้าอื่่น ๆ|
+|ตอนที่ 12.|[สินค้าทำลายชั้นบรรยากาศโอโซน](http://edi.excise.go.th/form_search_by_product.php?product_code=1200&search=S&menu=2)|
+|ตอนที่ 13. |[สินค้าสุรา](http://edi.excise.go.th/form_search_by_product.php?product_code=1300&search=S&menu=2)|
+|ตอนที่ 14.| [สินค้ายาสูบ](http://edi.excise.go.th/form_search_by_product.php?product_code=1400&search=S&menu=2)|
+|ตอนที่ 15. |[สินค้าไพ่](http://edi.excise.go.th/form_search_by_product.php?product_code=1500&search=S&menu=2)|
+|ตอนที่ 16.| [สินค้าอื่่น ๆ](http://edi.excise.go.th/form_search_by_product.php?product_code=1600&search=S&menu=2)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjEyNTI4OSwxMjYwMDQ3MjA2XX0=
+eyJoaXN0b3J5IjpbNTM5NTU5NTMsMTI2MDA0NzIwNl19
 -->
