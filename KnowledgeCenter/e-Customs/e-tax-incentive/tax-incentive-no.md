@@ -24,7 +24,13 @@
 
 - หลักที่ 4-6 รหัสจังหวัด 
 - หลักที่ 7-14  Running ตัวเลข 8 หลัก
+
+---
+
+## เขตปลอดอากร/เขตประกอบการเสรี
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODExNTIzMCwzODQwNTQ1NjgsLTYxND
-MzMjY4MywtMTYwNDgyNzMyMV19
+eyJoaXN0b3J5IjpbODYwNDE5NTcwLDM4NDA1NDU2OCwtNjE0Mz
+MyNjgzLC0xNjA0ODI3MzIxXX0=
 -->
