@@ -26,7 +26,10 @@
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/beverage-02.jpg)
 
 
+## เครื่องดื่มชนิดผง เกล็ด
+
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/powdered-drink-01.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEzNTQyNjMsLTcxNjMwOTQ1LC0xMD
-g3NjczMjM1XX0=
+eyJoaXN0b3J5IjpbODEzNjgwNiwtMjEyMTM1NDI2MywtNzE2Mz
+A5NDUsLTEwODc2NzMyMzVdfQ==
 -->
