@@ -1,7 +1,9 @@
 
 การคำนวณภาษีสินค้าสรรพสามิต
 ===
-การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (**ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม**) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ สำหรับ
+การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (**ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม**) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ 
+
+กรณีเป็นสินค้าในหมวด **สุรา ยาสูบ และเครื่องดื่ม** เมื่อผู้ใช้งานกำหนดพิกัดสรรพสามิตถูกต้อง ต้องเข้าไปบันทึกรายละเอียดเพิ่มเติมตามรายละเอียดของแต่ละหมวดสิน
 
 ## สุรา
 
@@ -65,6 +67,6 @@
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-02.jpg)
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-03.jpg) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODQzMzUwMCwtMjEyMTM1NDI2MywtNz
+eyJoaXN0b3J5IjpbMTgwNTU4NjE3NywtMjEyMTM1NDI2MywtNz
 E2MzA5NDUsLTEwODc2NzMyMzVdfQ==
 -->
