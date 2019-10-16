@@ -3,7 +3,7 @@
 
 ## คลังสินค้าทัณฑ์บน
 
-![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/e-tax-manual/img/tax-incentive-no-1.jpg)
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tax-incentive-no-1.jpg)
 
 - หลักที่ 1 **ประเภทสิทธิประโยชน์ทางภาษีอากร**
 	* W – คลังสินค้าทัณฑ์บน
@@ -29,7 +29,7 @@
 
 ## เขตปลอดอากร/เขตประกอบการเสรี
 
-![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/e-tax-manual/img/tax-incentive-no-2.jpg)
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tax-incentive-no-2.jpg)
 
 - หลักที่ 1 ประเภทสิทธิประโยชน์ทางภาษีอากร
 	* W – คลังสินค้าทัณฑ์บน
@@ -79,7 +79,7 @@
 
 ## ขอคืนอากรตามมาตรา  29
 
-![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/e-tax-manual/img/tax-incentive-no-3.jpg)
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tax-incentive-no-3.jpg)
 
 - หลักที่ 1 **ประเภทสิทธิประโยชน์ทางภาษีอากร**
 	* W – คลังสินค้าทัณฑ์บน
@@ -98,6 +98,7 @@
 - หลักที่ 4-6 **รหัสจังหวัด**
 - หลักที่ 7-14  **Running ตัวเลข 8 หลัก**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYzMTMxOTAsLTQyMDk2NDI2NiwzOD
-QwNTQ1NjgsLTYxNDMzMjY4MywtMTYwNDgyNzMyMV19
+eyJoaXN0b3J5IjpbLTkyNTQ4ODcwNCwtMTY3NjMxMzE5MCwtND
+IwOTY0MjY2LDM4NDA1NDU2OCwtNjE0MzMyNjgzLC0xNjA0ODI3
+MzIxXX0=
 -->
