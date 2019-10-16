@@ -60,8 +60,10 @@
 8. ภาษีสรรพสามิตต่อภาชนะบรรจุดังกล่าวที่ตารางคำนวณออกมาได้นั้น เป็นภาษีสรรพสามิตแต่เพียงอย่างเดียวเท่านั้น ยังไม่ได้รวมภาษีเพิ่มขึ้นเพื่อราชการส่วนท้องถิ่น 
 9. หลักเกณฑ์และวิธีการคำนวณดังกล่าวข้างต้นเป็นไปตามหนังสือสำนักแผนภาษี ด่วนที่สุดที่ กค 0619/1288 ลงวันที่ 2 พฤศจิกายน 2560
 
-![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-01.jpg) 
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-01.jpg)
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-02.jpg)
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-03.jpg) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzk5MDQwMSwtMjEyMTM1NDI2MywtNz
-E2MzA5NDUsLTEwODc2NzMyMzVdfQ==
+eyJoaXN0b3J5IjpbLTEyMzY4MjA3MzYsLTIxMjEzNTQyNjMsLT
+cxNjMwOTQ1LC0xMDg3NjczMjM1XX0=
 -->
