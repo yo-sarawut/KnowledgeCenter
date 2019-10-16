@@ -70,9 +70,9 @@
 
 
 - หลักที่ 4-6 รหัสจังหวัด 
-- หลักที่ 7-14  Running ตัวเลข 8 หลัก
+- หลักที่ 7-10  รหัสเขต 4 หลัก
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDU1OTM1NSwzODQwNTQ1NjgsLTYxND
+eyJoaXN0b3J5IjpbLTQyMDk2NDI2NiwzODQwNTQ1NjgsLTYxND
 MzMjY4MywtMTYwNDgyNzMyMV19
 -->
