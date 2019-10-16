@@ -102,7 +102,29 @@
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page50.png)
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page51.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page52.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page53.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page54.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page55.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page56.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page57.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page58.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page59.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page60.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page61.png)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/e-tax-invoice/img/Seminar-08-19/img/Seminar_19-08-19png_Page62.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTU0NzQ2MywtMTY3MzExMDc4OCwtNz
+eyJoaXN0b3J5IjpbLTc2NDk1OTQ3MSwtMTY3MzExMDc4OCwtNz
 Q5OTQxNTk4XX0=
 -->
