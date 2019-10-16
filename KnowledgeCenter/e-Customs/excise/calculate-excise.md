@@ -29,12 +29,14 @@
 ## เครื่องดื่มชนิดผง เกล็ด
 
 1. พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 คือ
-	- 16.90(1)  ผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้นที่มีส่วนผสมของน้ำตาลและสามารถละลายน้ำได้
+	- 16.90(1)  ผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้นที่มีส่วนผสมของน้ำตาลและสามารถละลายน้ำได้ แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผงตามกฎหมายว่าด้วยอาหาร
+	
+2. ในช่อง "ปริมาณตามข้อแนะนำ" ให้ใส่ข้อมูล "ปริมาตรหรือน้ำหนักของผงหรือเกล็ดเครื่องดื่มที่ใช้ในการชงแต่ละครั้งตามข้อแนะนำ" ที่ระบุไว้ข้างภาชนะบรรจุภัณฑ์ 
 
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/powdered-drink-01.jpg)
 
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/powdered-drink-02.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzE3NjI0MywtMjEyMTM1NDI2MywtNz
-E2MzA5NDUsLTEwODc2NzMyMzVdfQ==
+eyJoaXN0b3J5IjpbMjk0MzIwMzYxLC0yMTIxMzU0MjYzLC03MT
+YzMDk0NSwtMTA4NzY3MzIzNV19
 -->
