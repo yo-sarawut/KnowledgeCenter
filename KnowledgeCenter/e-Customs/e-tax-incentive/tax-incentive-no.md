@@ -30,7 +30,26 @@
 ## เขตปลอดอากร/เขตประกอบการเสรี
 
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/e-tax-manual/img/tax-incentive-no-2.jpg)
+
+- หลักที่ 1 ประเภทสิทธิประโยชน์ทางภาษีอากร
+	* W – คลังสินค้าทัณฑ์บน
+	* F – เขตปลอดอากร
+	* I – เขตประกอบการเสรี
+	* D – มาตรา  29
+
+- หลักที่ 2-3 ประเภทย่อยของเขตปลอดอากร
+	* 01 – พาณิชยกรรม 
+* 02  – อุตสาหกรรม
+* 03  – อุตสาหกรรมและพาณิชยกรรม
+* 04  – ครัวการบิน
+* 05 – เขตปลอดอากรท่าอากาศยานสุวรรณภูมิ
+* 06  – ซ่อมหรือสร้างอากาศยานหรือเรือ
+* 07  – ปิโตรเลียม
+
+- หลักที่ 4-6 รหัสจังหวัด 
+- หลักที่ 7-14  Running ตัวเลข 8 หลัก
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYzODgxNDgsMzg0MDU0NTY4LC02MT
-QzMzI2ODMsLTE2MDQ4MjczMjFdfQ==
+eyJoaXN0b3J5IjpbLTk0NjcwMjQ5OSwzODQwNTQ1NjgsLTYxND
+MzMjY4MywtMTYwNDgyNzMyMV19
 -->
