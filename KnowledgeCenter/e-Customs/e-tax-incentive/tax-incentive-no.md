@@ -29,8 +29,8 @@
 
 ## เขตปลอดอากร/เขตประกอบการเสรี
 
-
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/e-tax-manual/img/tax-incentive-no-2.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwNDE5NTcwLDM4NDA1NDU2OCwtNjE0Mz
-MyNjgzLC0xNjA0ODI3MzIxXX0=
+eyJoaXN0b3J5IjpbLTEyNzYzODgxNDgsMzg0MDU0NTY4LC02MT
+QzMzI2ODMsLTE2MDQ4MjczMjFdfQ==
 -->
