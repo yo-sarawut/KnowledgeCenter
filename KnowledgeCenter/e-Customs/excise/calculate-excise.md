@@ -17,7 +17,9 @@
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/cigarette-03.jpg)
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/cigarette-04.jpg)
 
+เครื่องดื่ม
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTI1ODQsLTcxNjMwOTQ1LC0xMDg3Nj
-czMjM1XX0=
+eyJoaXN0b3J5IjpbLTg4NDM3ODM2MiwtNzE2MzA5NDUsLTEwOD
+c2NzMyMzVdfQ==
 -->
