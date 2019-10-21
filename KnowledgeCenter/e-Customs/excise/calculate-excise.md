@@ -65,8 +65,8 @@
 
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-01.jpg)
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-02.jpg)
-![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-03.jpg) 
+![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/concentrated-drink-03.jpg) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODQzMDIxOSwtMjEyMTM1NDI2MywtNz
-E2MzA5NDUsLTEwODc2NzMyMzVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTUzNjc5ODUsLTc5ODQzMDIxOSwtMj
+EyMTM1NDI2MywtNzE2MzA5NDUsLTEwODc2NzMyMzVdfQ==
 -->
