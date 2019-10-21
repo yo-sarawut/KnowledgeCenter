@@ -1,5 +1,5 @@
 
-
+## ผู้ประกอบการเลือกจัดทำใบกำกับภาษีอิเล็กทรอนิกส์ได้ 2 วิธี
 
 | ระบบ  e-Tax Invoice & e-Receipt | ระบบ  e-Tax invoice by Email |
 |:---|:---|
@@ -9,5 +9,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODE3MDQ3OF19
+eyJoaXN0b3J5IjpbLTE2NjAwNDU4NjBdfQ==
 -->
