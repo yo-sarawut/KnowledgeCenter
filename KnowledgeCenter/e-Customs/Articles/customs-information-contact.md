@@ -57,6 +57,12 @@
 |18. ด่านศุลกากรบูเก๊ะตา|	อ.แว้ง ต.โละจูด จ.นราธิวาส 96160	|0-7361-1368|
 
 ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=list_abstract_tb_simple.php&ini_content=absdb_customs_house_contact&ini_menu=menu_about_160421_01&left_menu=menu_about_160421_01_161003_02&ini_tab=menu_about_160421_01_161003_02&tab=menu_about_160421_01_161003_02_161003_03&&tab=menu_about_160421_01_161003_02_161003_03&xleft_menu=menu_about_160421_01_161003_02_161003_03)
+
+|school|manager  |hotel|
+|--|--|--|
+| a |b  --|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDk5MTgyOSwtMjEyMjM1NzIwOF19
+eyJoaXN0b3J5IjpbLTEwNTk0OTc5MTUsLTIxMjIzNTcyMDhdfQ
+==
 -->
