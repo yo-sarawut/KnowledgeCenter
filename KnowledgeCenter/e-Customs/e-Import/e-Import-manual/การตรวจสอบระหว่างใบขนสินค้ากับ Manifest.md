@@ -2,8 +2,8 @@
 
 ## การตรวจสอบระหว่างใบขนสินค้ากับ Manifest
 
- |ใบขนสินค้า & Manifest|เรือ|รถไฟ|บก|อากาศ|ไปรษณีย์|ผู้โดยสารนำพา|
-|--|:--:|:--:|:--:|:--:|:--:|:--:|
+|ใบขนสินค้า & Manifest|เรือ|รถไฟ|บก|อากาศ|ไปรษณีย์|ผู้โดยสารนำพา|
+|--------|:--------:|:---:|:---:|:----:|:-----:|:--------:|
 |Vessel Name|	Y|	Y|	-|	Y|	-|	-|
 |Discharge Port|Y|	Y|	Y|	Y|	Y|	Y|	
 |Arrival Date|	Y|	Y|	Y|	Y|	Y|	Y|	
@@ -16,5 +16,5 @@
 |Gross Weight Unit(หน่วยของน้ำหนักรวม)|	=|	=|	=|	=|	=|	=|
 |Release Port|	Y|	Y|	Y|	Y|	Y|	Y|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI4MzY4MzVdfQ==
+eyJoaXN0b3J5IjpbLTcwMDQwNzI3OCwtMTczMjgzNjgzNV19
 -->
