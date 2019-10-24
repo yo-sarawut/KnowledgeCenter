@@ -68,8 +68,16 @@
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page22.jpg)
 
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page23.jpg)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page24.jpg)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page25.jpg)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page2.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzODc2MzQ1LC00OTIwOTMyNywtNjA5Nj
-IzODUzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTc0MzY1OTI2OSwzMjM4NzYzNDUsLTQ5Mj
+A5MzI3LC02MDk2MjM4NTMsNzMwOTk4MTE2XX0=
 -->
