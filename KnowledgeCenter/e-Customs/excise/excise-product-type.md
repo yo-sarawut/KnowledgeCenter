@@ -5,8 +5,8 @@
 
 
 | ชนิดสินค้า      |     ชื่อสินค้า |
-|:-----------:|--------------------|
-|ตอนที่ 1 |[สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน](http://edi.excise.go.th/form_search_by_product.php?product_code=0100&search=S&menu=2)|
+|:-----------:|-------------|
+|ตอนที่ 1   |[สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน](http://edi.excise.go.th/form_search_by_product.php?product_code=0100&search=S&menu=2)|
 |ตอนที่ 2| [สินค้าเครื่องดื่ม](http://edi.excise.go.th/form_search_by_product.php?product_code=0200&search=S&menu=2)|
 |ตอนที่ 3| [สินค้าเครื่องไฟฟ้า](http://edi.excise.go.th/form_search_by_product.php?product_code=0300&search=S&menu=2)|
 |ตอนที่ 4 |[สินค้าแบตเตอรี่](http://edi.excise.go.th/form_search_by_product.php?product_code=0400&search=S&menu=2)|
@@ -26,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwOTQwNjQ0LDYwNTE3NTQ0MSwtNTU0MT
-A2MDgsMTI2MDA0NzIwNl19
+eyJoaXN0b3J5IjpbLTgxMzgwMjM1OSw2MDUxNzU0NDEsLTU1ND
+EwNjA4LDEyNjAwNDcyMDZdfQ==
 -->
