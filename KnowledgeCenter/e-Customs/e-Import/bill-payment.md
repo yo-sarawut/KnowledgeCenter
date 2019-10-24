@@ -64,10 +64,12 @@
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page20.jpg)
 
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page21.jpg)
 
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page22.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzkxOTg4LC00OTIwOTMyNywtNjA5Nj
+eyJoaXN0b3J5IjpbMzIzODc2MzQ1LC00OTIwOTMyNywtNjA5Nj
 IzODUzLDczMDk5ODExNl19
 -->
