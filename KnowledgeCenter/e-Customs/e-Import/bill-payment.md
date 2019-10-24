@@ -22,7 +22,16 @@
 
 ที่มา : [กรมศุลกากร](http://www.customs.go.th/cont_strc_faq.php?lang=th&top_menu=menu_homepage&left_menu=menu_center_004&ini_menu=&current_id=14232832404f505f4c464b4a464b47)
 
+## การชำระเงินทางอิเล็กทรอนิกส์
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page1.jpg)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page2.jpg)
+
+![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page1.jpg)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTYyMzg1Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjQwNTAxNDQ2LC02MDk2MjM4NTMsNzMwOT
+k4MTE2XX0=
 -->
