@@ -10,7 +10,15 @@
 
 3.  การชำระโดยระบบ e-Bill Payment ตามประกาศกรมศุลกากรที่ 9/2562 เมื่อชำระเงินและได้รับเลขชำระอากรแล้ว ผู้นำของเข้า ผู้ส่งของออก หรือตัวแทนออกของ สามารถพิมพ์ใบเสร็จรับเงินจากระบบอิเล็กทรอนิกส์ของกรมศุลกากร ผ่านระบบ e-Tracking โดยจะได้ใบเสร็จรับเงิน กศก. 123
 
+![enter image description here](http://www.customs.go.th/data_files/f7b3488dda606fb5962efbe59d43c4ea.png)
+
+![enter image description here](http://www.customs.go.th/data_files/746ccab260dbea1291350ba69be4c5db.png)
+
+![enter image description here](http://www.customs.go.th/data_files/e77b5b9fd395c6eefdebdb51a4809fe3.png)
+
+![enter image description here](http://www.customs.go.th/data_files/d019cb2aa74638012247a42e0cee2415.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTExNDAxNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODQwMDYwNzExLDczMDk5ODExNl19
 -->
