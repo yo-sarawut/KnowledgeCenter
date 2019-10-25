@@ -34,6 +34,8 @@
 
 ที่มา : [กรมศุลกากร](http://www.customs.go.th/cont_strc_faq.php?lang=th&top_menu=menu_homepage&left_menu=menu_center_004&ini_menu=&current_id=14232832404f505f4c464b4a464b47)
 
+# เอกสารประกอบการสัมมนา Digital Customs 2018
+
 ## การชำระเงินทางอิเล็กทรอนิกส์
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page1.jpg)
@@ -92,7 +94,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjExNjE3MjMsLTg5NzYxOTI0LC0xNj
+eyJoaXN0b3J5IjpbLTE1MjM0MTk0NTgsLTg5NzYxOTI0LC0xNj
 MxOTA1MzkzLC0xNTMyMDE1ODQ5LDMyMzg3NjM0NSwtNDkyMDkz
 MjcsLTYwOTYyMzg1Myw3MzA5OTgxMTZdfQ==
 -->
