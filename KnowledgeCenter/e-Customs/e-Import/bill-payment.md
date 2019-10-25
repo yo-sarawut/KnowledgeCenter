@@ -12,7 +12,9 @@
 
 ![enter image description here](http://www.customs.go.th/data_files/f7b3488dda606fb5962efbe59d43c4ea.png)
 
-![enter image description here](http://www.customs.go.th/data_files/746ccab260dbea1291350ba69be4c5db.png)
+![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/e-bill-01.jpg)
+
+![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/e-bill-02.jpg)
 
 ![enter image description here](http://www.customs.go.th/data_files/e77b5b9fd395c6eefdebdb51a4809fe3.png)
 
@@ -80,6 +82,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIwMTU4NDksMzIzODc2MzQ1LC00OT
-IwOTMyNywtNjA5NjIzODUzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE2MzE5MDUzOTMsLTE1MzIwMTU4NDksMz
+IzODc2MzQ1LC00OTIwOTMyNywtNjA5NjIzODUzLDczMDk5ODEx
+Nl19
 -->
