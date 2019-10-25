@@ -2,7 +2,7 @@
 การชำระค่าภาษีอากร ค่าธรรมเนียมศุลกากร 
 ==
 
-
+**การชำระค่าภาษีอากร ค่าธรรมเนียมศุลกากร รายได้อื่น และ/หรือเงินประกันของกรมศุลกากรมี 3 วิธี**
 
 1.   การชำระด้วยตนเองที่หน่วยรับชำระเงินทุกที่ของกรมศุลกากร ทั้งการชำระด้วยเงินสด บัตรเดบิต/เครดิต เช็ค (cheque) บัตรภาษี ฯลฯ  เมื่อชำระเงินแล้วเจ้าหน้าที่ ณ หน่วยการเงินจะออกใบเสร็จรับเงิน กศก. 122 ให้การสั่งจ่ายแคชเชียร์เช็ค หรือ ดร๊าฟท์ ให้เป็นไปตามประกาศกรมศุลกากร ที่ 19/2552 ลงวันที่  9 เมษายน 2552 โดยขีดคร่อม และสั่งจ่าย “กรมศุลกากร (พักรายได้) โดย ... (ชื่อผู้นำของเข้า/ผู้ส่งของออก/อื่น ๆ ...” หรือ The Customs Department (Suspension) by … (name of importer/exporter or etc.)…” กับขีดฆ่าคำว่า “ผู้ถือ” ออก
 
@@ -90,11 +90,15 @@
 
 ![enter image description here](https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/img/bill-payment/e-Billjpg_Page26.jpg)
 
+>สอบถามข้อมูลเพิ่มเติมได้ที่ : ศูนย์บริการศุลกากร สำนักบริหารกลาง (ศบศ. สบก.)  
+กรมศุลกากร เลขที่ 1 ถ.สุนทรโกษา คลองเตย กทม. 10110  
+หมายเลขโทรศัพท์ : 02-667-6867
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM0MTk0NTgsLTg5NzYxOTI0LC0xNj
+eyJoaXN0b3J5IjpbLTExNDM5ODYxMDcsLTg5NzYxOTI0LC0xNj
 MxOTA1MzkzLC0xNTMyMDE1ODQ5LDMyMzg3NjM0NSwtNDkyMDkz
 MjcsLTYwOTYyMzg1Myw3MzA5OTgxMTZdfQ==
 -->
