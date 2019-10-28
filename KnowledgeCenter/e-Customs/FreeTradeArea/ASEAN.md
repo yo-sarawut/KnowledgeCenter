@@ -22,8 +22,8 @@
 |เลขที่ประกาศ|รายละเอียด|
 |:-------:|----------------|
 |207/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 303/2562](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324148505f48464a4e464b49)|
-|114/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505f49464b4d464b4c)|
-|74/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505e4f464a4e464b47)|
+|114/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 187/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505f49464b4d464b4c)|
+|74/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 187/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505e4f464a4e464b47)|
 |303/2561|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 187/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832404f505f4a464b4a464b4b)|
 |187/2560|[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414c505f46464a4f464b4c)|
 |158/2560|[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b49464b46)|
@@ -43,5 +43,6 @@
 >- [สถาบันพระปกเกล้า](http://wiki.kpi.ac.th/index.php?title=%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99)
 >- [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_02&ini_menu=menu_interest_and_law_160421_01&left_menu=menu_fta_and_wto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxOTM5NTJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzk1NjY0MzIsLTE4MDcxOTM5NTJdfQ
+==
 -->
