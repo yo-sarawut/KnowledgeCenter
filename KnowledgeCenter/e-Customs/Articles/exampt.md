@@ -77,8 +77,8 @@
 | 71 |สำนักงานปรมาณูเพื่อสันติ |EXEMPT88 |20171113 |
 | 72 |สำนักงานปรมาณูเพื่อสันติ |EXEMPT99 |20171113 |
 
-> ที่มา : [กรมศุลกากร]
+> ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=list_xdownload.php&left_menu=nmenu_esevice_160901_01&ini_tab=nmenu_esevice_160901_01&ini_content=permitted_and_certificate_02&order_by=co_last_update_datetime&sort_type=0&&tab=nmenu_esevice_160901_01_160901_02&xleft_menu=nmenu_esevice_160901_01_160901_02)
 > ปรับปรุงข้อมูลล่าสุดเมื่อ : วันที่ 21 ตุลาคม 2562
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NDM4ODQzXX0=
+eyJoaXN0b3J5IjpbMTA0MTE0MDAwXX0=
 -->
