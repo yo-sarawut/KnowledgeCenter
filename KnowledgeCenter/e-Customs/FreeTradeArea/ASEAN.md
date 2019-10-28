@@ -13,8 +13,7 @@
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน (ฉบับที่ 2)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f49464b49464b49)
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f49464b49464b48)
 
-
-
+#### ประกาศกรมศุลกากร
 
 |เลขที่ประกาศ|รายละเอียด|
 |:-------:|----------------|
@@ -27,9 +26,18 @@
 |240/2559|[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f48464b4b464a4e)|
 
 
+#### ประกาศสำนักพิกัดอัตราศุลกากร
+
+-   [ประกาศสำนักพิกัดอัตราศุลกากร ที่่ 8/2554 เรื่อง การยื่น Invoice Declaration จากประเทศบรูไน ดารูซาลาม มาเลเซีย และสิงคโปร์ เพื่อผ่านพิธีการศุลกากรในการใช้สิทธิพิเศษทางภาษีศุลกากรในระบบรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน โดยการวางประกัน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f4c464b4c464b49)
+-   [ประกาศสำนักพิกัดอัตราศุลกากร ที่ 2/2559 การระบุใน Form D กรณีการซื้อขายผ่านนายหน้าโดยนายหน้าและผู้ผลิตอยู่ในประเทศเดียวกัน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324148505e4f464b4a464b4c)
+-   [ประกาศสำนักพิกัดอัตราศุลกากร ที่่ 1/2561เรื่อง การสะสมถิ่นกำเนิดสินค้าระหว่าง Form D กับโครงการนำร่องการรับรองถิ่นกำเนิดสินค้าด้วยตนเองของภูมิภาคโครงการที่ 1และโครงการที่ 2 ภายใต้ความตกลงการค้าสินค้าของอาเซียน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414c505f49464b47464b4a)
+-   [ประกาศสำนักพิกัดอัตราศุลกากรที่ 3/2561 เรื่องการตีความคำว่า 'other quanity' ในช่องที่ 9 ของหนังสือรับรองถิ่นกำเนิดสินค้า (Form D) ภายใต้ความตกลงการค้าสินค้าของอาเซียน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414d505f46464a4f464b4b)
+-   [ประกาศกองพิกัดอัตราศุลกากรที่ 10/2562 เรื่อง การใช้ Back-to-Back CO ควบคู่กับการใช้ใบกำกับราคาสินค้า Third Country invoicing ภายใต้ความตกลงการค้าสินค้าของอาเซียน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142328324148505f48464a4e464a4e)
+
+
 > Reference : 
 >- [สถาบันพระปกเกล้า](http://wiki.kpi.ac.th/index.php?title=%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99)
 >- [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_02&ini_menu=menu_interest_and_law_160421_01&left_menu=menu_fta_and_wto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUyOTU4XX0=
+eyJoaXN0b3J5IjpbLTU5NDc0MTQyMl19
 -->
