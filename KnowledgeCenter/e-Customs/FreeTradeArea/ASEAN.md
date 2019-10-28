@@ -13,25 +13,13 @@
 
 
 
-|เลขที่ประกาศ|รายละเอียด
-
-207/2562
-
-[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 303/2562](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324148505f48464a4e464b49)
-
-114/2562
-
-[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505f49464b4d464b4c)
-
-74/2562
-
-[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505e4f464a4e464b47)
-
-303/2561
-
-[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 187/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832404f505f4a464b4a464b4b)
-
-187/2560
+|เลขที่ประกาศ|รายละเอียด|
+|:-------:|----------------|
+|207/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 303/2562](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324148505f48464a4e464b49)|
+|114/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505f49464b4d464b4c)|
+|74/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505e4f464a4e464b47)|
+|303/2561|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 187/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832404f505f4a464b4a464b4b)|
+|187/2560
 
 [หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414c505f46464a4f464b4c)
 
@@ -43,5 +31,5 @@
 
 [หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f48464b4b464a4e)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NTg3ODY2XX0=
+eyJoaXN0b3J5IjpbLTE2MTUyMDg1MV19
 -->
