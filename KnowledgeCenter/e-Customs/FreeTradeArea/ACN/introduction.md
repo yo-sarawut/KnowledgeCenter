@@ -23,6 +23,8 @@
 - สินค้าที่ไม่ลดภาษีลงเหลือร้อยละ 0 มีจำนวน 654 ประเภท ย่อย หรือร้อยละ7.88
 - สินค้าโควตา ผูกพันภายใต้ WTO ในตอนที่ 01 - 08 จำนวน 16 ประเภทย่อย หรือร้อยละ 0.19 ปัจจุบันอัตราอากร ในโควตา เป็นร้อยละ 0 ส่วนที่เหลือ ยังเจรจาไม่เสร็จสิ้น
 
+ตรวจสอบอัตราอากรขาเข้า และประเทศที่ได้รับสิทธิประโยชน์แยกตามพิกัด
+
 #### Rules of Origin
 
 -   [กฎว่าด้วยถิ่นกำเนิดสินค้าสำหรับเขตการค้าเสรีอาเซียน-จีน](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14232a32414b505f48464b4b)
@@ -63,6 +65,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA3MDQzNzAsMTYyMTI4NDAxMCwxNz
-c0NDU3NTg4LC0xNTYyMjY5MjI3XX0=
+eyJoaXN0b3J5IjpbMTM3NzA1MjIwNiwtMTc4MDcwNDM3MCwxNj
+IxMjg0MDEwLDE3NzQ0NTc1ODgsLTE1NjIyNjkyMjddfQ==
 -->
