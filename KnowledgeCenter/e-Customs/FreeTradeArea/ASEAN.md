@@ -19,17 +19,14 @@
 |114/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505f49464b4d464b4c)|
 |74/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ ๑๘๗/๒๕๖๐](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505e4f464a4e464b47)|
 |303/2561|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 187/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832404f505f4a464b4a464b4b)|
-|187/2560
+|187/2560|[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414c505f46464a4f464b4c)|
+|158/2560|[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b49464b46)|
+|240/2559|[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f48464b4b464a4e)|
 
-[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414c505f46464a4f464b4c)
 
-158/2560
-
-[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b49464b46)
-
-240/2559
-
-[หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f48464b4b464a4e)
+> Reference : 
+>- [กรมเจรจาการค้าระหว่างประเทศ)](http://www.thaifta.com/ThaiFTA/Home/FTAbyCountry/tabid/53/ctl/detail/id/4/mid/480/usemastercontainer/true/Default.aspx)
+>- [กรมศุลกากร](http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_02&ini_menu=menu_interest_and_law_160421_01&left_menu=menu_fta_and_wto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUyMDg1MV19
+eyJoaXN0b3J5IjpbLTE3MzQ4OTY1MTddfQ==
 -->
