@@ -14,6 +14,8 @@
 - ส่งข้อมูลตารางโอนสิทธิ์
 - ส่งข้อมูลขอชำระอากรวัตถุดิบคงเหลือ
 - ปรับปรุงการคืนอากรโดยการโอนเงินเข้าบัญชีธนาคาร
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1NjczNTUxXX0=
+eyJoaXN0b3J5IjpbMTAwMjE5NzAzNSw0NTU2NzM1NTFdfQ==
 -->
