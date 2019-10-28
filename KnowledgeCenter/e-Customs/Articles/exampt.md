@@ -78,10 +78,10 @@
 | 72 |สำนักงานปรมาณูเพื่อสันติ |EXEMPT99 |20171113 |
 
 
-
+## คำอธิบาย
 
 | รหัสยกเว้น |คำอธิบาย |
-|----------|----------|
+|:-------:|----------|
 | EXEMPT1 |ไม่ต้องมีใบอนุญาต/ใบรับรอง เนื่องจากเป็นส่วนราชการ หรือรัฐวิสาหกิจ เป็นต้น |
 | EXEMPT2 |ไม่ต้องมีใบอนุญาต/ใบรับรอง เนื่องจากวัตถุประสงค์การนำไปใช้งานไม่ต้องขอใบอนุญาต/ใบรับรอง เช่น เป็นของตัวอย่าง หรือนำเข้าเพื่อการศึกษา เป็นต้น |
 | EXEMPT3 |ไม่ต้องมีใบอนุญาต/ใบรับรอง เนื่องจากมีกฎหมายอื่นควบคุมและได้รับอนุญาตจากหน่วยงานที่ควบคุมแล้ว |
@@ -95,5 +95,5 @@
 > ที่มา : [กรมศุลกากร](http://www.customs.go.th/list_multi_tab.php?link=list_xdownload.php&left_menu=nmenu_esevice_160901_01&ini_tab=nmenu_esevice_160901_01&ini_content=permitted_and_certificate_02&order_by=co_last_update_datetime&sort_type=0&&tab=nmenu_esevice_160901_01_160901_02&xleft_menu=nmenu_esevice_160901_01_160901_02)
 > ปรับปรุงข้อมูลล่าสุดเมื่อ : วันที่ 21 ตุลาคม 2562
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjIwMTIwNCwxMDQxMTQwMDBdfQ==
+eyJoaXN0b3J5IjpbMTgzMjU0Nzg2OSwxMDQxMTQwMDBdfQ==
 -->
