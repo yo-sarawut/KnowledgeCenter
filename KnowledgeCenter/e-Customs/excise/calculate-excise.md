@@ -11,6 +11,8 @@
 
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/alcohol-02.jpg)
 
+![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/alcohol-02.jpg)
+
 
 ## ยาสูบ
 
@@ -67,6 +69,7 @@
 ![enter image description here](https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-02.jpg)
 ![enter image description here](https://github.com/yosarawut/e-TaxIncentive/raw/master/img/concentrated-drink-03.jpg) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUzNjc5ODUsLTc5ODQzMDIxOSwtMj
-EyMTM1NDI2MywtNzE2MzA5NDUsLTEwODc2NzMyMzVdfQ==
+eyJoaXN0b3J5IjpbODUzODY1NzgzLC0yMDk1MzY3OTg1LC03OT
+g0MzAyMTksLTIxMjEzNTQyNjMsLTcxNjMwOTQ1LC0xMDg3Njcz
+MjM1XX0=
 -->
