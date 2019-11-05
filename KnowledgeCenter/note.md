@@ -5,7 +5,11 @@ Knowledge Center (GitHub)
 - [e-Import-manual](https://github.com/yosarawut/KnowledgeCenter/tree/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img)
 - [e-tax-incentive](https://github.com/yosarawut/KnowledgeCenter/tree/master/img/e-tax-incentive)
 
+![enter image description here](https://github.com/yosarawut/knowledge-base/raw/master/img/cover-knowledge.png)
+
 ![enter image description here](https://github.com/yosarawut/knowledge-base/raw/master/img/cover-knowledge-2.png)
+
+![enter image description here](https://github.com/yosarawut/knowledge-base/raw/master/img/cover-knowledge-3.png)
 
 ## Link
 <a id='top'></a>
@@ -48,7 +52,7 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxMDkwNjgyLC0yNTk3NjEwMjUsMTYwOD
-A1MDU4OCwxOTk5NjY4NzExLC0xOTcyNzI5MDQxLC05Mzg3NTgw
-MzUsLTE1NzYxNTkyNjYsMzE1Njg2MDk4XX0=
+eyJoaXN0b3J5IjpbMTQ1NzAyMDk1OCwtMjU5NzYxMDI1LDE2MD
+gwNTA1ODgsMTk5OTY2ODcxMSwtMTk3MjcyOTA0MSwtOTM4NzU4
+MDM1LC0xNTc2MTU5MjY2LDMxNTY4NjA5OF19
 -->
