@@ -6,14 +6,13 @@
   
 ## AEO คืออะไร ?
 
-องค์การศุลกากรโลกได้ให้คำนิยามไว้ว่า **“AEO is a party involved in the international movement of goods in whatever function that has been approved by or on behalf of a national Customs Administrations as complying with WCO or equivalent supply chain security standards”** องค์กรหรือบริษัทที่มีหน้าที่เกี่ยวข้องกับการเคลื่อนย้ายสินค้า โดยได้รับการรับรองจากศุลกากรของแต่ละประเทศว่าได้ปฏิบัติตามกรอบมาตรฐานของ WCOหรือมาตรฐานอื่นที่เทียบเท่าในเรื่องการรักษาความปลอดภัยในห่วงโซ่อุปทาน ทั้งนี้ ผู้เกี่ยวข้องในห่วงโซ่อุปทาน รวมถึง ผู้ผลิต ผู้นำเข้า ผู้ส่งออก ตัวแทนออกของ ผู้ขนส่ง ผู้รวบรวมสินค้า ท่าเรือ ท่าอากาศยาน ผู้ประกอบการกิจการท่ารถ เจ้าของโรงพักสินค้า ตัวแทนจำหน่ายสินค้า เป็นต้น
+องค์การศุลกากรโลกได้ให้คำนิยามไว้ว่า **“AEO is a party involved in the international movement of goods in whatever function that has been approved by or on behalf of a national Customs Administrations as complying with WCO or equivalent supply chain security standards”** องค์กรหรือบริษัทที่มีหน้าที่เกี่ยวข้องกับการเคลื่อนย้ายสินค้า โดยได้รับการรับรองจากศุลกากรของแต่ละประเทศว่าได้ปฏิบัติตามกรอบมาตรฐานของ WCO หรือมาตรฐานอื่นที่เทียบเท่าในเรื่องการรักษาความปลอดภัยในห่วงโซ่อุปทาน ทั้งนี้ ผู้เกี่ยวข้องในห่วงโซ่อุปทาน รวมถึง ผู้ผลิต ผู้นำเข้า ผู้ส่งออก ตัวแทนออกของ ผู้ขนส่ง ผู้รวบรวมสินค้า ท่าเรือ ท่าอากาศยาน ผู้ประกอบการกิจการท่ารถ เจ้าของโรงพักสินค้า ตัวแทนจำหน่ายสินค้า เป็นต้น
 
 
-โดยที่ AEO ไม่จำกัดเฉพาะผู้นำของเข้า ผู้ส่งของออกเท่านั้น แต่ยังหมายรวมไปถึงทุกกลุ่มคณะองค์กร หรือผู้ประกอบการที่มีการติดต่อกับศุลกากรและมีส่วนเกี่ยวข้องกับห่วงโซ่อุปทานการค้าระหว่างประเทศทั้งหมด
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE1MzM0MTIsLTExNjAzMTY3MjksNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM3NzcyMTkwNiwtMTE2MDMxNjcyOSw3Mz
+A5OTgxMTZdfQ==
 -->
