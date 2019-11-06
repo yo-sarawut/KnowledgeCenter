@@ -35,15 +35,22 @@
 |ลำดับ|	รายละเอียด|	วันที่เอกสาร|
 |--|----------------|:-------------:|
 |1| [หน่วยงานศุลกากรคู่ความตกลงตามความตกลงยอมรับร่วมกัน สำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ (ฉบับที่ 2)](http://aeo.customs.go.th/cont_strc_announce.php?lang=th&top_menu=menu_homepage&current_id=14232b324147505f46)|	29 ต.ค. 62|	
-|2 |[หน่วยงานศุลกากรคู่ความตกลงตามความตกลงยอมรับร่วมกัน สำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ]()|23 ส.ค. 62|
-|3 |การปฏิบัติพิธีการนำของเข้า ส่งของออก สำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ	|23 ส.ค. 62|	
+|2 |[หน่วยงานศุลกากรคู่ความตกลงตามความตกลงยอมรับร่วมกัน สำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ](http://aeo.customs.go.th/cont_strc_announce.php?lang=th&top_menu=menu_homepage&current_id=14232b324146505f46)|23 ส.ค. 62|
+|3 |[การปฏิบัติพิธีการนำของเข้า ส่งของออก สำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ](http://aeo.customs.go.th/cont_strc_announce.php?lang=th&top_menu=menu_homepage&current_id=14232b324146505e4e)	|23 ส.ค. 62|	
 
 
 ## เอกสารที่เกี่ยวข้อง
 - เอกสารประกอบการบรรยาย โครงการอบรมชี้แจงการปฏิบัติพิธีการศุลกากรนำของเข้า ส่งของออก สำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ [Downloads](https://drive.google.com/file/d/1-o94dmo0yd5dyUis0MoiOvnPERW23PqM/view)
 
+
+**สอบถามข้อมูลเพิ่มเติม**ได้ที่ : ส่วนมาตรฐานเออีโอ
+กองมาตรฐานพิธีการและราคาศุลกากร อาคาร 120 ปี ชั้น 1
+กรมศุลกากร เลขที่ 1 ถนนสุนทรโกษา คลองเตย กทม. 10110
+หมายเลขโทรศัพท์ : 02-667-7168 02-667-7902
+อีเมล์ : aeodiv2014@gmail.com
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDQxMTk3NywxNDkzMDk5MzEyLDIxMT
-M2MjU2NDMsMjA4Nzg1NDk3OCw2NTk5MzQwNzQsLTExNjAzMTY3
-MjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MDc4MDU5ODYsMTQ5MzA5OTMxMiwyMT
+EzNjI1NjQzLDIwODc4NTQ5NzgsNjU5OTM0MDc0LC0xMTYwMzE2
+NzI5LDczMDk5ODExNl19
 -->
