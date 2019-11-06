@@ -19,9 +19,11 @@
 7. ระบบการตรวจสอบและสืบสวนเหตุการณ์ที่เกิดขึ้น
 8. ระบบการจัดการเมื่อเกิดวิกฤตการณ์และแนวทางดำเนินการแก้ไข
 
+![มาตรฐานรักษาความปลอดภัย 8 ด้าน](http://aeo.customs.go.th/data_files/27550f638db1f32374d4c52b235a59bb.jpg)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Nzg1NDk3OCw2NTk5MzQwNzQsLTExNj
-AzMTY3MjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjExMzYyNTY0MywyMDg3ODU0OTc4LDY1OT
+kzNDA3NCwtMTE2MDMxNjcyOSw3MzA5OTgxMTZdfQ==
 -->
