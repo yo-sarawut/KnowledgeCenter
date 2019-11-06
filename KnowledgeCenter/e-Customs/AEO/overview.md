@@ -22,8 +22,11 @@
 ![มาตรฐานรักษาความปลอดภัย 8 ด้าน](http://aeo.customs.go.th/data_files/27550f638db1f32374d4c52b235a59bb.jpg)
 
 
+## เอกสารที่เกี่ยวข้อง
+- เอกสารประกอบการบรรยาย โครงการอบรมชี้แจงการปฏิบัติพิธีการศุลกากรนำของเข้า ส่งของออก สำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ [Downloads](https://drive.google.com/file/d/1-o94dmo0yd5dyUis0MoiOvnPERW23PqM/view)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzYyNTY0MywyMDg3ODU0OTc4LDY1OT
-kzNDA3NCwtMTE2MDMxNjcyOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ5MzA5OTMxMiwyMTEzNjI1NjQzLDIwOD
+c4NTQ5NzgsNjU5OTM0MDc0LC0xMTYwMzE2NzI5LDczMDk5ODEx
+Nl19
 -->
