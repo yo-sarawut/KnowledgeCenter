@@ -1,6 +1,11 @@
 Knowledge Center (GitHub)
 ===
 
+## Color
+
+- #FF6600
+
+
 ## upload image
 - [e-Import-manual](https://github.com/yosarawut/KnowledgeCenter/tree/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img)
 - [e-tax-incentive](https://github.com/yosarawut/KnowledgeCenter/tree/master/img/e-tax-incentive)
@@ -52,7 +57,8 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzAyMDk1OCwtMjU5NzYxMDI1LDE2MD
-gwNTA1ODgsMTk5OTY2ODcxMSwtMTk3MjcyOTA0MSwtOTM4NzU4
-MDM1LC0xNTc2MTU5MjY2LDMxNTY4NjA5OF19
+eyJoaXN0b3J5IjpbNDM5MzE4NTcxLDE0NTcwMjA5NTgsLTI1OT
+c2MTAyNSwxNjA4MDUwNTg4LDE5OTk2Njg3MTEsLTE5NzI3Mjkw
+NDEsLTkzODc1ODAzNSwtMTU3NjE1OTI2NiwzMTU2ODYwOThdfQ
+==
 -->
