@@ -1,0 +1,7 @@
+
+- [Demurrage Charge, Detention Charge, Storage Charge/Rent คืออะไร](http://www.march.co.th/what-is-demurrage-charge-detention-charge-storage-charge-rent/)
+
+> Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA2NDM2MTEyN119
+-->
