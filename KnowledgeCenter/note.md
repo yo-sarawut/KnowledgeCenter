@@ -23,15 +23,7 @@ Knowledge Center (GitHub)
 |------------|--------------|------------|--------------|
 |![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "Color Image")|#FFFFCC #FFFFCC |[yellow green](https://www.colorcombos.com/tags/colors/yellow-green)|
 
-![FFCC33.png](https://www.colorcombos.com/images/colors/hex/FFCC33.png "#FFCC33 Color Image")|
-
--   Hex:  [#FFCC33](https://www.colorcombos.com/colors/FFCC33)
--   RGB:  255, 204, 51
--   CMYK:  0, 20, 80, 0
--   HSV:  45, 80, 100
-
--   [FFCC33](https://www.colorcombos.com/tags/colors/FFCC33)
--   [orange yellow](https://www.colorcombos.com/tags/colors/orange-yellow)
+![FFCC33.png](https://www.colorcombos.com/images/colors/hex/FFCC33.png "#FFCC33 Color Image")  |Hex:  [#FFCC33](https://www.colorcombos.com/colors/FFCC33)|  [orange yellow](https://www.colorcombos.com/tags/colors/orange-yellow)|
 -   [sunglow](https://www.colorcombos.com/tags/colors/sunglow)
 
 [![FF6600.png](https://www.colorcombos.com/images/colors/hex/FF6600.png "#FF6600 Color Image")](https://www.colorcombos.com/colors/FF6600)
@@ -111,8 +103,8 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mjg3ODc5LDQzOTMxODU3MSwxNDU3MD
-IwOTU4LC0yNTk3NjEwMjUsMTYwODA1MDU4OCwxOTk5NjY4NzEx
-LC0xOTcyNzI5MDQxLC05Mzg3NTgwMzUsLTE1NzYxNTkyNjYsMz
-E1Njg2MDk4XX0=
+eyJoaXN0b3J5IjpbLTE5MzkyNTc2NzksNDM5MzE4NTcxLDE0NT
+cwMjA5NTgsLTI1OTc2MTAyNSwxNjA4MDUwNTg4LDE5OTk2Njg3
+MTEsLTE5NzI3MjkwNDEsLTkzODc1ODAzNSwtMTU3NjE1OTI2Ni
+wzMTU2ODYwOThdfQ==
 -->
