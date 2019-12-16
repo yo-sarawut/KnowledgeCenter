@@ -17,7 +17,7 @@ Knowledge Center (GitHub)
 ![enter image description here](https://github.com/yosarawut/knowledge-base/raw/master/img/cover-knowledge-3.png)
 
 
-## ECS # [ColorCombo](https://www.colorcombos.com/color-schemes/1263/ColorCombo1263-with-colors-FFFFCC-FFCC33-FF6600-A45209-533419 "ColorCombo1263 with Hex Colors #FFFFCC #FFCC33 #FF6600 #A45209 #533419")
+## [ECS ColorCombo](https://www.colorcombos.com/color-schemes/1263/ColorCombo1263-with-colors-FFFFCC-FFCC33-FF6600-A45209-533419 "ColorCombo1263 with Hex Colors #FFFFCC #FFCC33 #FF6600 #A45209 #533419")
 
 
 |Color Images|Color Codes|Tags|
@@ -77,7 +77,7 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc3MjcxMjEsNDM5MzE4NTcxLDE0NT
+eyJoaXN0b3J5IjpbLTE3NjIyMTYyMjIsNDM5MzE4NTcxLDE0NT
 cwMjA5NTgsLTI1OTc2MTAyNSwxNjA4MDUwNTg4LDE5OTk2Njg3
 MTEsLTE5NzI3MjkwNDEsLTkzODc1ODAzNSwtMTU3NjE1OTI2Ni
 wzMTU2ODYwOThdfQ==
