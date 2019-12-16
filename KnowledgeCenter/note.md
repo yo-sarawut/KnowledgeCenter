@@ -21,13 +21,9 @@ Knowledge Center (GitHub)
 
 |Color Images|Color Codes|Tags|
 |------------|--------------|------------|--------------|
-|![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "#FFFFCC Color Image")-   RGB:  255, 255, 204.  -   CMYK:  0, 0, 20, 0-   HSV:  60, 20, 100|
+|![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "Color Image")|#FFFFCC #FFFFCC |[yellow green](https://www.colorcombos.com/tags/colors/yellow-green)|
 
--   [cream](https://www.colorcombos.com/tags/colors/cream)
--   [FFFFCC](https://www.colorcombos.com/tags/colors/FFFFCC)
--   [yellow green](https://www.colorcombos.com/tags/colors/yellow-green)|
-
-[![FFCC33.png](https://www.colorcombos.com/images/colors/hex/FFCC33.png "#FFCC33 Color Image")](https://www.colorcombos.com/colors/FFCC33)
+![FFCC33.png](https://www.colorcombos.com/images/colors/hex/FFCC33.png "#FFCC33 Color Image")|
 
 -   Hex:  [#FFCC33](https://www.colorcombos.com/colors/FFCC33)
 -   RGB:  255, 204, 51
@@ -115,7 +111,7 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTU4OTQzLDQzOTMxODU3MSwxNDU3MD
+eyJoaXN0b3J5IjpbLTQ2Mjg3ODc5LDQzOTMxODU3MSwxNDU3MD
 IwOTU4LC0yNTk3NjEwMjUsMTYwODA1MDU4OCwxOTk5NjY4NzEx
 LC0xOTcyNzI5MDQxLC05Mzg3NTgwMzUsLTE1NzYxNTkyNjYsMz
 E1Njg2MDk4XX0=
