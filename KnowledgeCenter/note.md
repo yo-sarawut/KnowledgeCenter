@@ -21,8 +21,9 @@ Knowledge Center (GitHub)
 
 |Color Images|Color Codes|Tags|
 |------------|--------------|------------|--------------|
-|![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "Color Image")|#FFFFCC|   |
-
+|![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "Color Image")|#FFFFCC| yellow green  |
+|
+![FFCC33.png](https://www.colorcombos.com/images/colors/hex/FFCC33.png)| #FFCC33 |  [sunglow](https://www.colorcombos.com/tags/colors/sunglow)  |
 
 |![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "Color Image")|#FFFFCC |[yellow green](https://www.colorcombos.com/tags/colors/yellow-green)|
 
@@ -106,7 +107,7 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTYxMjIyNyw0MzkzMTg1NzEsMTQ1Nz
+eyJoaXN0b3J5IjpbMjA3NjMwNTYwNSw0MzkzMTg1NzEsMTQ1Nz
 AyMDk1OCwtMjU5NzYxMDI1LDE2MDgwNTA1ODgsMTk5OTY2ODcx
 MSwtMTk3MjcyOTA0MSwtOTM4NzU4MDM1LC0xNTc2MTU5MjY2LD
 MxNTY4NjA5OF19
