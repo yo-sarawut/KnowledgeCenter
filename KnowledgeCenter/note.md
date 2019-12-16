@@ -24,9 +24,7 @@ Knowledge Center (GitHub)
 |![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "Color Image")|#FFFFCC| [yellow green](https://www.colorcombos.com/tags/colors/yellow-green)  |
 |
 ![FFCC33.png](https://www.colorcombos.com/images/colors/hex/FFCC33.png)| #FFCC33 |  [sunglow](https://www.colorcombos.com/tags/colors/sunglow)|
-
-|
-![FF6600.png](https://www.colorcombos.com/images/colors/hex/FF6600.png|
+| ![FF6600.png](https://www.colorcombos.com/images/colors/hex/FF6600.png)| Hex:  [#FF6600](https://www.colorcombos.com/colors/FF6600) |  [orange red](https://www.colorcombos.com/tags/colors/orange-red) |
 
 
 
@@ -113,8 +111,8 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjEzNjY2Miw0MzkzMTg1NzEsMTQ1Nz
-AyMDk1OCwtMjU5NzYxMDI1LDE2MDgwNTA1ODgsMTk5OTY2ODcx
-MSwtMTk3MjcyOTA0MSwtOTM4NzU4MDM1LC0xNTc2MTU5MjY2LD
-MxNTY4NjA5OF19
+eyJoaXN0b3J5IjpbMjA0NjM4MTI0LDQzOTMxODU3MSwxNDU3MD
+IwOTU4LC0yNTk3NjEwMjUsMTYwODA1MDU4OCwxOTk5NjY4NzEx
+LC0xOTcyNzI5MDQxLC05Mzg3NTgwMzUsLTE1NzYxNTkyNjYsMz
+E1Njg2MDk4XX0=
 -->
