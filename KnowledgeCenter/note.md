@@ -16,6 +16,71 @@ Knowledge Center (GitHub)
 
 ![enter image description here](https://github.com/yosarawut/knowledge-base/raw/master/img/cover-knowledge-3.png)
 
+
+|  |  |
+|--|--|
+|  |  |
+
+|Color Images|Color Codes|Tags|
+|--|--|
+[![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "#FFFFCC Color Image")](https://www.colorcombos.com/colors/FFFFCC)
+
+-   Hex:  [#FFFFCC](https://www.colorcombos.com/colors/FFFFCC)
+-   RGB:  255, 255, 204
+-   CMYK:  0, 0, 20, 0
+-   HSV:  60, 20, 100
+
+-   [cream](https://www.colorcombos.com/tags/colors/cream)
+-   [FFFFCC](https://www.colorcombos.com/tags/colors/FFFFCC)
+-   [yellow green](https://www.colorcombos.com/tags/colors/yellow-green)
+
+[![FFCC33.png](https://www.colorcombos.com/images/colors/hex/FFCC33.png "#FFCC33 Color Image")](https://www.colorcombos.com/colors/FFCC33)
+
+-   Hex:  [#FFCC33](https://www.colorcombos.com/colors/FFCC33)
+-   RGB:  255, 204, 51
+-   CMYK:  0, 20, 80, 0
+-   HSV:  45, 80, 100
+
+-   [FFCC33](https://www.colorcombos.com/tags/colors/FFCC33)
+-   [orange yellow](https://www.colorcombos.com/tags/colors/orange-yellow)
+-   [sunglow](https://www.colorcombos.com/tags/colors/sunglow)
+
+[![FF6600.png](https://www.colorcombos.com/images/colors/hex/FF6600.png "#FF6600 Color Image")](https://www.colorcombos.com/colors/FF6600)
+
+-   Hex:  [#FF6600](https://www.colorcombos.com/colors/FF6600)
+-   RGB:  255, 102, 0
+-   CMYK:  0, 60, 100, 0
+-   HSV:  24, 100, 100
+
+-   [blaze orange](https://www.colorcombos.com/tags/colors/blaze-orange)
+-   [FF6600](https://www.colorcombos.com/tags/colors/FF6600)
+-   [orange red](https://www.colorcombos.com/tags/colors/orange-red)
+
+[![A45209.png](https://www.colorcombos.com/images/colors/hex/A45209.png "#A45209 Color Image")](https://www.colorcombos.com/colors/A45209)
+
+-   Hex:  [#A45209](https://www.colorcombos.com/colors/A45209)
+-   RGB:  164, 82, 9
+-   CMYK:  0, 50, 94.5, 35.7
+-   HSV:  28, 95, 64
+
+-   [A45209](https://www.colorcombos.com/tags/colors/A45209)
+-   [orange red](https://www.colorcombos.com/tags/colors/orange-red)
+-   [rich gold](https://www.colorcombos.com/tags/colors/rich-gold)
+
+[![533419.png](https://www.colorcombos.com/images/colors/hex/533419.png "#533419 Color Image")](https://www.colorcombos.com/colors/533419)
+
+-   Hex:  [#533419](https://www.colorcombos.com/colors/533419)
+-   RGB:  83, 52, 25
+-   CMYK:  0, 37.3, 69.9, 67.5
+-   HSV:  28, 70, 33
+
+-   [533419](https://www.colorcombos.com/tags/colors/533419)
+-   [brown derby](https://www.colorcombos.com/tags/colors/brown-derby)
+-   [orange red](https://www.colorcombos.com/tags/colors/orange-red)
+
+
+
+
 ## Link
 <a id='top'></a>
 [e-customs][1]  
@@ -57,8 +122,8 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5MzE4NTcxLDE0NTcwMjA5NTgsLTI1OT
-c2MTAyNSwxNjA4MDUwNTg4LDE5OTk2Njg3MTEsLTE5NzI3Mjkw
-NDEsLTkzODc1ODAzNSwtMTU3NjE1OTI2NiwzMTU2ODYwOThdfQ
-==
+eyJoaXN0b3J5IjpbMTQ0MTMwNzU3MCw0MzkzMTg1NzEsMTQ1Nz
+AyMDk1OCwtMjU5NzYxMDI1LDE2MDgwNTA1ODgsMTk5OTY2ODcx
+MSwtMTk3MjcyOTA0MSwtOTM4NzU4MDM1LC0xNTc2MTU5MjY2LD
+MxNTY4NjA5OF19
 -->
