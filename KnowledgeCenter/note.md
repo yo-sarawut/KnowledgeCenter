@@ -21,9 +21,7 @@ Knowledge Center (GitHub)
 
 |Color Images|Color Codes|Tags|
 |------------|--------------|------------|--------------|
-|![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "#FFFFCC Color Image")](https://www.colorcombos.com/colors/FFFFCC)|-   Hex:  [#FFFFCC](https://www.colorcombos.com/colors/FFFFCC)-   RGB:  255, 255, 204
--   CMYK:  0, 0, 20, 0
--   HSV:  60, 20, 100|
+|![FFFFCC.png](https://www.colorcombos.com/images/colors/hex/FFFFCC.png "#FFFFCC Color Image")-   RGB:  255, 255, 204.  -   CMYK:  0, 0, 20, 0-   HSV:  60, 20, 100|
 
 -   [cream](https://www.colorcombos.com/tags/colors/cream)
 -   [FFFFCC](https://www.colorcombos.com/tags/colors/FFFFCC)
@@ -117,8 +115,8 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkyNzg3NDEsNDM5MzE4NTcxLDE0NT
-cwMjA5NTgsLTI1OTc2MTAyNSwxNjA4MDUwNTg4LDE5OTk2Njg3
-MTEsLTE5NzI3MjkwNDEsLTkzODc1ODAzNSwtMTU3NjE1OTI2Ni
-wzMTU2ODYwOThdfQ==
+eyJoaXN0b3J5IjpbNzQ4NTU4OTQzLDQzOTMxODU3MSwxNDU3MD
+IwOTU4LC0yNTk3NjEwMjUsMTYwODA1MDU4OCwxOTk5NjY4NzEx
+LC0xOTcyNzI5MDQxLC05Mzg3NTgwMzUsLTE1NzYxNTkyNjYsMz
+E1Njg2MDk4XX0=
 -->
