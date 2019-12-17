@@ -4,7 +4,7 @@ Knowledge Center (GitHub)
 ## เรื่องน่าสนใจ
 
 - [ประเดนคำถาม-คําตอบ ในการเสวนาหัวข้อ  “ปัญหาการปฏิบัติพิธีการศุลกากรที่เกี่ยวข้องกับกิจการที่ได้รับการส่งเสริมการลงทุน” 22 มี.ค. 60](https://www.boi.go.th/upload/content/QuestionAnswer_32263.pdf)
-- [พระราชบัญญัติศุลกากร พ.ศ. ๒๕๖๐]
+- [พระราชบัญญัติศุลกากร พ.ศ. ๒๕๖๐](https://laws.customselp.com/Article)
 
 
 ## upload image
@@ -78,8 +78,8 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMxNjM1OTgsLTE3NjIyMTYyMjIsND
-M5MzE4NTcxLDE0NTcwMjA5NTgsLTI1OTc2MTAyNSwxNjA4MDUw
-NTg4LDE5OTk2Njg3MTEsLTE5NzI3MjkwNDEsLTkzODc1ODAzNS
-wtMTU3NjE1OTI2NiwzMTU2ODYwOThdfQ==
+eyJoaXN0b3J5IjpbLTgxMDM3MDc2MiwtMTc2MjIxNjIyMiw0Mz
+kzMTg1NzEsMTQ1NzAyMDk1OCwtMjU5NzYxMDI1LDE2MDgwNTA1
+ODgsMTk5OTY2ODcxMSwtMTk3MjcyOTA0MSwtOTM4NzU4MDM1LC
+0xNTc2MTU5MjY2LDMxNTY4NjA5OF19
 -->
