@@ -5,7 +5,11 @@ Knowledge Center (GitHub)
 
 - [ประเดนคำถาม-คําตอบ ในการเสวนาหัวข้อ  “ปัญหาการปฏิบัติพิธีการศุลกากรที่เกี่ยวข้องกับกิจการที่ได้รับการส่งเสริมการลงทุน” 22 มี.ค. 60](https://www.boi.go.th/upload/content/QuestionAnswer_32263.pdf)
 - [พระราชบัญญัติศุลกากร พ.ศ. ๒๕๖๐](https://laws.customselp.com/Article)
-
+## Incoterm 2020
+- [https://www.nationtv.tv/main/content/378744602/](https://www.nationtv.tv/main/content/378744602/)
+- [https://www.dachser.co.th/th/mediaroom/market-information-3028](https://www.dachser.co.th/th/mediaroom/market-information-3028)
+- [https://www.dachser.co.th/th/mediaroom/downloads/Hong%20Kong/Incoterms2020.pdf](https://www.dachser.co.th/th/mediaroom/downloads/Hong%20Kong/Incoterms2020.pdf)
+- [http://www.ic.or.th/th/ICNews/19/ICeNewsletter_June2019.pdf](http://www.ic.or.th/th/ICNews/19/ICeNewsletter_June2019.pdf)
 
 ## upload image
 - [e-Import-manual](https://github.com/yosarawut/KnowledgeCenter/tree/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img)
@@ -78,8 +82,8 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDM3MDc2MiwtMTc2MjIxNjIyMiw0Mz
-kzMTg1NzEsMTQ1NzAyMDk1OCwtMjU5NzYxMDI1LDE2MDgwNTA1
-ODgsMTk5OTY2ODcxMSwtMTk3MjcyOTA0MSwtOTM4NzU4MDM1LC
-0xNTc2MTU5MjY2LDMxNTY4NjA5OF19
+eyJoaXN0b3J5IjpbMTIzNDA4Mjk5LC04MTAzNzA3NjIsLTE3Nj
+IyMTYyMjIsNDM5MzE4NTcxLDE0NTcwMjA5NTgsLTI1OTc2MTAy
+NSwxNjA4MDUwNTg4LDE5OTk2Njg3MTEsLTE5NzI3MjkwNDEsLT
+kzODc1ODAzNSwtMTU3NjE1OTI2NiwzMTU2ODYwOThdfQ==
 -->
