@@ -64,6 +64,8 @@
 
 > คลินิกสิทธิประโยชน์ (Tax Incentives Clinic) ชั้น ๒ อาคารเฉลิมพระเกียรติ กรมศุลกากร โทร 02667-7000 ต่อ 5179 อีเมลล์ taxinclinic@gmail.com หรือ thaicustoms.freezone@gmail.com
 
+- [ประกาศกรมศุลกากร ที่ 114/2561 เรื่อง การกำหนดประเภทหรือชนิดแห่งของที่จะนำเข้าไปในเขตปลอดอากร และการควบคุมของที่มีความเสี่ยง](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f4a464b4d464b48)
+- [ประกาศกรมศุลกากร ที่ 115 /2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การปฏิบัติพิธีการศุลกากรนำของเข้าไปในหรือปล่อยของออก การเก็บของ การขนถ่ายของ การตรวจตราและการควบคุมในเขตปลอดอากร](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414d505f4a464b4d464b49)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NjM0MTkzLDExMjUxMzUwNzVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjY1Njc4MzgsMTEyNTEzNTA3NV19
 -->
