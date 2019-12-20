@@ -60,6 +60,9 @@
 		-   ขาดทุนเกินร้อยละ 50 ของทุนจดทะเบียนให้วางค้ำประกันร้อยละ 1 ของมูลค่าของคงเหลือ
 
 4.  ปฏิบัติตามกฎหมาย ระเบียบ ข้อบังคับหรือประกาศกรมศุลกากร อย่างเคร่งครัด
+
+
+> คลินิกสิทธิประโยชน์ (Tax Incentives Clinic) ชั้น ๒ อาคารเฉลิมพระเกียรติ กรมศุลกากร โทร 02667-7000 ต่อ 5179 อีเมลล์ taxinclinic@gmail.com หรือ thaicustoms.freezone@gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTk0Mjc5NF19
+eyJoaXN0b3J5IjpbMTEyNTEzNTA3NV19
 -->
