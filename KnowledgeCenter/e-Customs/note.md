@@ -57,36 +57,10 @@
 |7|[กฎกระทรวงการกำหนดและการใช้ราคาศุลกากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464a4e)|16 พฤศจิกายน 2560 |
 |8|[กฎกระทรวงการอนุญาตจัดตั้งและเลิกการดำเนินการคลังสินค้าทัณฑ์บน โรงพักสินค้า ที่มั่นคง และท่าเรือรับอนุญาต พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4c)|16 พฤศจิกายน 2560 |
 |9|[กฎกระทรวงการอนุญาตจัดตั้งและการเลิกดำเนินการเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4b)|16 พฤศจิกายน 2560 |
-|
-
-
-10
-
-[กฎกระทรวงการอนุญาตประกอบกิจการในเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4a)
-
-16 พฤศจิกายน 2560 10:54:25
-
-1,050
-
-11
-
-[กฎกระทรวงการยกเว้นอากรสำหรับของที่นำเข้ามาในราชอาณาจักรเพื่อนำเข้าไปในเขตปลอดอากรและของที่ปล่อยออกไปจากเขตปลอดอากรเพื่อส่งออกไปนอกราชอาณาจักร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b49)
-
-16 พฤศจิกายน 2560 10:53:50
-
-1,255
-
-12
-
-[กฎกระทรวงกำหนดพื้นที่ที่ได้รับยกเว้นไม่อยู่ภายใต้บังคับของกฎหมายในส่วนที่เกี่ยวกับการควบคุมการนำเข้ามาในราชอาณาจักร การส่งออกไปนอกราชอาณาจักรการครอบครองหรือการใช้ประโยชน์ซึ่งของในเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b48)
-
-16 พฤศจิกายน 2560 10:52:59
-
-1,088
-
-13
-
-[กฎกระทรวงกำหนดเวลาทำการบรรทุกหรือขนถ่ายของหรือกระทำการที่ต้องมีพนักงานศุลกากรกำกับ พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b47)
+|10|[กฎกระทรวงการอนุญาตประกอบกิจการในเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4a)|16 พฤศจิกายน 2560 |
+|11|[กฎกระทรวงการยกเว้นอากรสำหรับของที่นำเข้ามาในราชอาณาจักรเพื่อนำเข้าไปในเขตปลอดอากรและของที่ปล่อยออกไปจากเขตปลอดอากรเพื่อส่งออกไปนอกราชอาณาจักร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b49)|16 พฤศจิกายน 2560|
+|12|[กฎกระทรวงกำหนดพื้นที่ที่ได้รับยกเว้นไม่อยู่ภายใต้บังคับของกฎหมายในส่วนที่เกี่ยวกับการควบคุมการนำเข้ามาในราชอาณาจักร การส่งออกไปนอกราชอาณาจักรการครอบครองหรือการใช้ประโยชน์ซึ่งของในเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b48)|16 พฤศจิกายน 2560 |
+|13|[กฎกระทรวงกำหนดเวลาทำการบรรทุกหรือขนถ่ายของหรือกระทำการที่ต้องมีพนักงานศุลกากรกำกับ พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b47)
 
 16 พฤศจิกายน 2560 10:52:22
 
@@ -124,6 +98,6 @@
 
 966
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODY1MjE2OCwtMTE2MjAwMzY1MSw4OD
+eyJoaXN0b3J5IjpbLTI0NDMwMzIwNywtMTE2MjAwMzY1MSw4OD
 Q1MDExODEsOTYyNDU5ODUzXX0=
 -->
