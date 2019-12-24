@@ -60,44 +60,12 @@
 |10|[กฎกระทรวงการอนุญาตประกอบกิจการในเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4a)|16 พฤศจิกายน 2560 |
 |11|[กฎกระทรวงการยกเว้นอากรสำหรับของที่นำเข้ามาในราชอาณาจักรเพื่อนำเข้าไปในเขตปลอดอากรและของที่ปล่อยออกไปจากเขตปลอดอากรเพื่อส่งออกไปนอกราชอาณาจักร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b49)|16 พฤศจิกายน 2560|
 |12|[กฎกระทรวงกำหนดพื้นที่ที่ได้รับยกเว้นไม่อยู่ภายใต้บังคับของกฎหมายในส่วนที่เกี่ยวกับการควบคุมการนำเข้ามาในราชอาณาจักร การส่งออกไปนอกราชอาณาจักรการครอบครองหรือการใช้ประโยชน์ซึ่งของในเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b48)|16 พฤศจิกายน 2560 |
-|13|[กฎกระทรวงกำหนดเวลาทำการบรรทุกหรือขนถ่ายของหรือกระทำการที่ต้องมีพนักงานศุลกากรกำกับ พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b47)
-
-16 พฤศจิกายน 2560 10:52:22
-
-1,009
-
-14
-
-[กฎกระทรวงกำหนดด่านศุลกากรและด่านพรมแดน พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b46)
-
-9 ตุลาคม 2561 10:09:34
-
-1,606
-
-15
-
-[กฎกระทรวง ฉบับที่ 146 (พ.ศ. 2550) ออกตามความในพระราชบัญญัติศุลกากร พุทธศักราช 2469](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f4a464b4a464b48)
-
-16 กุมภาพันธ์ 2560 10:45:50
-
-1,384
-
-16
-
-[กฎกระทรวง ฉบับที่ 145 (พ.ศ. 2547) ออกตามความในพระราชบัญญัติศุลกากร พุทธศักราช 2469](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f4a464b4a464b47)
-
-16 กุมภาพันธ์ 2560 10:43:45
-
-929
-
-17
-
-[กฎกระทรวง กำหนดท่าหรือที่ฯ (ฉบับที่ 13) พ.ศ. 2560 (ด่านศุลกากรหนองคายและสนามบินศุลกากรเลย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f49464b4c464a4e)
-
-31 มกราคม 2560 14:08:07
-
-966
+|13|[กฎกระทรวงกำหนดเวลาทำการบรรทุกหรือขนถ่ายของหรือกระทำการที่ต้องมีพนักงานศุลกากรกำกับ พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b47)|16 พฤศจิกายน 2560 |
+|14|[กฎกระทรวงกำหนดด่านศุลกากรและด่านพรมแดน พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b46)|9 ตุลาคม 2561|
+|15|[กฎกระทรวง ฉบับที่ 146 (พ.ศ. 2550) ออกตามความในพระราชบัญญัติศุลกากร พุทธศักราช 2469](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f4a464b4a464b48)|16 กุมภาพันธ์ 2560|
+|16|[กฎกระทรวง ฉบับที่ 145 (พ.ศ. 2547) ออกตามความในพระราชบัญญัติศุลกากร พุทธศักราช 2469](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f4a464b4a464b47)|16 กุมภาพันธ์ 2560 |
+|17|[กฎกระทรวง กำหนดท่าหรือที่ฯ (ฉบับที่ 13) พ.ศ. 2560 (ด่านศุลกากรหนองคายและสนามบินศุลกากรเลย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f49464b4c464a4e)|31 มกราคม 2560|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDMwMzIwNywtMTE2MjAwMzY1MSw4OD
-Q1MDExODEsOTYyNDU5ODUzXX0=
+eyJoaXN0b3J5IjpbLTEwNzE5Mjk2NjgsLTI0NDMwMzIwNywtMT
+E2MjAwMzY1MSw4ODQ1MDExODEsOTYyNDU5ODUzXX0=
 -->
