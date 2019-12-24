@@ -6,11 +6,37 @@
 
 
 
-### กฎหมายรอง
+### กฎหมายหลัก
 
-1.  หน้าหลัก
-3.  กฎหมายศุลกากร
-4.  กฎหมายรอง
+| ที่ | รายละเอียด
+ |
+|--|--|
+|  |  |
+
+
+ที่
+
+รายละเอียด
+
+วันที่ปรับปรุงล่าสุด
+
+จำนวนดาวน์โหลด
+
+1
+
+[พระราชบัญญัติศุลกากร พ.ศ. 2560 (ภาษาไทย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414a505f46464b4c464b4d)
+
+16 พฤศจิกายน 2561 10:05:54
+
+56,611
+
+2
+
+[พระราชบัญญัติศุลกากร พ.ศ. 2560 (คำแปลภาษาอังกฤษ)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4d464a4f464b46)
+
+16 พฤศจิกายน 2561 10:05:41
+
+15,891
 
   
 
@@ -158,5 +184,6 @@
 
 966
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NTAxMTgxLDk2MjQ1OTg1M119
+eyJoaXN0b3J5IjpbOTQ1MjM5MzEsODg0NTAxMTgxLDk2MjQ1OT
+g1M119
 -->
