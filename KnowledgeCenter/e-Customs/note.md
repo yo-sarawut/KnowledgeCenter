@@ -48,10 +48,9 @@
 [กฎกระทรวงกำหนดค่าธรรมเนียมและยกเว้นค่าธรรมเนียมตามกฎหมายว่าด้วยศุลกากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464b49)
 
 16 พฤศจิกายน 2560 10:59:51
-
-1,962
-
-3
+|A| B|C|
+|:----:|--------|------------|
+|3|
 
 [กฎกระทรวงกำหนดการยื่นใบขนสินค้าและการเสียอากรสำหรับก๊าซธรรมชาติและพลังงานไฟฟ้าที่นำเข้ามาในหรือส่งออกไปนอกราชอาณาจักร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464b48)
 
@@ -171,6 +170,6 @@
 
 966
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIwMDM2NTEsODg0NTAxMTgxLDk2Mj
-Q1OTg1M119
+eyJoaXN0b3J5IjpbLTExNTI2NDk5MywtMTE2MjAwMzY1MSw4OD
+Q1MDExODEsOTYyNDU5ODUzXX0=
 -->
