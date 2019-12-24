@@ -52,41 +52,13 @@
 |:----:|--------|------------|
 |3|[กฎกระทรวงกำหนดการยื่นใบขนสินค้าและการเสียอากรสำหรับก๊าซธรรมชาติและพลังงานไฟฟ้าที่นำเข้ามาในหรือส่งออกไปนอกราชอาณาจักร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464b48)|16 พฤศจิกายน 2560 |
 |4|[[กฎกระทรวงกำหนดชนิดหรือประเภท การเก็บและการขนถ่ายและการจัดเก็บอากร สำหรับสินค้าอันตราย พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464b47)|16 พฤศจิกายน 2560 |
-|5|[กฎกระทรวงกำหนดค่าใช้จ่ายการเก็บรักษาของในที่เก็บรักษาหรือในคลังสินค้าของศุลกากร พ.ศ ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464b46)|16 พฤศจิกายน 2560 |10:57:15
+|5|[กฎกระทรวงกำหนดค่าใช้จ่ายการเก็บรักษาของในที่เก็บรักษาหรือในคลังสินค้าของศุลกากร พ.ศ ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464b46)|16 พฤศจิกายน 2560 |
+|6|[กฎกระทรวงกำหนดหลักเกณฑ์การลดเงินเพิ่ม พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464a4f)|16 พฤศจิกายน 2560 |
+|7|[กฎกระทรวงการกำหนดและการใช้ราคาศุลกากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464a4e)|16 พฤศจิกายน 2560 |
+|8|[กฎกระทรวงการอนุญาตจัดตั้งและเลิกการดำเนินการคลังสินค้าทัณฑ์บน โรงพักสินค้า ที่มั่นคง และท่าเรือรับอนุญาต พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4c)|16 พฤศจิกายน 2560 |
+|9|[กฎกระทรวงการอนุญาตจัดตั้งและการเลิกดำเนินการเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4b)|16 พฤศจิกายน 2560 |
+|
 
-1,006
-
-6
-
-[กฎกระทรวงกำหนดหลักเกณฑ์การลดเงินเพิ่ม พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464a4f)
-
-16 พฤศจิกายน 2560 10:56:44
-
-1,073
-
-7
-
-[กฎกระทรวงการกำหนดและการใช้ราคาศุลกากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4f464a4e)
-
-16 พฤศจิกายน 2560 10:56:13
-
-1,328
-
-8
-
-[กฎกระทรวงการอนุญาตจัดตั้งและเลิกการดำเนินการคลังสินค้าทัณฑ์บน โรงพักสินค้า ที่มั่นคง และท่าเรือรับอนุญาต พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4c)
-
-16 พฤศจิกายน 2560 10:55:32
-
-1,055
-
-9
-
-[กฎกระทรวงการอนุญาตจัดตั้งและการเลิกดำเนินการเขตปลอดอากร พ.ศ. ๒๕๖๐](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4c464a4e464b4b)
-
-16 พฤศจิกายน 2560 10:54:59
-
-966
 
 10
 
@@ -152,6 +124,6 @@
 
 966
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDg2MzUyNSwtMTE2MjAwMzY1MSw4OD
+eyJoaXN0b3J5IjpbLTg1ODY1MjE2OCwtMTE2MjAwMzY1MSw4OD
 Q1MDExODEsOTYyNDU5ODUzXX0=
 -->
