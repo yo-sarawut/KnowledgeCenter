@@ -9,9 +9,9 @@
 ### กฎหมายหลัก
 
 | ที่ | รายละเอียด |วันที่ปรับปรุงล่าสุด |
-|----|--------|--------|
+|:----:|--------|------------|
 | 1 | [พระราชบัญญัติศุลกากร พ.ศ. 2560 (ภาษาไทย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414a505f46464b4c464b4d)|16 พฤศจิกายน 2561|
-| 2 | [พระราชบัญญัติศุลกากร พ.ศ. 2560 (ภาษาไทย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414a505f46464b4c464b4d)|16 พฤศจิกายน 2561|
+| 2 | [[พระราชบัญญัติศุลกากร พ.ศ. 2560 (คำแปลภาษาอังกฤษ)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=14223132414b505f4d464a4f464b46)|16 พฤศจิกายน 2561|
 
 
 
@@ -171,6 +171,6 @@
 
 966
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NDAyMjMsODg0NTAxMTgxLDk2MjQ1OT
-g1M119
+eyJoaXN0b3J5IjpbLTExNjIwMDM2NTEsODg0NTAxMTgxLDk2Mj
+Q1OTg1M119
 -->
