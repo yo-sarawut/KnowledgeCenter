@@ -55,7 +55,8 @@ JTEPA  กำหนดพันธกรณีของไทยและญี�
 
 [ข้อมุลการเจรจา](http://www.thaifta.com/thaifta/Home/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%87/tabid/62/ctl/Details/mid/433/ItemID/7578/Default.aspx)
 
-> Written with [StackEdit](https://stackedit.io/).
+- [http://www.thaifta.com/ThaiFTA/Home/FTAbyCountry/tabid/53/ctl/detail/id/25/mid/480/usemastercontainer/true/Default.aspx](http://www.thaifta.com/ThaiFTA/Home/FTAbyCountry/tabid/53/ctl/detail/id/25/mid/480/usemastercontainer/true/Default.aspx)
+- [http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_10&ini_menu=menu_interest_and_law_160421_01&left_menu=menu_fta_and_wto](http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_10&ini_menu=menu_interest_and_law_160421_01&left_menu=menu_fta_and_wto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjQxNDgzNl19
+eyJoaXN0b3J5IjpbOTMwOTQwNTA4XX0=
 -->
