@@ -48,9 +48,9 @@ Harmonized System (HS CODE) หรือ พิกัดศุลกากรร
 3.ทำให้เราสามารถคำนวณค่าภาษีได้อย่างถูกต้อง เพื่อที่จะได้คำนวณภาษีเข้ากับต้นทุนเพื่อป้องกันการขาดทุนในการซื้อขายของไปยังต่างประเทศนั่นเอง สำคัญกับพ่อค้าแม่ค้าออนไลน์อย่างมาก แต่ละประเทศก็จะมีขั้นต่ำในการเสียภาษีนำเข้าที่ไม่เหมือนกันอีกด้วย [แล้วแต่ละประเทศมีขั้นต่ำในการเสียภาษีเท่าไร](http://fastship.co/de-minimis-e-commerce/)
 
 
-
+> [Source : ](https://fastship.co/what-is-harmonized-system-code/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODQ4MDA1MiwtMjUxMDMxOF19
+eyJoaXN0b3J5IjpbLTE2MTgzNjA3NjIsLTI1MTAzMThdfQ==
 -->
