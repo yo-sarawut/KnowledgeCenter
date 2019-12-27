@@ -51,6 +51,8 @@ Harmonized System (HS CODE) หรือ พิกัดศุลกากรร
 > [Source : ](https://fastship.co/what-is-harmonized-system-code/)
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgzNjA3NjIsLTI1MTAzMThdfQ==
+eyJoaXN0b3J5IjpbMTU2NzA1NDU4MCwtMTYxODM2MDc2MiwtMj
+UxMDMxOF19
 -->
