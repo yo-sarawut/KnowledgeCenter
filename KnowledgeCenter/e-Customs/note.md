@@ -5,6 +5,12 @@
 -  [http://www.chanidservice.com/](http://www.chanidservice.com/)
 
 
+## Temp file
+
+- [การรับรองถิ่นกําเนิดสินค้าด้วยตนเอง](https://cdn.thaitrade.com/stocks/extra/000f52.pdf)
+
+
+
 
 ### กฎหมายหลัก
 
@@ -66,6 +72,7 @@
 |16|[กฎกระทรวง ฉบับที่ 145 (พ.ศ. 2547) ออกตามความในพระราชบัญญัติศุลกากร พุทธศักราช 2469](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f4a464b4a464b47)|16/02/60 |
 |17|[กฎกระทรวง กำหนดท่าหรือที่ฯ (ฉบับที่ 13) พ.ศ. 2560 (ด่านศุลกากรหนองคายและสนามบินศุลกากรเลย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f49464b4c464a4e)|31/01/60|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzY1MDg5LC0yNDQzMDMyMDcsLTExNj
-IwMDM2NTEsODg0NTAxMTgxLDk2MjQ1OTg1M119
+eyJoaXN0b3J5IjpbMTM0MzQwNjEzNCwtMzY3NjUwODksLTI0ND
+MwMzIwNywtMTE2MjAwMzY1MSw4ODQ1MDExODEsOTYyNDU5ODUz
+XX0=
 -->
