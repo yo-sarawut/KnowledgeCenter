@@ -7,7 +7,8 @@
 
 ## Temp file
 
-- [การรับรองถิ่นกําเนิดสินค้าด้วยตนเอง](https://cdn.thaitrade.com/stocks/extra/000f52.pdf)
+- [Present : การรับรองถิ่นกําเนิดสินค้าด้วยตนเอง](https://cdn.thaitrade.com/stocks/extra/000f52.pdf)
+- [ข้อมูลจากกรมการค้าต่างประเทศ](http://www.dft.go.th/th-th/DFT-Service/ServiceData-Information/dft-service-data-privilege/Detail-dft-service-data-privilege/ArticleId/5076/-Self-Certification-1)
 
 
 
@@ -72,7 +73,7 @@
 |16|[กฎกระทรวง ฉบับที่ 145 (พ.ศ. 2547) ออกตามความในพระราชบัญญัติศุลกากร พุทธศักราช 2469](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f4a464b4a464b47)|16/02/60 |
 |17|[กฎกระทรวง กำหนดท่าหรือที่ฯ (ฉบับที่ 13) พ.ศ. 2560 (ด่านศุลกากรหนองคายและสนามบินศุลกากรเลย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f49464b4c464a4e)|31/01/60|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzQwNjEzNCwtMzY3NjUwODksLTI0ND
-MwMzIwNywtMTE2MjAwMzY1MSw4ODQ1MDExODEsOTYyNDU5ODUz
-XX0=
+eyJoaXN0b3J5IjpbNjg5ODIyOTUxLC0zNjc2NTA4OSwtMjQ0Mz
+AzMjA3LC0xMTYyMDAzNjUxLDg4NDUwMTE4MSw5NjI0NTk4NTNd
+fQ==
 -->
