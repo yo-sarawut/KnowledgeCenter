@@ -32,8 +32,8 @@
 
 #### ประกาศกรมศุลกากร
 
-| เลขที่ประกาศ | รายละเอียด |
-|--|--|
+| เลขที่ | รายละเอียด |
+|------|------------------|
 | 155/2560 |  [หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b48464b4d)|
 |238/2559|[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f49464b47464b47)|
 |78/2555|[ประกาศกรมศุลกากรที่ ๗๘/๒๕๕๕ เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ ๕/๒๕๕๕](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832414d505f4d464b49)|
@@ -46,6 +46,6 @@
 -   [ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1/2555 เรื่อง การระบุพิกัดศุลกากรตามระบบฮาร์โมไนซ์ สำหรับสินค้าโควตาเหล็ก ภายใต้ความตกลงความเป็นหุ้นส่วนทางเศรษฐกิจไทย-ญี่ปุ่น](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f4d464a4e464a4e)
 -   [ประกาศสำนักพิกัดอัตราศุลกากรที่ ๕/๒๕๖๑ เรื่อง การสำแดงน้ำหนัก Net weight ในช่องที่ ๖ ของหนังสือรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงระหว่างราชอาณาจักรไทยและญี่ปุ่นสำหรับความเป็นหุ้นส่วนทางเศรษฐกิจ (Agreement between the Kingdom of Thailand and Japan for an Economic Partnership : JTEPA)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414d505f4b464b49464b46)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTkwNzU2LDE4OTA4MzQzMTcsMTM2MT
+eyJoaXN0b3J5IjpbOTU2ODcxNjAzLDE4OTA4MzQzMTcsMTM2MT
 czMDkwMSwtMTI5MzY2Nzk2Miw5MzA5NDA1MDhdfQ==
 -->
