@@ -29,6 +29,12 @@
 
 ความตกลงว่าด้วยการลงทุนเป็นความตกลงฉบับสุดท้ายที่กำหนดให้มีการเจรจาจัดทำภายใต้กรอบความตกลงฯ ทั้งสองฝ่ายใช้เวลาเจรจานานกว่า 3 ปี และสามารถบรรลุผลการเจรจาเมื่อเดือนเมษายน 2009 โดยรัฐมนตรีเศรษฐกิจของทั้งสองฝ่ายได้ลงนามความตกลงนี้เมื่อวันที่ 2 มิถุนายน 2009 ทั้งนี้ ความตกลงจะมีผลบังคับใช้ตั้งแต่วันที่ 1 กันยายน 2009 
 
+#### MATRIX OF COMPILATION OF DECISIONS/UNDERSTANDING/CLARIFICATIONS FROM PREVIOUS AKSTROO MEETINGS
+
+-   [MATRIX OF COMPILATION OF DECISIONS/UNDERSTANDING/CLARIFICATIONS FROM PREVIOUS AKSTROO MEETINGS (update 4.10.62)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414a505f46464b4a464b49)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDQ4MTU0MF19
+eyJoaXN0b3J5IjpbLTE2NjY0MjIyMTFdfQ==
 -->
