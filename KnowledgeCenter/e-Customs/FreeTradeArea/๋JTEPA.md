@@ -27,11 +27,44 @@
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (ฉบับที่ 2)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f49464b4c464a4f)
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414c505e4f464a4f464b4a)
 
+
+
+
+#### ประกาศกรมศุลกากร
+
+เลขที่ประกาศ
+
+รายละเอียด
+
+155/2560
+
+[หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b48464b4d)
+
+238/2559
+
+[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f49464b47464b47)
+
+78/2555
+
+[ประกาศกรมศุลกากรที่ ๗๘/๒๕๕๕ เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ ๕/๒๕๕๕](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832414d505f4d464b49)
+
+5/2555
+
+[ประกาศกรมศุลกากร ที่ ๕/๒๕๕๕ เรื่อง หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932404e505f47464a4e)
+
+68/2552
+
+[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 83/2550](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232a32414a505f49464b4c)
+
+83/2550
+
+[หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232a324148505f4b464a4e)
+
 #### ประกาศสำนักพิกัดอัตราศุลกากร
 
 -   [ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1/2555 เรื่อง การระบุพิกัดศุลกากรตามระบบฮาร์โมไนซ์ สำหรับสินค้าโควตาเหล็ก ภายใต้ความตกลงความเป็นหุ้นส่วนทางเศรษฐกิจไทย-ญี่ปุ่น](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f4d464a4e464a4e)
 -   [ประกาศสำนักพิกัดอัตราศุลกากรที่ ๕/๒๕๖๑ เรื่อง การสำแดงน้ำหนัก Net weight ในช่องที่ ๖ ของหนังสือรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงระหว่างราชอาณาจักรไทยและญี่ปุ่นสำหรับความเป็นหุ้นส่วนทางเศรษฐกิจ (Agreement between the Kingdom of Thailand and Japan for an Economic Partnership : JTEPA)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414d505f4b464b49464b46)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDgzNDMxNywxMzYxNzMwOTAxLC0xMj
-kzNjY3OTYyLDkzMDk0MDUwOF19
+eyJoaXN0b3J5IjpbNTg3ODE1ODcwLDE4OTA4MzQzMTcsMTM2MT
+czMDkwMSwtMTI5MzY2Nzk2Miw5MzA5NDA1MDhdfQ==
 -->
