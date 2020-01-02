@@ -26,7 +26,12 @@
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (30 ธันวาคม 2559)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324149505f46464b4a464b48)
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (ฉบับที่ 2)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f49464b4c464a4f)
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414c505e4f464a4f464b4a)
+
+#### ประกาศสำนักพิกัดอัตราศุลกากร
+
+-   [ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1/2555 เรื่อง การระบุพิกัดศุลกากรตามระบบฮาร์โมไนซ์ สำหรับสินค้าโควตาเหล็ก ภายใต้ความตกลงความเป็นหุ้นส่วนทางเศรษฐกิจไทย-ญี่ปุ่น](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142231324147505f4d464a4e464a4e)
+-   [ประกาศสำนักพิกัดอัตราศุลกากรที่ ๕/๒๕๖๑ เรื่อง การสำแดงน้ำหนัก Net weight ในช่องที่ ๖ ของหนังสือรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงระหว่างราชอาณาจักรไทยและญี่ปุ่นสำหรับความเป็นหุ้นส่วนทางเศรษฐกิจ (Agreement between the Kingdom of Thailand and Japan for an Economic Partnership : JTEPA)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414d505f4b464b49464b46)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTczMDkwMSwtMTI5MzY2Nzk2Miw5Mz
-A5NDA1MDhdfQ==
+eyJoaXN0b3J5IjpbMTg5MDgzNDMxNywxMzYxNzMwOTAxLC0xMj
+kzNjY3OTYyLDkzMDk0MDUwOF19
 -->
