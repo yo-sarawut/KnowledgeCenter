@@ -60,29 +60,12 @@
 |161/2560|[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b49464b4a)|
 |237/2559|[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f48464b4d464b47)|
 |283/2558|[หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932414a505f49464b4c)|
-|82/2558|
-
-[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 9/2557และประกาศกรมศุลกากรที่ 231/2557](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142329324148505f49464b4c)
-
-231/2557
-
-[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 9/2557](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142329324147505f4b464b4b)
-
-9/2557
-
-[หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932404f505f4d464b48)
-
-8/2555
-
-[ประกาศกรมศุลกากร ที่ ๘/๒๕๕๕ เรื่อง หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932404e505f46464b46)
-
-104/2552
-
-[เพิ่มเติมรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน -สาธารณรัฐเกาหลี ในภาคผนวก 2 ของประกาศกรมศุลกากรที่ 72/2552](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832414b505f4a464b46)
-
-72/2552
-
-[หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232a32414a505f4a464a4f)
+|82/2558|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 9/2557และประกาศกรมศุลกากรที่ 231/2557](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142329324148505f49464b4c)|
+|231/2557|[แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 9/2557](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142329324147505f4b464b4b)|
+|9/2557|[หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932404f505f4d464b48)|
+|8/2555|[ประกาศกรมศุลกากร ที่ ๘/๒๕๕๕ เรื่อง หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932404e505f46464b46)|
+|104/2552|[เพิ่มเติมรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน -สาธารณรัฐเกาหลี ในภาคผนวก 2 ของประกาศกรมศุลกากรที่ 72/2552](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232832414b505f4a464b46)|
+|72/2552|[หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232a32414a505f4a464a4f)|
 
 #### ประกาศสำนักพิกัดอัตราศุลกากร
 
@@ -92,5 +75,5 @@
 -   [ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1/2560 เรื่อง การระบุเกณฑ์ในช่องที่ 8 ของ Form AK กรณีเกณฑ์ร่วม (Combination Rule)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414b505f48464b4d464b4b)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTY0MjYxMl19
+eyJoaXN0b3J5IjpbNDU3NDY2NzE4XX0=
 -->
