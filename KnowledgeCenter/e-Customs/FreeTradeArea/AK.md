@@ -53,27 +53,14 @@
 
 #### ประกาศกรมศุลกากร
 
-เลขที่ประกาศ
 
-รายละเอียด
-
-177/2562
-
-[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 161/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324148505e4e464b48464b4c)
-
-161/2560
-
-[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b49464b4a)
-
-237/2559
-
-[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f48464b4d464b47)
-
-283/2558
-
-[หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932414a505f49464b4c)
-
-82/2558
+|เลขที่ประกาศ|รายละเอียด|
+|:-------:|----------------|
+|177/2562|[แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 161/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324148505e4e464b48464b4c)|
+|161/2560|[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14223132414b505f4b464b49464b4a)|
+|237/2559|[หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142231324149505f48464b4d464b47)|
+|283/2558|[หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=14232932414a505f49464b4c)|
+|82/2558|
 
 [แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 9/2557และประกาศกรมศุลกากรที่ 231/2557](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142329324148505f49464b4c)
 
@@ -105,5 +92,5 @@
 -   [ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1/2560 เรื่อง การระบุเกณฑ์ในช่องที่ 8 ของ Form AK กรณีเกณฑ์ร่วม (Combination Rule)](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=14223132414b505f48464b4d464b4b)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk0NzUxMTddfQ==
+eyJoaXN0b3J5IjpbLTQwNTY0MjYxMl19
 -->
