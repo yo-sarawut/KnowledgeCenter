@@ -134,10 +134,11 @@ Harmonized System (HS CODE) หรือ พิกัดศุลกากรร
 
 ![juice-tile](https://i1.wp.com/goterrestrial.com/wp-content/uploads/2019/11/juice-tile.jpg?resize=1170%2C1389&ssl=1)
 
-> [Source :](https://goterrestrial.com/2019/11/06/%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-hs-code-%E0%B9%81%E0%B8%A5%E0%B8%B0-hts-code-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0/)
+> - [Source :](https://goterrestrial.com/2019/11/06/%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-hs-code-%E0%B9%81%E0%B8%A5%E0%B8%B0-hts-code-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0/)
+> - [ฐานข้อมูลกรมศุลกากร](http://www.customs.go.th/list_strc_link_image_with_infographic.php?ini_content=customs_tariff_service&lang=th&left_menu=nmenu_esevice_001)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI3MTA2OTIsLTE2MTgzNjA3NjIsLT
-I1MTAzMThdfQ==
+eyJoaXN0b3J5IjpbOTU0MDk1NDg0LC0xMTkyNzEwNjkyLC0xNj
+E4MzYwNzYyLC0yNTEwMzE4XX0=
 -->
