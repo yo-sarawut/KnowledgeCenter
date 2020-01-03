@@ -11,9 +11,11 @@
 
 [แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 187/2560](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324149505f46464b4c464b49)
 
+**strong text**
+
 
 **Incoterms® 2020** ได้จัดให้มีการรองรับความต้องการของตลาดที่เกี่ยวกับใบตราส่งที่จดแจ้งว่าสินค้าได้ถูกบรรทุกแล้ว (Bills of Lading: BL with an on-board notation) สำหรับกฎ FCA (Free Carrier) การวางแนวทางของความคุ้มครองประกันภัยในระดับที่แตกต่างกัน สำหรับกฎ CIF (Cost Insurance and Freight) และ CIP (Carriage and Insurance Paid To) การเปิดโอกาสให้เลือกใช้พาหนะขนส่งของตนเองสำหรับกฎ FCA, DAP (Delivery at Place), DPU (Delivery at Place Unloaded) และ DDP (Delivered Duty Paid) การเปลี่ยนแปลงตัวย่อ 3 ตัวสำหรับกฎ DAT (Delivered at Terminal) เป็น DPU และได้เพิ่มข้อกำหนดด้านความปลอดภัยภายใต้ภาระหน้าที่และค่าใช้จ่ายที่เกี่ยวกับการขนส่งอีกด้วย
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAwNDQyNCwtMjA0MDQyNzI5LC0xMT
+eyJoaXN0b3J5IjpbMTEyMDY4NTYwNCwtMjA0MDQyNzI5LC0xMT
 gyOTE4MDMxXX0=
 -->
