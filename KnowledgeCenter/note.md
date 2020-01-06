@@ -3,6 +3,7 @@ Knowledge Center (GitHub)
 
 ## เรื่องน่าสนใจ
 
+- [Software Engineering](https://sites.google.com/site/softeng07/)
 - [ประเดนคำถาม-คําตอบ ในการเสวนาหัวข้อ  “ปัญหาการปฏิบัติพิธีการศุลกากรที่เกี่ยวข้องกับกิจการที่ได้รับการส่งเสริมการลงทุน” 22 มี.ค. 60](https://www.boi.go.th/upload/content/QuestionAnswer_32263.pdf)
 - [พระราชบัญญัติศุลกากร พ.ศ. ๒๕๖๐](https://laws.customselp.com/Article)
 ## Incoterm 2020
@@ -82,8 +83,9 @@ some text ...
 
 [on top](#top)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDA4Mjk5LC04MTAzNzA3NjIsLTE3Nj
-IyMTYyMjIsNDM5MzE4NTcxLDE0NTcwMjA5NTgsLTI1OTc2MTAy
-NSwxNjA4MDUwNTg4LDE5OTk2Njg3MTEsLTE5NzI3MjkwNDEsLT
-kzODc1ODAzNSwtMTU3NjE1OTI2NiwzMTU2ODYwOThdfQ==
+eyJoaXN0b3J5IjpbMTk3NzA3NjQyMywxMjM0MDgyOTksLTgxMD
+M3MDc2MiwtMTc2MjIxNjIyMiw0MzkzMTg1NzEsMTQ1NzAyMDk1
+OCwtMjU5NzYxMDI1LDE2MDgwNTA1ODgsMTk5OTY2ODcxMSwtMT
+k3MjcyOTA0MSwtOTM4NzU4MDM1LC0xNTc2MTU5MjY2LDMxNTY4
+NjA5OF19
 -->
