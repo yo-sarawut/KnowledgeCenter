@@ -38,46 +38,45 @@ iris.describe()
  
 ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)
 9.  ลองทำ Data Visualization เบื้องต้น ด้วย pairplot แยกตามสีของ species
-10. 
+ 
  ```py   
 sns.pairplot(iris, hue='species')
 ```    
-    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)
+    ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)
     
 หรือ จะดูเป็น scatterplot
  ```py   
-    plt.scatter(iris['sepal_length'], iris['sepal_width'], marker='.', color='r')
-    plt.xlabel('Sepal Length')
-    plt.ylabel('Sepal Width')
+ plt.scatter(iris['sepal_length'], iris['sepal_width'], marker='.', color='r')
+ plt.xlabel('Sepal Length')
+ plt.ylabel('Sepal Width')
  ```   
-    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)
+    ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)
     
 10.  ต่อไป เป็นขั้นตอนการแบ่งข้อมูลออกเป็น 2 ส่วน สำหรับ Train และ Test
     
-    ```
-    from sklearn.model_selection import train_test_split
+ ```py
+ from sklearn.model_selection import train_test_split
     ```
     
 11.  จากนั้น Train Model
-    
-    from sklearn.linear_model import LogisticRegression
-    model = LogisticRegression()
-    model.fit(X_train, y_train)
-    
-    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)
+```py    
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression()
+model.fit(X_train, y_train)
+ ```   
+    ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)
     
 12.  แล้วก็ ตรวจสอบความแม่นยำ Model Evaluation
-    
-    prediction = model.predict(X_test)
-    from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
-    
+ ```py   
+prediction = model.predict(X_test)
+ from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
+ ```   
     [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_38-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_38-Window.png)  
-    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_51-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_51-Window.png)
-    
+    ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_51-Window.png)
 
 ขั้นตอนไม่ยากครับ ส่วนว่าเราจะเลือกใช้ Model ไหน ทำอะไร อันนี้ต้องมาดูรายละเอียดกันต่อครับ
 
 > [Source :](https://sysadmin.psu.ac.th/2018/07/19/kaggle-logistic-regression-iris-dataset/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODcyNzE2NywxNDc2MDYzOTE4XX0=
+eyJoaXN0b3J5IjpbMTA4MjAwNTgwOCwxNDc2MDYzOTE4XX0=
 -->
