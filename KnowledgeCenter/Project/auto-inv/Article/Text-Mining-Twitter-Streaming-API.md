@@ -66,13 +66,13 @@ ax.set_ylabel('Number of tweets', fontsize=15)
 ax.set_title('Top 5 countries', fontsize=15, fontweight='bold')  
 tweets_by_country[:5].plot(ax=ax, kind='bar', color='blue')  
 plt.show()
-
+```
 ![](https://miro.medium.com/max/30/0*dV2_xy6Zu-_BQREZ.png?q=20)
 
 ![](https://miro.medium.com/max/384/0*dV2_xy6Zu-_BQREZ.png)
 
 # สร้างฟังค์ชันสำหรับค้นหาคำที่อยู่ในข้อความ
-
+```py
 # This function return true if a word is found in text  
 def word_in_text(word, text):  
     word = word.lower()  
@@ -81,13 +81,13 @@ def word_in_text(word, text):
     if match:  
         return True  
     return False
-
+```
 จัดกลุ่มข้อความระหว่าง Hbase กับ Cassandra
-
+```py
 # Add 2 columns in DataFrame  
 tweets['hbase'] = tweets['text'].apply(lambda tweet: word_in_text('hbase', tweet))  
 tweets['cassandra'] = tweets['text'].apply(lambda tweet: word_in_text('cassandra', tweet))
-
+```
 ดูจำนวนกันหน่อยว่าพูดถึงกันเยอะไหม
 
 print tweets['hbase'].value_counts()[True]  
@@ -95,7 +95,7 @@ print tweets['cassandra'].value_counts()[True]50
 4603
 
 ลองเอามาพลอตกราฟ เพื่อให้เห็นได้ง่ายขึ้น
-
+```py
 db_type = ['hbase', 'cassandra']  
 tweets_by_db_type = [tweets['hbase'].value_counts()[True],  
                     tweets['cassandra'].value_counts()[True]]x_pos = list(range(len(db_type)))  
@@ -108,7 +108,7 @@ ax.set_xticks([p + 0.4 * width for p in x_pos])
 ax.set_xticklabels(db_type)  
 plt.grid()  
 plt.show()
-
+```
 ![](https://miro.medium.com/max/30/0*hozEdBcYaVUmo87x.png?q=20)
 
 ![](https://miro.medium.com/max/397/0*hozEdBcYaVUmo87x.png)
@@ -118,18 +118,18 @@ plt.show()
 # กรองข้อมูล เอาเฉพาะที่เกี่ยวข้อง
 
 เราจะกรองโดยใช้คำว่า “bigdata”, “database”, “parallel”, “nosql”
-
+```py
 # Targeting relevant tweets  
 tweets['relevant'] = tweets['text'].apply(lambda tweet: word_in_text('bigdata', tweet) or word_in_text('database', tweet) or word_in_text('parallel',tweet) or word_in_text('nosql', tweet))
-
+```
 พอกรองมาแล้ว จำนวนลดลงอย่างมหาศาลเลย แต่นี่คือการกรองแบบคร่าวมาก ๆ ครับ
-
+```py
 print tweets[tweets['relevant'] == True]['hbase'].value_counts()[True]  
 print tweets[tweets['relevant'] == True]['cassandra'].value_counts()[True]21  
 132
-
+```
 มาพลอตกราฟดูกันดีกว่า
-
+```py
 tweets_by_db_type = [tweets[tweets['relevant'] == True]['hbase'].value_counts()[True],  
                      tweets[tweets['relevant'] == True]['cassandra'].value_counts()[True]]  
 width = 0.8  
@@ -141,7 +141,7 @@ ax.set_xticks([p + 0.4 * width for p in x_pos])
 ax.set_xticklabels(db_type)  
 plt.grid()  
 plt.show()
-
+```
 ![](https://miro.medium.com/max/30/0*6FpwbUM7QtKBSt2p.png?q=20)
 
 ![](https://miro.medium.com/max/390/0*6FpwbUM7QtKBSt2p.png)
@@ -151,7 +151,7 @@ plt.show()
 # ต่อไปมาทำการแตกข้อความหาลิงค์กันดีกว่า
 
 เริ่มจากสร้างฟังค์ชั่นเพื่อหาลิงค์ครับ ตัดข้อความด้วย regular expression
-```
+```py
 # Extracting links from the relevants tweets  
 def extract_link(text):  
     regex = r'https?://[^s<>"]+|www**\.**[^s<>"]+'  
@@ -160,7 +160,7 @@ def extract_link(text):
         return match.group()  
     return ''tweets['link'] = tweets['text'].apply(lambda tweet: extract_link(tweet))tweets_relevant = tweets[tweets['relevant'] == True]  
 tweets_relevant_with_link = tweets_relevant[tweets_relevant['link'] != '']
-
+```
 พอคัดลิงค์ได้แล้ว เอามาโชว์ซักหน่อยบางส่วน เผื่อจะตามไปดูกัน
 ```result
 print tweets_relevant_with_link[tweets_relevant_with_link['hbase'] == True]['link']  
@@ -258,5 +258,5 @@ _Originally published on_ [_github.com_](https://github.com/lukkiddd/practice_te
 
 > Written with [StackEdit](https://lukkiddd.com/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3-text-mining-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-twitter-streaming-api-%E0%B9%81%E0%B8%A5%E0%B8%B0-python-f5f11ad3d3d6).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDE5MDAzNiwtNjcxNTgxNjg5XX0=
+eyJoaXN0b3J5IjpbLTE4MDM4NjkwMTcsLTY3MTU4MTY4OV19
 -->
