@@ -15,7 +15,21 @@
 
 
 
+
+### Introduction to Deep Learning and TensorFlow
+
+ในคอร์สนี้ คุณจะได้เรียนรู้หลักการทำงานขั้นพื้นฐานของ Deep Learning และฝึกฝนการสร้าง Neural Network ด้วย  [TensorFlow](https://www.tensorflow.org/)  ซึ่งเป็นซอฟท์แวร์ Open Source สำหรับงานด้าน AI ที่รับความนิยมสูงสุดในขณะนี้
+
+### คอร์สนี้เหมาะสำหรับ
+
+Developers, Data Scientists หรือผู้สนใจ ที่มีความรู้พื้นฐานด้าน Machine Learning และการเขียนโปรแกรมขั้นพื้นฐาน (เราจะใช้ภาษา Python ในบทเรียน)
+
+### สิ่งที่คุณจะได้จากคอร์สนี้
+
+-   เข้าใจว่า Deep Learning คืออะไร มีหลักการทำงานขั้นพื้นฐานอย่างไร และเทคนิคทางคณิตศาสตร์ที่เกี่ยวข้อง เช่น Backpropagation หรือ Gradient Descent
+-   เห็นตัวอย่างการนำ Deep Learning ไปใช้งานในอุตสาหกรรมต่างๆ
+-   ฝึกฝนสร้างโมเดลจริงผ่าน Codelab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Nzg4MzMxNywtOTUyNjk2MjkyLC0xMD
-gzOTA4OTUzXX0=
+eyJoaXN0b3J5IjpbLTQ1ODcwMzk2MCwxNTg3ODgzMzE3LC05NT
+I2OTYyOTIsLTEwODM5MDg5NTNdfQ==
 -->
