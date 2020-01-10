@@ -14,9 +14,9 @@
 - 
 
 
+## คอร์สออนไลน์
 
-
-### Introduction to Deep Learning and TensorFlow
+### -  Introduction to Deep Learning and TensorFlow
 
 ในคอร์สนี้ คุณจะได้เรียนรู้หลักการทำงานขั้นพื้นฐานของ Deep Learning และฝึกฝนการสร้าง Neural Network ด้วย  [TensorFlow](https://www.tensorflow.org/)  ซึ่งเป็นซอฟท์แวร์ Open Source สำหรับงานด้าน AI ที่รับความนิยมสูงสุดในขณะนี้
 
@@ -29,7 +29,9 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 -   เข้าใจว่า Deep Learning คืออะไร มีหลักการทำงานขั้นพื้นฐานอย่างไร และเทคนิคทางคณิตศาสตร์ที่เกี่ยวข้อง เช่น Backpropagation หรือ Gradient Descent
 -   เห็นตัวอย่างการนำ Deep Learning ไปใช้งานในอุตสาหกรรมต่างๆ
 -   ฝึกฝนสร้างโมเดลจริงผ่าน Codelab
+
+สนใจสามารถลงทะเบียนเรียนออนไลน์ได้ที่ : [https://v1.skooldio.com/courses/gde-tensorflow-01](https://v1.skooldio.com/courses/gde-tensorflow-01)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODcwMzk2MCwxNTg3ODgzMzE3LC05NT
-I2OTYyOTIsLTEwODM5MDg5NTNdfQ==
+eyJoaXN0b3J5IjpbLTIwODkwMTIzODksLTQ1ODcwMzk2MCwxNT
+g3ODgzMzE3LC05NTI2OTYyOTIsLTEwODM5MDg5NTNdfQ==
 -->
