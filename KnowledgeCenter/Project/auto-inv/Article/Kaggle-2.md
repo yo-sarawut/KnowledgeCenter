@@ -7,27 +7,30 @@ Kaggle – วิธีการใช้ Logistic Regression บนข้อม
 1.  เริ่มจาก New Kernel  
 
 ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-14_27_44-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-14_27_44-Window.png)
+
 2.  ในที่นี้ เลือก Notebook  
     ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_19_24-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_19_24-Window.png)
-4.  จากนั้น เลือก Add Dataset จากที่เค้ามีให้ หรือ จะ Upload ขึ้นไปก็ได้  
-    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_50_54-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_50_54-Window.png)
-5.  จากนั้น ข้อมูลของเราจะมาอยู่ที่ ../input/ ในกรณีเรามีไฟล์ ../input/iris.data  
+    
+3.  จากนั้น เลือก Add Dataset จากที่เค้ามีให้ หรือ จะ Upload ขึ้นไปก็ได้  
+    ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_50_54-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_50_54-Window.png)
+4.  จากนั้น ข้อมูลของเราจะมาอยู่ที่ ../input/ ในกรณีเรามีไฟล์ ../input/iris.data  
     จาก Code ที่ให้มาในเบื้องต้น ให้กดปุ่ม Shift+Enter หรือ กดเครื่องหมาย Run ด้าน ซ้ายมือ ก็จะได้ผลดังนี้  
     [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_56_30-.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_56_30-.png)
-6.  จากนั้น มาเขียน Code กัน เริ่มจาก Import Package ที่ต้องใช้
-    
+5.  จากนั้น มาเขียน Code กัน เริ่มจาก Import Package ที่ต้องใช้
+    ```py
     import pandas as pd
     import numpy as np
     import seaborn as sns
     import matplotlib.pyplot as plt
     %matplotlib inline
-    
-7.  สร้างตัวแปร iris อ่านข้อมูลจากไฟล์
-    
-    iris = pd.read_csv('../input/iris.data')
-    
-8.  สำรวจข้อมูลเบื้องต้น  
-    iris.head()  
+    ```
+6.  สร้างตัวแปร iris อ่านข้อมูลจากไฟล์
+   ```py
+  iris = pd.read_csv('../input/iris.data')
+  ```
+7.  สำรวจข้อมูลเบื้องต้น  
+```py
+  iris.head()  
     iris.info()  
     iris.describe()  
     [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)
@@ -72,5 +75,5 @@ Kaggle – วิธีการใช้ Logistic Regression บนข้อม
 
 > [Source :](https://sysadmin.psu.ac.th/2018/07/19/kaggle-logistic-regression-iris-dataset/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNDY5NTc2LDE0NzYwNjM5MThdfQ==
+eyJoaXN0b3J5IjpbNzgwODYzMzQ1LDE0NzYwNjM5MThdfQ==
 -->
