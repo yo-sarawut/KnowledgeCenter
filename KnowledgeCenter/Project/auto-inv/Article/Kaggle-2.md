@@ -70,9 +70,13 @@ python iris.py
 แต่ถ้าใช้ Postman ติดต่อไปยัง http://localhost:5000/iris แล้วส่งตัวแปร ความกว้าง ความยาว ของกลีบดอก ผ่าน POST ไป จะได้ผลการ Classification มาว่าเป็น Species อะไร ดังนี้
 
 จากตัวอย่างนี้ แสดงให้เห็นว่า เราสามารถสร้าง Model จากข้อมูลขนาดใหญ่ แล้วนำออกมาเป็น Pickle แล้วใช้ Flask RESTFul เพื่อรับ Request แล้วตอบกลับเป็น ผลการ Classification ได้ หรือ Prediction ต่าง ๆ ได้
-เดี๋ยวค่อยมาลงรายละเอียดเรื่อง วิธีการใช้งาน Flask และ การใช้ Machine Learning แบบต่าง ๆ กัน
+เดี๋ยวค่อยมาลงรายละเอียดเรื่อง วิธีการใช้งาน Flask และ การใช้ Machine Learning แบบต่าง ๆ กันKaggle – วิธีการใช้ Logistic Regression บนข้อมูล Iris
+===
 
-> Written with [StackEdit](https://sysadmin.psu.ac.th/2018/07/23/from-lab-to-production-with-flask-restful/).
+
+
+
+> Written with [StackEdit](https://sysadmin.psu.ac.th/2018/07/23/from-lab-to-production-with-flask-restful19/kaggle-logistic-regression-iris-dataset/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjA2MzkxOF19
+eyJoaXN0b3J5IjpbLTYwODc4ODE5LDE0NzYwNjM5MThdfQ==
 -->
