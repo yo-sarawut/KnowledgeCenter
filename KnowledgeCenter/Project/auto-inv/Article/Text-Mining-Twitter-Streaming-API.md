@@ -7,15 +7,15 @@
 เราจะทำ text mining ด้วย twitter streaming api และ python เพื่อทำการดึงข้อมูลจากทวิตเตอร์มานับจำนวนทวีตเพื่อดูว่าระหว่าง Hbase กับ Cassandra คนพูดถึงคำไหนมากกว่ากันใน twitter
 
 เริ่มต้นด้วยการ import library ที่จะเป็นเข้ามาในไฟล์ครับ
-
+```py
 %matplotlib inline  
 import json  
 import pandas as pd  
 import matplotlib.pyplot as plt  
 import re
-
+```
 ทำการอ่านไฟล์ข้อมูลที่เราทำการเก็บมาครับ
-
+```py
 tweets_data_path = '../twitter_data.txt'tweets_data = []  
 tweets_file = open(tweets_data_path, "r")# Append Data to the variables  
 for line in tweets_file:  
@@ -28,19 +28,19 @@ for line in tweets_file:
 ลองดูว่าเราอ่านมาได้ทั้งหมดเท่าไหร่
 
 print len(tweets_data)4807
-
+```
 # สร้าง DataFrame ด้วย pandas
 
 ทำการสร้าง DataFrame ชื่อ tweets สำหรับจัดการกับข้อมูลที่ได้มาครับ
-
+```py
 # Create a table(dataframe) by pandas library  
 tweets = pd.DataFrame()# Create 3 columns consist of text, lang, and country   
 tweets['text'] = map(lambda tweet: tweet['text'], tweets_data)  
 tweets['lang'] = map(lambda tweet: tweet['lang'], tweets_data)  
 tweets['country'] = map(lambda tweet: tweet['place']['country'] if tweet['place'] != None else None, tweets_data)
-
+```
 ดูว่ามีภาษาอะไรบ้างที่เราได้ข้อมูลมา
-
+```py
 # Classify by lang  
 tweets_by_lang = tweets['lang'].value_counts()fig, ax = plt.subplots()  
 ax.tick_params(axis='x', labelsize=15)  
@@ -50,13 +50,13 @@ ax.set_ylabel('Number of tweets' , fontsize=15)
 ax.set_title('Top 5 languages', fontsize=15, fontweight='bold')  
 tweets_by_lang[:5].plot(ax=ax, kind='bar', color='red')  
 plt.show()
-
+```
 ![](https://miro.medium.com/max/30/0*LvY4HJ4sJTn1QKXj.png?q=20)
 
 ![](https://miro.medium.com/max/397/0*LvY4HJ4sJTn1QKXj.png)
 
 ลองดูข้อมูลตามประเทศ 5 อันดับแรก
-
+```py
 # Classify by country  
 tweets_by_country = tweets['country'].value_counts()fig, ax = plt.subplots()  
 ax.tick_params(axis='x', labelsize=15)  
@@ -258,5 +258,5 @@ _Originally published on_ [_github.com_](https://github.com/lukkiddd/practice_te
 
 > Written with [StackEdit](https://lukkiddd.com/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3-text-mining-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-twitter-streaming-api-%E0%B9%81%E0%B8%A5%E0%B8%B0-python-f5f11ad3d3d6).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM4NjkwMTcsLTY3MTU4MTY4OV19
+eyJoaXN0b3J5IjpbMTg1NjIyMTEyNCwtNjcxNTgxNjg5XX0=
 -->
