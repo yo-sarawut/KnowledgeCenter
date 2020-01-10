@@ -37,7 +37,8 @@ import pandas as pd
 
 app = Flask(__name__)
 api = Api(app)
-
+```
+```py
 # Model
 model = joblib.load('myiris.pkl')
 class Iris(Resource):
@@ -56,8 +57,11 @@ class Iris(Resource):
         return {"result": result[0]}, 201
 api.add_resource(Iris, "/iris")
 app.run(debug=True)
+```
 จากนั้น ไปที่ Command Prompt พิมพ์คำสั่งต่อไปนี้ เพื่อเรียก Flask ขึ้นมาทำงาน โดยรับ Request ที่ Port 5000
+```command
 python iris.py
+```
 ได้ผลดังนี้
 
 
@@ -70,5 +74,5 @@ python iris.py
 
 > Written with [StackEdit](https://sysadmin.psu.ac.th/2018/07/23/from-lab-to-production-with-flask-restful/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjYzMTIzNl19
+eyJoaXN0b3J5IjpbMTQ3NjA2MzkxOF19
 -->
