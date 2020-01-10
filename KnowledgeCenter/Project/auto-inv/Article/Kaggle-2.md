@@ -6,23 +6,29 @@ From LAB to Production – จาก Machine Learning Model สู่ Flask REST
 
 ใน Python มี Object Serialization ทำให้สามารถเก็บ Object ที่สร้างขึ้น ไปไว้ในไฟล์ ซึ่ง มีให้ใช้หลายตัว ได้แก่
 
-pickle
-cpickle
-joblib
+- pickle
+- cpickle
+- joblib
+
 มีคนทำการทดสอบความเร็ว พบว่า cpickle เร็วสุด (https://stackoverflow.com/questions/12615525/what-are-the-different-use-cases-of-joblib-versus-pickle) แต่ในที่นี้ จะใช้ joblib เพราะน่าจะเหมาะกับงานที่ต้องมีการ Load Data ขนาดใหญ่ ใช้งานร่วมกันหลาย Process (เท่าที่เข้าใจครับ)
 
 การสร้างไฟล์ .pkl บน kaggle ดังนี้
 
 เพิ่มคำสั่งต่อไปนี้ แล้ว กดปุ่ม commit and run ด้านบนขวา
+```py
 from sklearn.externals import joblib
 joblib.dump(model, 'myiris.pkl')
+```
 กดปุ่ม รูป << ด้าน ซ้ายบน เพื่อกลับไป หน้า Kernel ของเรา คลิกที่ Output จะเห็นไฟล์ ที่เพิ่งสร้าง ให้คลิก Download ไปเก็บไว้ใน Folder ที่จะใช้งาน Productioin
 
 ต่อไป จะเป็นขั้นตอนการติดตั้ง และการใช้ Flask ซึ่งเป็น Python Microframework  และ ใช้ Flask RESTful เพื่อสร้าง REST API
 
 ใช้คำสั่งต่อไปนี้ ติดตั้ง flask และ flask-resetful
+```py
 pip install flask flask-restful
+```
 จากนั้น เข้าไปใน folder ที่เราวางไฟล์ myiris.pkl ไว้ แล้ว สร้างไฟล์ iris.py มี Code ดังนี้
+```py
 from flask import Flask, request
 from flask_restful import Resource, Api, reqparse
 from sklearn.externals import joblib
@@ -64,5 +70,5 @@ python iris.py
 
 > Written with [StackEdit](https://sysadmin.psu.ac.th/2018/07/23/from-lab-to-production-with-flask-restful/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDc3MjAwXX0=
+eyJoaXN0b3J5IjpbMTYwNjYzMTIzNl19
 -->
