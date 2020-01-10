@@ -84,7 +84,10 @@ Reference
 
 -   https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 
-> Written with [StackEdit](https://stackedit.io/).
+## บทความที่เกี่่ยวข้อง
+- [การจัดกลุ่มลูกค้าด้วยเทคนิค K-means](http://kmean-clustering-customer.blogspot.com/)
+
+> [Sorce: ](https://www.softnix.co.th/2018/09/06/%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-k-means-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%81%E0%B8%95%E0%B8%A3/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4ODMyMTU2XX0=
+eyJoaXN0b3J5IjpbLTM2NDQyODIxNV19
 -->
