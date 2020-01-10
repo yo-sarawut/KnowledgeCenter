@@ -1,4 +1,7 @@
 
+Kaggle – วิธีการใช้ Logistic Regression บนข้อมูล Iris
+===
+
 ข้อมูล Iris Dataset มักจะใช้ในการเริ่มต้นศึกษาการใช้งาน เครื่องมือทาง Data Science โดยเฉพาะ Classification เพราะไม่ซับซ้อน มี 4 ฟิลด์ ที่ใช้เป็น Features และมี 1 ฟิลด์ ที่จะเป็น Class (มี 3 Categories)
 
 1.  เริ่มจาก New Kernel  
@@ -66,6 +69,8 @@
     
 
 ขั้นตอนไม่ยากครับ ส่วนว่าเราจะเลือกใช้ Model ไหน ทำอะไร อันนี้ต้องมาดูรายละเอียดกันต่อครับ
+
+> [Source :](https://sysadmin.psu.ac.th/2018/07/19/kaggle-logistic-regression-iris-dataset/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTY2Nzg1NiwxNDc2MDYzOTE4XX0=
+eyJoaXN0b3J5IjpbNDEwNDY5NTc2LDE0NzYwNjM5MThdfQ==
 -->
