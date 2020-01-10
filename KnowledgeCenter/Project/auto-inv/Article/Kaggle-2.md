@@ -29,23 +29,27 @@ Kaggle – วิธีการใช้ Logistic Regression บนข้อม
   iris = pd.read_csv('../input/iris.data')
   ```
 7.  สำรวจข้อมูลเบื้องต้น  
+
 ```py
-  iris.head()  
-    iris.info()  
-    iris.describe()  
-    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)
+iris.head()  
+iris.info()  
+iris.describe()  
+ ```
+ 
+![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)
 9.  ลองทำ Data Visualization เบื้องต้น ด้วย pairplot แยกตามสีของ species
-    
-    sns.pairplot(iris, hue='species')
-    
+10. 
+ ```py   
+sns.pairplot(iris, hue='species')
+```    
     [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)
     
-    หรือ จะดูเป็น scatterplot
-    
+หรือ จะดูเป็น scatterplot
+ ```py   
     plt.scatter(iris['sepal_length'], iris['sepal_width'], marker='.', color='r')
     plt.xlabel('Sepal Length')
     plt.ylabel('Sepal Width')
-    
+ ```   
     [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)
     
 10.  ต่อไป เป็นขั้นตอนการแบ่งข้อมูลออกเป็น 2 ส่วน สำหรับ Train และ Test
@@ -75,5 +79,5 @@ Kaggle – วิธีการใช้ Logistic Regression บนข้อม
 
 > [Source :](https://sysadmin.psu.ac.th/2018/07/19/kaggle-logistic-regression-iris-dataset/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwODYzMzQ1LDE0NzYwNjM5MThdfQ==
+eyJoaXN0b3J5IjpbLTQyODcyNzE2NywxNDc2MDYzOTE4XX0=
 -->
