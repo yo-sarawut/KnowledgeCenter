@@ -1,82 +1,71 @@
 
-From LAB to Production – จาก Machine Learning Model สู่ Flask RESTful
-===
+ข้อมูล Iris Dataset มักจะใช้ในการเริ่มต้นศึกษาการใช้งาน เครื่องมือทาง Data Science โดยเฉพาะ Classification เพราะไม่ซับซ้อน มี 4 ฟิลด์ ที่ใช้เป็น Features และมี 1 ฟิลด์ ที่จะเป็น Class (มี 3 Categories)
 
-จาก Kaggle – วิธีการใช้ Logistic Regression บนข้อมูล Iris เราได้ Model มาแล้ว แต่ จะนำสู่ Production ได้อย่างไร ?
+1.  เริ่มจาก New Kernel  
 
-ใน Python มี Object Serialization ทำให้สามารถเก็บ Object ที่สร้างขึ้น ไปไว้ในไฟล์ ซึ่ง มีให้ใช้หลายตัว ได้แก่
+![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-14_27_44-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-14_27_44-Window.png)
+2.  ในที่นี้ เลือก Notebook  
+    ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_19_24-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_19_24-Window.png)
+4.  จากนั้น เลือก Add Dataset จากที่เค้ามีให้ หรือ จะ Upload ขึ้นไปก็ได้  
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_50_54-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_50_54-Window.png)
+5.  จากนั้น ข้อมูลของเราจะมาอยู่ที่ ../input/ ในกรณีเรามีไฟล์ ../input/iris.data  
+    จาก Code ที่ให้มาในเบื้องต้น ให้กดปุ่ม Shift+Enter หรือ กดเครื่องหมาย Run ด้าน ซ้ายมือ ก็จะได้ผลดังนี้  
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_56_30-.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-15_56_30-.png)
+6.  จากนั้น มาเขียน Code กัน เริ่มจาก Import Package ที่ต้องใช้
+    
+    import pandas as pd
+    import numpy as np
+    import seaborn as sns
+    import matplotlib.pyplot as plt
+    %matplotlib inline
+    
+7.  สร้างตัวแปร iris อ่านข้อมูลจากไฟล์
+    
+    iris = pd.read_csv('../input/iris.data')
+    
+8.  สำรวจข้อมูลเบื้องต้น  
+    iris.head()  
+    iris.info()  
+    iris.describe()  
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_24_43-Window.png)
+9.  ลองทำ Data Visualization เบื้องต้น ด้วย pairplot แยกตามสีของ species
+    
+    sns.pairplot(iris, hue='species')
+    
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_31_19-Window.png)
+    
+    หรือ จะดูเป็น scatterplot
+    
+    plt.scatter(iris['sepal_length'], iris['sepal_width'], marker='.', color='r')
+    plt.xlabel('Sepal Length')
+    plt.ylabel('Sepal Width')
+    
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-18-16_38_02-Clipboard.png)
+    
+10.  ต่อไป เป็นขั้นตอนการแบ่งข้อมูลออกเป็น 2 ส่วน สำหรับ Train และ Test
+    
+    ```
+    from sklearn.model_selection import train_test_split
+    ```
+    
+11.  จากนั้น Train Model
+    
+    from sklearn.linear_model import LogisticRegression
+    model = LogisticRegression()
+    model.fit(X_train, y_train)
+    
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)
+    
+12.  แล้วก็ ตรวจสอบความแม่นยำ Model Evaluation
+    
+    prediction = model.predict(X_test)
+    from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
+    
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_38-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_38-Window.png)  
+    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_51-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_51-Window.png)
+    
 
-- pickle
-- cpickle
-- joblib
-
-มีคนทำการทดสอบความเร็ว พบว่า cpickle เร็วสุด (https://stackoverflow.com/questions/12615525/what-are-the-different-use-cases-of-joblib-versus-pickle) แต่ในที่นี้ จะใช้ joblib เพราะน่าจะเหมาะกับงานที่ต้องมีการ Load Data ขนาดใหญ่ ใช้งานร่วมกันหลาย Process (เท่าที่เข้าใจครับ)
-
-การสร้างไฟล์ .pkl บน kaggle ดังนี้
-
-เพิ่มคำสั่งต่อไปนี้ แล้ว กดปุ่ม commit and run ด้านบนขวา
-```py
-from sklearn.externals import joblib
-joblib.dump(model, 'myiris.pkl')
-```
-กดปุ่ม รูป << ด้าน ซ้ายบน เพื่อกลับไป หน้า Kernel ของเรา คลิกที่ Output จะเห็นไฟล์ ที่เพิ่งสร้าง ให้คลิก Download ไปเก็บไว้ใน Folder ที่จะใช้งาน Productioin
-
-ต่อไป จะเป็นขั้นตอนการติดตั้ง และการใช้ Flask ซึ่งเป็น Python Microframework  และ ใช้ Flask RESTful เพื่อสร้าง REST API
-
-ใช้คำสั่งต่อไปนี้ ติดตั้ง flask และ flask-resetful
-```py
-pip install flask flask-restful
-```
-จากนั้น เข้าไปใน folder ที่เราวางไฟล์ myiris.pkl ไว้ แล้ว สร้างไฟล์ iris.py มี Code ดังนี้
-```py
-from flask import Flask, request
-from flask_restful import Resource, Api, reqparse
-from sklearn.externals import joblib
-import pandas as pd
-#from sklearn.linear_model import LogisticRegression
-
-app = Flask(__name__)
-api = Api(app)
-```
-```py
-# Model
-model = joblib.load('myiris.pkl')
-class Iris(Resource):
-    def get(self):        
-        return { "greeting":"Hello From IRIS Dataset"}
-    def post(self):
-        parser = reqparse.RequestParser()
-        parser.add_argument('sl')
-        parser.add_argument('sw')
-        parser.add_argument('pl')
-        parser.add_argument('pw')
-        args = parser.parse_args()        
-        x = pd.DataFrame([[ args['sl'],args['sw'], args['pl'],args['pw'] ]] ,\
-            columns=['sepal_length', 'sepal_width', 'petal_length', 'petal_width'])
-        result = model.predict(x)
-        return {"result": result[0]}, 201
-api.add_resource(Iris, "/iris")
-app.run(debug=True)
-```
-จากนั้น ไปที่ Command Prompt พิมพ์คำสั่งต่อไปนี้ เพื่อเรียก Flask ขึ้นมาทำงาน โดยรับ Request ที่ Port 5000
-```command
-python iris.py
-```
-ได้ผลดังนี้
-
-
-หากใช้ Web Browser ติดต่อไปยัง http://localhost:5000/iris จะได้ผลดังนี้
-
-แต่ถ้าใช้ Postman ติดต่อไปยัง http://localhost:5000/iris แล้วส่งตัวแปร ความกว้าง ความยาว ของกลีบดอก ผ่าน POST ไป จะได้ผลการ Classification มาว่าเป็น Species อะไร ดังนี้
-
-จากตัวอย่างนี้ แสดงให้เห็นว่า เราสามารถสร้าง Model จากข้อมูลขนาดใหญ่ แล้วนำออกมาเป็น Pickle แล้วใช้ Flask RESTFul เพื่อรับ Request แล้วตอบกลับเป็น ผลการ Classification ได้ หรือ Prediction ต่าง ๆ ได้
-เดี๋ยวค่อยมาลงรายละเอียดเรื่อง วิธีการใช้งาน Flask และ การใช้ Machine Learning แบบต่าง ๆ กันKaggle – วิธีการใช้ Logistic Regression บนข้อมูล Iris
-===
-
-
-
-
-> Written with [StackEdit](https://sysadmin.psu.ac.th/2018/07/23/from-lab-to-production-with-flask-restful19/kaggle-logistic-regression-iris-dataset/).
+ขั้นตอนไม่ยากครับ ส่วนว่าเราจะเลือกใช้ Model ไหน ทำอะไร อันนี้ต้องมาดูรายละเอียดกันต่อครับ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODc4ODE5LDE0NzYwNjM5MThdfQ==
+eyJoaXN0b3J5IjpbMTIwOTY2Nzg1NiwxNDc2MDYzOTE4XX0=
 -->
