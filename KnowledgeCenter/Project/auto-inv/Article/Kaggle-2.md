@@ -56,27 +56,27 @@ sns.pairplot(iris, hue='species')
     
  ```py
  from sklearn.model_selection import train_test_split
-    ```
+```
     
 11.  จากนั้น Train Model
 ```py    
 from sklearn.linear_model import LogisticRegression
 model = LogisticRegression()
 model.fit(X_train, y_train)
- ```   
-    ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)
+```   
+   ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-09_59_55-Window.png)
     
 12.  แล้วก็ ตรวจสอบความแม่นยำ Model Evaluation
- ```py   
+```py   
 prediction = model.predict(X_test)
- from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
- ```   
-    [![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_38-Window.png)](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_38-Window.png)  
+from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
+```   
+   ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_38-Window.png)
     ![](https://sysadmin.psu.ac.th/wp-content/uploads/2018/07/2561-07-19-10_03_51-Window.png)
 
 ขั้นตอนไม่ยากครับ ส่วนว่าเราจะเลือกใช้ Model ไหน ทำอะไร อันนี้ต้องมาดูรายละเอียดกันต่อครับ
 
 > [Source :](https://sysadmin.psu.ac.th/2018/07/19/kaggle-logistic-regression-iris-dataset/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjAwNTgwOCwxNDc2MDYzOTE4XX0=
+eyJoaXN0b3J5IjpbLTE0OTM5NTE1MDMsMTQ3NjA2MzkxOF19
 -->
