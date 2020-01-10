@@ -115,14 +115,14 @@ _หมายเหตุ เป็นการอธิบายการทำ
 > <mark>ก๋วยเตี๋ยวต้มยำ</mark>แถวทองหล่อ
 
 ในการพัฒนา เราสามารถใช้ regex จดจำคำศัพท์ทั้งหมด และใส่ tag เมื่อพบคำศัพท์ใดๆใน keyword ได้ดังนี้
-
+```py
 food_dict = ['กะเพรา','กะเพราหมูสับ','ก๋วยเตี๋ยวต้มยำ','ต้มยำ']  
 food_dict = sorted(food_dict, key=len)  
 food_dict.reverse()import req = "ก๋วยเตี๋ยวต้มยำทองหล่อ"  
 regex = re.compile(r'(' + '|'.join(food_dict) + ')', re.I)  
 tag_q = regex.sub(r'<mark>\1</mark>', q)  
 print(tag_q)
-
+```
 โดยเริ่มต้นจาก เรียงคำศัพท์ตามความยาวมากที่สุดก่อน เพื่อให้ regex สามารถทำงานแบบ longest matching (เนื่องจาก regex จะเลือกคำศัพท์ตามลำดับจากซ้ายไปขวา) ก่อนจะใช้ re.complie เพื่อให้ regex จดจำคำศัพท์ทั้งหมด และ replace text เมื่อพบคำศัพท์ใดๆ ใน keyword ด้วย regex.sub
 
 แต่การใช้ regex แบบปกติ เพื่อทำการ find and replace แบบนี้ใช้เวลาประมวลผลนานมาก เพราะคำศัพท์เรามีมากกว่า 7 แสนคำ เราจึงลองหาวิธีใหม่ๆ มาช่วย นั่นคือ การทำให้ regex ค้นหาคำศัพท์เร็วขึ้นโดยการแปลง regex pattern ให้อยู่ในรูปแบบ  [prefix tree หรือ trie](https://en.wikipedia.org/wiki/Trie)
@@ -150,7 +150,7 @@ print(tag_q)
 โดยจากการทดสอบ prefix tree สามารถลดเวลาขั้นตอนการ label ได้มากกว่า 2–3 เท่า ขึ้นอยู่กับรูปแบบ และปริมาณของข้อมูล
 
 ตัวอย่างการใช้ trie กับ regex
-
+```py
 import re  
 from trie import Triedef trie_regex_from_words(words):  
     trie = Trie()  
@@ -159,7 +159,7 @@ from trie import Triedef trie_regex_from_words(words):
     return re.compile(r'(' + trie.pattern() + ')', re.I)trie_regex = trie_regex_from_words(food_dict)q = "ก๋วยเตี๋ยวต้มยำทองหล่อ"  
 tag_q = trie_regex.sub(r'<mark>\1</mark>', q)  
 print(tag_q)
-
+```
 -   import library  [trie.py](https://stackoverflow.com/questions/42742810/speed-up-millions-of-regex-replacements-in-python-3/42789508#42789508)
 -   trie.add(word) : เพื่อเพิ่มคำศัพท์ไปใน trie จนครบ
 -   trie.pattern() : แปลง trie ให้อยู่ในรูปแบบที่ regex เข้าใจก่อน compile
@@ -185,7 +185,7 @@ print(tag_q)
 ตัวอย่าง application ของ sequence data ที่ใช้ RNN, ภาพจาก  [deeplearning.ai](https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models)
 
 ถ้าเรากลับมามองในโจทย์การตัดคำ model จะพิจารณาว่าคำที่พิมพ์เข้ามา คือ ชุดของตัวอักษร sequence of characters เช่น จากคำว่า “กาแฟ” จะพิจารณาเป็น
-```
+```py
 t = 0 : ก
 t = 1: า
 t = 2: แ
@@ -227,16 +227,19 @@ Bi-directional RNN (LSTM) character level ดัดแปลงภาพมา�
 
 ตัวอย่างการ เพิ่ม Bi-directional RNN layer
 ```py
-#Original bidirectional RNN layer  
-cell = tf.nn.rnn_cell.GRUCell(state_size)  
-cell = tf.nn.rnn_cell.DropoutWrapper(cell, output_keep_prob=1-dropout)(forward_output, backward_output), _ = \  
-    tf.nn.bidirectional_dynamic_rnn(cell, cell, inputs=embedding_vectors,  
-                                    sequence_length=lengths, dtype=tf.float32,**scope='BRNN_Layer_1'**)  
-outputs = tf.concat([forward_output, backward_output], axis=2)#Add new bidirectional RNN layer  
-cell2 = tf.nn.rnn_cell.GRUCell(state_size)  
-cell2 = tf.nn.rnn_cell.DropoutWrapper(cell2, output_keep_prob=1-dropout)(forward_output, backward_output), _ = \  
-    tf.nn.bidirectional_dynamic_rnn(cell2, cell2, **inputs=outputs**,  
-                                    sequence_length=lengths, dtype=tf.float32,**scope='BRNN_Layer_2'**)  
+#Original bidirectional RNN layer
+cell = tf.nn.rnn_cell.GRUCell(state_size)
+cell = tf.nn.rnn_cell.DropoutWrapper(cell, output_keep_prob=1-dropout)
+(forward_output, backward_output), _ = \
+    tf.nn.bidirectional_dynamic_rnn(cell, cell, inputs=embedding_vectors,
+                                    sequence_length=lengths, dtype=tf.float32,scope='BRNN_Layer_1')
+outputs = tf.concat([forward_output, backward_output], axis=2)
+#Add new bidirectional RNN layer
+cell2 = tf.nn.rnn_cell.GRUCell(state_size)
+cell2 = tf.nn.rnn_cell.DropoutWrapper(cell2, output_keep_prob=1-dropout)
+(forward_output, backward_output), _ = \
+    tf.nn.bidirectional_dynamic_rnn(cell2, cell2, inputs=outputs,
+                                    sequence_length=lengths, dtype=tf.float32,scope='BRNN_Layer_2')
 outputs = tf.concat([forward_output, backward_output], axis=2)
 ```
 ในส่วนของการเพิ่ม layer นั้น จำเป็นต้องปรับ code จากของเก่า โดยกำหนด scope name เพิ่ม เพื่อให้ model สามารถแยกความแตกต่างระหว่าง layer
@@ -286,5 +289,5 @@ Weekly zero result rate
 
 > Source : [wongnai.com](https://life.wongnai.com/wongnai-search-improvement-using-machine-learning-part1-e0777b65979e).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI3OTk5MTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDM3NTcyNzFdfQ==
 -->
