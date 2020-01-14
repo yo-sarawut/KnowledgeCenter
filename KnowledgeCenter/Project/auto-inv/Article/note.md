@@ -17,6 +17,9 @@
 - [Basic ML : K-means Step by Step](https://medium.com/@somprasonggbl/basic-ml-k-means-step-by-step-9b2a57509a49)
 - [Text Classification Algorithms: A Survey](https://medium.com/text-classification-algorithms/text-classification-algorithms-a-survey-a215b7ab7e2d)
 - 
+## Tool
+
+- [Harmonized System Codes (HS Code 2017 - Current)](https://www.foreign-trade.com/reference/hscode.htm?cat=1)
 
 
 ## คอร์สออนไลน์
@@ -37,7 +40,7 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 
 สนใจสามารถลงทะเบียนเรียนออนไลน์ได้ที่ : [https://v1.skooldio.com/courses/gde-tensorflow-01](https://v1.skooldio.com/courses/gde-tensorflow-01)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNDc2MTM4LDc1MjA2MDM0OSwtMjA4OT
-AxMjM4OSwtNDU4NzAzOTYwLDE1ODc4ODMzMTcsLTk1MjY5NjI5
-MiwtMTA4MzkwODk1M119
+eyJoaXN0b3J5IjpbMTk1ODEyMjUzMCwyNDA0NzYxMzgsNzUyMD
+YwMzQ5LC0yMDg5MDEyMzg5LC00NTg3MDM5NjAsMTU4Nzg4MzMx
+NywtOTUyNjk2MjkyLC0xMDgzOTA4OTUzXX0=
 -->
