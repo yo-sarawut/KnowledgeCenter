@@ -18,7 +18,8 @@
 - [Text Classifier](https://www.softnix.co.th/2018/08/09/naive-bay-text-classification-with-python/)
 - [Basic ML : K-means Step by Step](https://medium.com/@somprasonggbl/basic-ml-k-means-step-by-step-9b2a57509a49)
 - [Text Classification Algorithms: A Survey](https://medium.com/text-classification-algorithms/text-classification-algorithms-a-survey-a215b7ab7e2d)
-- 
+- [[ฝึกงาน] แยกประเภทรูปภาพด้วย Deep Learning ที่ Wongnai โจทย์ใหญ่ที่ไม่ธรรมดา](https://life.wongnai.com/internship-image-classification-wongnai-a1dbc2890766)
+
 ## Tool
 
 - [Harmonized System Codes (HS Code 2017 - Current)](https://www.foreign-trade.com/reference/hscode.htm?cat=1)
@@ -42,8 +43,8 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 
 สนใจสามารถลงทะเบียนเรียนออนไลน์ได้ที่ : [https://v1.skooldio.com/courses/gde-tensorflow-01](https://v1.skooldio.com/courses/gde-tensorflow-01)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDkyODgzNSw3MTkzNzY0NjEsMTk1OD
-EyMjUzMCwyNDA0NzYxMzgsNzUyMDYwMzQ5LC0yMDg5MDEyMzg5
-LC00NTg3MDM5NjAsMTU4Nzg4MzMxNywtOTUyNjk2MjkyLC0xMD
-gzOTA4OTUzXX0=
+eyJoaXN0b3J5IjpbLTI0Mjk1NTc5NCwxMzk0OTI4ODM1LDcxOT
+M3NjQ2MSwxOTU4MTIyNTMwLDI0MDQ3NjEzOCw3NTIwNjAzNDks
+LTIwODkwMTIzODksLTQ1ODcwMzk2MCwxNTg3ODgzMzE3LC05NT
+I2OTYyOTIsLTEwODM5MDg5NTNdfQ==
 -->
