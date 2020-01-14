@@ -4,6 +4,7 @@
 ## Knowledge
 
 - [scikit-learn Document](https://scikit-learn.org/stable/auto_examples/index.html#examples-based-on-real-world-datasets)
+- [Text Classification : VDO](https://attapol.github.io/compling/text_classification.html)
 
 ## บทความแนะนำ
 
@@ -40,7 +41,7 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 
 สนใจสามารถลงทะเบียนเรียนออนไลน์ได้ที่ : [https://v1.skooldio.com/courses/gde-tensorflow-01](https://v1.skooldio.com/courses/gde-tensorflow-01)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODEyMjUzMCwyNDA0NzYxMzgsNzUyMD
-YwMzQ5LC0yMDg5MDEyMzg5LC00NTg3MDM5NjAsMTU4Nzg4MzMx
-NywtOTUyNjk2MjkyLC0xMDgzOTA4OTUzXX0=
+eyJoaXN0b3J5IjpbNzE5Mzc2NDYxLDE5NTgxMjI1MzAsMjQwND
+c2MTM4LDc1MjA2MDM0OSwtMjA4OTAxMjM4OSwtNDU4NzAzOTYw
+LDE1ODc4ODMzMTcsLTk1MjY5NjI5MiwtMTA4MzkwODk1M119
 -->
