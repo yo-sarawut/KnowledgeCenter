@@ -19,6 +19,7 @@
 - [Basic ML : K-means Step by Step](https://medium.com/@somprasonggbl/basic-ml-k-means-step-by-step-9b2a57509a49)
 - [Text Classification Algorithms: A Survey](https://medium.com/text-classification-algorithms/text-classification-algorithms-a-survey-a215b7ab7e2d)
 - [[ฝึกงาน] แยกประเภทรูปภาพด้วย Deep Learning ที่ Wongnai โจทย์ใหญ่ที่ไม่ธรรมดา](https://life.wongnai.com/internship-image-classification-wongnai-a1dbc2890766)
+- [มาฝึกทำ Data Science  กันฟรีๆ กับ 24 โปรเจ็คต์ที่ดีที่สุด]()
 
 ## Tool
 
@@ -43,8 +44,8 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 
 สนใจสามารถลงทะเบียนเรียนออนไลน์ได้ที่ : [https://v1.skooldio.com/courses/gde-tensorflow-01](https://v1.skooldio.com/courses/gde-tensorflow-01)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mjk1NTc5NCwxMzk0OTI4ODM1LDcxOT
-M3NjQ2MSwxOTU4MTIyNTMwLDI0MDQ3NjEzOCw3NTIwNjAzNDks
-LTIwODkwMTIzODksLTQ1ODcwMzk2MCwxNTg3ODgzMzE3LC05NT
-I2OTYyOTIsLTEwODM5MDg5NTNdfQ==
+eyJoaXN0b3J5IjpbMTM1MjYyMTU3MCwtMjQyOTU1Nzk0LDEzOT
+Q5Mjg4MzUsNzE5Mzc2NDYxLDE5NTgxMjI1MzAsMjQwNDc2MTM4
+LDc1MjA2MDM0OSwtMjA4OTAxMjM4OSwtNDU4NzAzOTYwLDE1OD
+c4ODMzMTcsLTk1MjY5NjI5MiwtMTA4MzkwODk1M119
 -->
