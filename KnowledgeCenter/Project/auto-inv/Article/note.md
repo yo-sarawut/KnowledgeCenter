@@ -24,6 +24,7 @@
 ## Tool
 
 - [Harmonized System Codes (HS Code 2017 - Current)](https://www.foreign-trade.com/reference/hscode.htm?cat=1)
+- [FastText is a library for efficient learning of word representations and sentence classification.](https://fasttext.cc/docs/en/support.html)
 
 
 ## คอร์สออนไลน์
@@ -44,8 +45,9 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 
 สนใจสามารถลงทะเบียนเรียนออนไลน์ได้ที่ : [https://v1.skooldio.com/courses/gde-tensorflow-01](https://v1.skooldio.com/courses/gde-tensorflow-01)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzIyNDU0NiwtMjQyOTU1Nzk0LDEzOT
-Q5Mjg4MzUsNzE5Mzc2NDYxLDE5NTgxMjI1MzAsMjQwNDc2MTM4
-LDc1MjA2MDM0OSwtMjA4OTAxMjM4OSwtNDU4NzAzOTYwLDE1OD
-c4ODMzMTcsLTk1MjY5NjI5MiwtMTA4MzkwODk1M119
+eyJoaXN0b3J5IjpbLTIwMjAwMTU2MjEsLTg1NzIyNDU0NiwtMj
+QyOTU1Nzk0LDEzOTQ5Mjg4MzUsNzE5Mzc2NDYxLDE5NTgxMjI1
+MzAsMjQwNDc2MTM4LDc1MjA2MDM0OSwtMjA4OTAxMjM4OSwtND
+U4NzAzOTYwLDE1ODc4ODMzMTcsLTk1MjY5NjI5MiwtMTA4Mzkw
+ODk1M119
 -->
