@@ -177,9 +177,7 @@
 
 ‌
 
-### กรมสรรพากรกำหนดให้ใช้ใบรับรองอิเล็กทรอนิกส์ในการยืนยันตัวตนด้วยลายมือชื่อดิจิทัล ดังนี้
-
-‌
+### กรมสรรพากรกำหนดให้ใช้ใบรับรองอิเล็กทรอนิกส์ในการยืนยันตัวตนด้วยลายมือชื่อดิจิทัล ดังนี้‌
 
 1.  ยื่นคำขอจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (บ.อ.01)    
 2.  ยื่นคำขอแจ้งการเปลี่ยนแปลงจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (บ.อ.09)    
@@ -192,10 +190,11 @@
 
 ‌
 
-1.  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](http://www.youtube.com/watch?v=UeXSSSINZUc) 
+-   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](http://www.youtube.com/watch?v=UeXSSSINZUc) 
     
-2.  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
-3. [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view) 
+-   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
+   
+-   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://github.com/ecs-support/knowledge-center/raw/master/img/vdo-3.jpg)](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view) 
   
 ## Partnership
 
@@ -205,23 +204,15 @@
 
 ![](https://github.com/yosarawut/WorkingArea/raw/master/e-tax-invoice/img/partner.jpg)
 
-Partnership
-
-Enter a caption for this image (optional)
-
 ‌
 
-# แหล่งศึกษาข้อมูลเพิ่มเติม
+# แหล่งศึกษาข้อมูลเพิ่มเติม‌
 
-‌
-
--   [e-Tax Invoice & Receipt | Official Website](https://etax.rd.go.th/)
-    
--   [กรมสรรพากร](http://www.rd.go.th/)
-    
+-   [e-Tax Invoice & Receipt | Official Website](https://etax.rd.go.th/)    
+-   [กรมสรรพากร](http://www.rd.go.th/)    
 -   [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIxMTgwMzgsLTExMzgwOTQ2MDUsMT
-czMjM1NDIxMCw1MDAyMzQzNDAsLTE0Njc5MDUwMTAsMjA1NjI0
-OTk0M119
+eyJoaXN0b3J5IjpbMzUxMDc1MDM0LC0xMTM4MDk0NjA1LDE3Mz
+IzNTQyMTAsNTAwMjM0MzQwLC0xNDY3OTA1MDEwLDIwNTYyNDk5
+NDNdfQ==
 -->
