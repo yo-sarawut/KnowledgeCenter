@@ -95,9 +95,11 @@ Project Overview
 -   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](http://www.youtube.com/watch?v=UeXSSSINZUc) 
     
 -   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
-    
--  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3]](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)
+   
+-   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
+ 
+-  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3(https://github.com/ecs-support/knowledge-center/raw/master/img/vdo-3.jpg) ](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ1MDM5NTUsLTE1Njk4MjI0NTEsMT
-I5NzYxMzQ2MF19
+eyJoaXN0b3J5IjpbLTk3MjAzMDIwNiwtMTMxNDUwMzk1NSwtMT
+U2OTgyMjQ1MSwxMjk3NjEzNDYwXX0=
 -->
