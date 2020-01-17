@@ -177,24 +177,18 @@
 
 ‌
 
-### 
-
-กรมสรรพากรกำหนดให้ใช้ใบรับรองอิเล็กทรอนิกส์ในการยืนยันตัวตนด้วยลายมือชื่อดิจิทัล ดังนี้
+### กรมสรรพากรกำหนดให้ใช้ใบรับรองอิเล็กทรอนิกส์ในการยืนยันตัวตนด้วยลายมือชื่อดิจิทัล ดังนี้
 
 ‌
 
-1.  ยื่นคำขอจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (บ.อ.01)
-    
-2.  ยื่นคำขอแจ้งการเปลี่ยนแปลงจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (บ.อ.09)
-    
+1.  ยื่นคำขอจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (บ.อ.01)    
+2.  ยื่นคำขอแจ้งการเปลี่ยนแปลงจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (บ.อ.09)    
 3.  ลงลายมือชื่อดิจิทัลเพื่อจัดทำใบกำกับภาษีอิเล็กทรอนิกส์ หรือใบรับอิเล็กทรอนิกส์
     
 
 ‌
 
-# 
-
-VDO Presentation : e-Tax Invoice & Receipt by RDX Platform
+## VDO Presentation : e-Tax Invoice & Receipt by RDX Platform
 
 ‌
 
@@ -202,7 +196,7 @@ VDO Presentation : e-Tax Invoice & Receipt by RDX Platform
     
 2.  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
     
-3.  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax Invoice/img/30-07-2019 13-03-33.jpg)](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view) 
+3.[e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax Invoice/img/30-07-2019 13-03-33.jpg)
     
 
 ‌
@@ -233,7 +227,7 @@ Enter a caption for this image (optional)
     
 -   [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTU3NTE0OCwtMTEzODA5NDYwNSwxNz
-MyMzU0MjEwLDUwMDIzNDM0MCwtMTQ2NzkwNTAxMCwyMDU2MjQ5
-OTQzXX0=
+eyJoaXN0b3J5IjpbOTU3NzgzMzQ3LC0xMTM4MDk0NjA1LDE3Mz
+IzNTQyMTAsNTAwMjM0MzQwLC0xNDY3OTA1MDEwLDIwNTYyNDk5
+NDNdfQ==
 -->
