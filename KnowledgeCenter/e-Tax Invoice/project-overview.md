@@ -89,6 +89,15 @@ Project Overview
 1. Upload File (การนำส่งไฟล์ข้อมูลด้วยวิธีการอัปโหลดผ่านเว็บไซต์กรมสรรพากร)
 2. Service Provider (ผู้ให้บริการหรือตัวแทนในการจัดทำและนำส่งข้อมูลแก่ผู้ประกอบการ)
 3. Host to Host (ช่องทางนำส่งข้อมูลที่เชื่อมต่อระบบงานของผู้ประกอบการกับระบบงานของกรมสรรพากร สำหรับผู้ประกอบการที่มีปริมาณข้อมูลนำส่งจำนวนมาก)
+
+
+
+-   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](http://www.youtube.com/watch?v=UeXSSSINZUc) 
+    
+-   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
+    
+-  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax Invoice/img/30-07-2019 13-03-33.jpg)](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk4MjI0NTEsMTI5NzYxMzQ2MF19
+eyJoaXN0b3J5IjpbLTEyNTExMzU2OCwtMTU2OTgyMjQ1MSwxMj
+k3NjEzNDYwXX0=
 -->
