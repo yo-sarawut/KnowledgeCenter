@@ -195,6 +195,7 @@
 1.  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 1](http://img.youtube.com/vi/UeXSSSINZUc/0.jpg)](http://www.youtube.com/watch?v=UeXSSSINZUc) 
     
 2.  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
+3. [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
     
 3.[e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax Invoice/img/30-07-2019 13-03-33.jpg)
     
@@ -227,7 +228,7 @@ Enter a caption for this image (optional)
     
 -   [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NzgzMzQ3LC0xMTM4MDk0NjA1LDE3Mz
-IzNTQyMTAsNTAwMjM0MzQwLC0xNDY3OTA1MDEwLDIwNTYyNDk5
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTYyNDYzODEzMCwtMTEzODA5NDYwNSwxNz
+MyMzU0MjEwLDUwMDIzNDM0MCwtMTQ2NzkwNTAxMCwyMDU2MjQ5
+OTQzXX0=
 -->
