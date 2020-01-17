@@ -96,8 +96,8 @@ Project Overview
     
 -   [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2 ![e-Tax Invoice & Receipt by RDX Platform ตอนที่ 2](http://img.youtube.com/vi/Nv3iRIGGwYk/0.jpg)](https://www.youtube.com/watch?v=Nv3iRIGGwYk) 
     
--  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax Invoice/img/30-07-2019 13-03-33.jpg)](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)
+-  [e-Tax Invoice & Receipt by RDX Platform ตอนที่ 3]](https://drive.google.com/file/d/1MJCa96zHQRD2KQU2hxRLQePWuVPQC-V4/view)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTExMzU2OCwtMTU2OTgyMjQ1MSwxMj
-k3NjEzNDYwXX0=
+eyJoaXN0b3J5IjpbLTEzMTQ1MDM5NTUsLTE1Njk4MjI0NTEsMT
+I5NzYxMzQ2MF19
 -->
