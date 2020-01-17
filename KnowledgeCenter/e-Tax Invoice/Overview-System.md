@@ -46,29 +46,16 @@
 
 ผู้ประกอบการที่มีซอฟต์แวร์ระบบบัญชีในการใช้งานและสามารถพัฒนาระบบงานของตนเองหรือจัดหาซอฟต์แร์การจัดทำ ใบกำกับภาษี ใบเพิ่มหนี้ และใบลดหนี้รวมถึงใบรับให้เป็นข้อมูลอิเล็กทรอนิกส์ที่มีการลงลายมือชื่อดิจิทัล (Digital Signature) ให้อยู่ในรูปแบบข้อมูลอิเล็กทรอนิกส์ เช่น PDF, PDF/A-3, XML File ที่มีการลงลายมือชื่อดิจิทัล (Digital Signature) หรืออื่นๆ ส่งมอบให้แก่ ผู้ซื้อสินค้าหรือผู้รับบริการตาม พ.ร.บ ว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544 และต้องนำส่งข้อมูลรูปแบบ XML File ที่มีการลงลายมือชื่อดิจิทัล ผ่านระบบอิเล็กทรอนิกส์ของกรมสรรพากร ภายในวันที่ 15 ของเดือนถาษีถัดไป ตามระเบียบกรมสรรพากร ว่าด้วยการจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ พ.ศ. 2560
 
-exit: Ctrl+↩
-
-กรมสรรพากรเผยแพร่ **เอกสารอธิบายภาพรวมการจัดทำและนำส่งข้อมูลใบกำกับภาษีอิเล็กทรอนิกส์** สามารถเข้าไปดูรายละเอียดเพิ่มเติม [**ดาวน์โหลดเอกสาร**](https://github.com/yosarawut/WorkingArea/raw/master/e-tax-invoice/data/OVERVIEW_ETAX0662.pdf)
+> กรมสรรพากรเผยแพร่ **เอกสารอธิบายภาพรวมการจัดทำและนำส่งข้อมูลใบกำกับภาษีอิเล็กทรอนิกส์** สามารถเข้าไปดูรายละเอียดเพิ่มเติม [**ดาวน์โหลดเอกสาร**](https://github.com/yosarawut/WorkingArea/raw/master/e-tax-invoice/data/OVERVIEW_ETAX0662.pdf)
 
 ‌
 
-# 
+## การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email
+![](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax%20Invoice/img/FlowETAXpng_Page1.png)
 
-การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email
 
-![](https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Tax Invoice/img/FlowETAXpng_Page1.png)
 
-การเข้าสู่ระบบ e-Tax Invoice & e-Receipt และ e-Tax Invoice by Email
-
-Enter a caption for this image (optional)
-
-‌
-
-# 
-
-การเตรียมความพร้อม
-
-‌
+## การเตรียมความพร้อม‌
 
 การเริ่มต้นเป็นผู้ประกอบการจัดทำและนำส่งข้อมูลใบกำกับภาษีอิเล็กทรอนิกส์และใบรับอิเล็กทรอนิกส์ จำเป็นต้องมีความรู้ ความเข้าใจในหลักเกณฑ์ และวิธีการจัดทำข้อมูลอิเล็กทรอนิกส์เพื่อ ปรับปรุงระบบงานขายสินค้าและบริการของกิจการ ให้สามารถออกใบกำกับภาษีอิเล็กทรอนิกส์และใบรับอิเล็กทรอนิกส์ให้กับผู้ซื้อสินค้าหรือผู้รับบริการ พร้อมนำส่งข้อมูลให้กรมสรรพากรได้ตามที่กฎหมายกำหนด โดยมีขั้นตอนในการเตรียมความพร้อมเป็นผู้ประกอบการ e-Tax Invoice ดังนี้
 
@@ -307,7 +294,7 @@ Enter a caption for this image (optional)
     
 -   [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc1NjE0OSwtMTEzODA5NDYwNSwxNz
+eyJoaXN0b3J5IjpbMTU5NDQwMjY4MSwtMTEzODA5NDYwNSwxNz
 MyMzU0MjEwLDUwMDIzNDM0MCwtMTQ2NzkwNTAxMCwyMDU2MjQ5
 OTQzXX0=
 -->
