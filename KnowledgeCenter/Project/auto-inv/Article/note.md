@@ -44,10 +44,12 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 -   ฝึกฝนสร้างโมเดลจริงผ่าน Codelab
 
 สนใจสามารถลงทะเบียนเรียนออนไลน์ได้ที่ : [https://v1.skooldio.com/courses/gde-tensorflow-01](https://v1.skooldio.com/courses/gde-tensorflow-01)
+
+- [kaggle.com](https://www.kaggle.com/colinmorris/hello-python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAwMTU2MjEsLTg1NzIyNDU0NiwtMj
-QyOTU1Nzk0LDEzOTQ5Mjg4MzUsNzE5Mzc2NDYxLDE5NTgxMjI1
-MzAsMjQwNDc2MTM4LDc1MjA2MDM0OSwtMjA4OTAxMjM4OSwtND
-U4NzAzOTYwLDE1ODc4ODMzMTcsLTk1MjY5NjI5MiwtMTA4Mzkw
-ODk1M119
+eyJoaXN0b3J5IjpbMTM0ODQ1NzQ5OSwtMjAyMDAxNTYyMSwtOD
+U3MjI0NTQ2LC0yNDI5NTU3OTQsMTM5NDkyODgzNSw3MTkzNzY0
+NjEsMTk1ODEyMjUzMCwyNDA0NzYxMzgsNzUyMDYwMzQ5LC0yMD
+g5MDEyMzg5LC00NTg3MDM5NjAsMTU4Nzg4MzMxNywtOTUyNjk2
+MjkyLC0xMDgzOTA4OTUzXX0=
 -->
