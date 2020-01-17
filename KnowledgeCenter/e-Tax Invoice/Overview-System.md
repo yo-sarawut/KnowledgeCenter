@@ -208,25 +208,17 @@
 
 กฎ/ระเบียบที่เกี่ยวข้อง
 
-[1. ประกาศสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง ข้อเสนอแนะมาตรฐานด้านเทคโนโลยีสารสนเทศและการสื่อสารที่จำเป็นต่อธุรกรรมทางอิเล็กทรอนิกส์ ว่าด้วยการรักษาความมั่นคงปลอดภัยสารสนเทศสำหรับผู้ให้บริการจัดทำ ส่งมอบ และเก็บรักษาข้อมูลอิเล็กทรอนิกส์ ขมธอ.๒๑-๒๕๖๒](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)
+[1. ประกาศสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง ข้อเสนอแนะมาตรฐานด้านเทคโนโลยีสารสนเทศและการสื่อสารที่จำเป็นต่อธุรกรรมทางอิเล็กทรอนิกส์ ว่าด้วยการรักษาความมั่นคงปลอดภัยสารสนเทศสำหรับผู้ให้บริการจัดทำ ส่งมอบ และเก็บรักษาข้อมูลอิเล็กทรอนิกส์ ขมธอ.๒๑-๒๕๖๒](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)   [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)
 
-[![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)
+[2. ประกาศอธิบดีกรมสรรพากร (ฉบับที่ ๑๕) เรื่อง กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์](https://www.rd.go.th/publish/fileadmin/user_upload/kormor/newlaw/dgg15.pdf)  [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://www.rd.go.th/publish/fileadmin/user_upload/kormor/newlaw/dgg15.pdf)
 
-[2. ประกาศอธิบดีกรมสรรพากร (ฉบับที่ ๑๕) เรื่อง กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์](https://www.rd.go.th/publish/fileadmin/user_upload/kormor/newlaw/dgg15.pdf)
-
-[![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://www.rd.go.th/publish/fileadmin/user_upload/kormor/newlaw/dgg15.pdf)
-
-[3. ประกาศสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการรับรองระบบสารสนเทศสำหรับผู้ให้บริการนำส่งข้อมูล อิเล็กทรอนิกส์ และผู้ให้บริการจัดทำเอกสารอิเล็กทรอนิกส์](https://standard.etda.or.th/serviceprovider/doc/20200116-Service-Provider-Criteria-V08-01.pdf)
-
-[![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://standard.etda.or.th/serviceprovider/doc/20200116-Service-Provider-Criteria-V08-01.pdf)
+[3. ประกาศสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการรับรองระบบสารสนเทศสำหรับผู้ให้บริการนำส่งข้อมูล อิเล็กทรอนิกส์ และผู้ให้บริการจัดทำเอกสารอิเล็กทรอนิกส์](https://standard.etda.or.th/serviceprovider/doc/20200116-Service-Provider-Criteria-V08-01.pdf)  [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://standard.etda.or.th/serviceprovider/doc/20200116-Service-Provider-Criteria-V08-01.pdf)
 
   
 
 กฎ/ระเบียบอื่นๆ
 
-[1. พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. ๒๕๔๔ และฉบับแก้ไขเพิ่มเติม (ฉบับที่ ๔) พ.ศ. ๒๕๖๒](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/A/067/T_0203.PDF)
-
-[![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/A/067/T_0203.PDF)
+[1. พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. ๒๕๔๔ และฉบับแก้ไขเพิ่มเติม (ฉบับที่ ๔) พ.ศ. ๒๕๖๒](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/A/067/T_0203.PDF)  [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/A/067/T_0203.PDF)
 
 [2. ประกาศสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง ข้อเสนอแนะมาตรฐานด้านเทคโนโลยีสารสนเทศและการสื่อสารที่จำเป็นต่อธุรกรรมทางอิเล็กทรอนิกส์ ว่าด้วยข้อความอิเล็กทรอนิกส์สำหรับการซื้อขายสินค้าและบริการ ขมธอ.๓-๒๕๖๐](https://standard.etda.or.th/wp-content/uploads/2019/03/20170120-ER-EINVOICEV2-V08-16F-0711.pdf)  [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://standard.etda.or.th/wp-content/uploads/2019/03/20170120-ER-EINVOICEV2-V08-16F-0711.pdf)
 
@@ -234,7 +226,7 @@
 
 [4. ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. ๒๕๖๒](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/E/149/T_0039.PDF)   [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/E/149/T_0039.PDF)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTE1ODI1NCw5ODU1Mjc4MDksLTExMz
-gwOTQ2MDUsMTczMjM1NDIxMCw1MDAyMzQzNDAsLTE0Njc5MDUw
-MTAsMjA1NjI0OTk0M119
+eyJoaXN0b3J5IjpbODk5NDYwMDA0LDk4NTUyNzgwOSwtMTEzOD
+A5NDYwNSwxNzMyMzU0MjEwLDUwMDIzNDM0MCwtMTQ2NzkwNTAx
+MCwyMDU2MjQ5OTQzXX0=
 -->
