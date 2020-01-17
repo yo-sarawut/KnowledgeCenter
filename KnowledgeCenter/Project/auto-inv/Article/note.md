@@ -6,6 +6,8 @@
 - [scikit-learn Document](https://scikit-learn.org/stable/auto_examples/index.html#examples-based-on-real-world-datasets)
 - [การแบ่งข้อมูลเพื่อสอนและทดสอบด้วย Pandas](http://dsdi.msu.ac.th/?article=data-science&fn=train_test_split)
 - [Text Classification : VDO](https://attapol.github.io/compling/text_classification.html)
+- [การจำแนกประเภทบทวิจารณ์ของผู้ใช้โมไบล์แอปพลิเคชันเพื่อการสร้างทิคเก็ตสำหรับระบบติดตาม
+ปัญหา : สาขาวิชาวิศวกรรมซอฟต์แวร์ ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](https://www.cp.eng.chula.ac.th/~twittie/classes/797_798/master%20project_kittisak.pdf)
 
 ## บทความแนะนำ
 
@@ -47,9 +49,9 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 
 - [kaggle.com](https://www.kaggle.com/colinmorris/hello-python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODQ1NzQ5OSwtMjAyMDAxNTYyMSwtOD
-U3MjI0NTQ2LC0yNDI5NTU3OTQsMTM5NDkyODgzNSw3MTkzNzY0
-NjEsMTk1ODEyMjUzMCwyNDA0NzYxMzgsNzUyMDYwMzQ5LC0yMD
-g5MDEyMzg5LC00NTg3MDM5NjAsMTU4Nzg4MzMxNywtOTUyNjk2
-MjkyLC0xMDgzOTA4OTUzXX0=
+eyJoaXN0b3J5IjpbNTQ4NTAyMTIzLDEzNDg0NTc0OTksLTIwMj
+AwMTU2MjEsLTg1NzIyNDU0NiwtMjQyOTU1Nzk0LDEzOTQ5Mjg4
+MzUsNzE5Mzc2NDYxLDE5NTgxMjI1MzAsMjQwNDc2MTM4LDc1Mj
+A2MDM0OSwtMjA4OTAxMjM4OSwtNDU4NzAzOTYwLDE1ODc4ODMz
+MTcsLTk1MjY5NjI5MiwtMTA4MzkwODk1M119
 -->
