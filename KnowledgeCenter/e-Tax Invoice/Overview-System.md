@@ -206,9 +206,9 @@
 -   [ETDA : สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://www.etda.or.th/topics/e-tax-invoice.html)
 
 
-กฎ/ระเบียบที่เกี่ยวข้อง
+**กฎ/ระเบียบที่เกี่ยวข้อง**
 
-[1. ประกาศสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง ข้อเสนอแนะมาตรฐานด้านเทคโนโลยีสารสนเทศและการสื่อสารที่จำเป็นต่อธุรกรรมทางอิเล็กทรอนิกส์ ว่าด้วยการรักษาความมั่นคงปลอดภัยสารสนเทศสำหรับผู้ให้บริการจัดทำ ส่งมอบ และเก็บรักษาข้อมูลอิเล็กทรอนิกส์ ขมธอ.๒๑-๒๕๖๒](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)   [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)
+[1. ประกาศสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง ข้อเสนอแนะมาตรฐานด้านเทคโนโลยีสารสนเทศและการสื่อสารที่จำเป็นต่อธุรกรรมทางอิเล็กทรอนิกส์ ว่าด้วยการรักษาความมั่นคงปลอดภัย สารสนเทศสำหรับผู้ให้บริการจัดทำ ส่งมอบ และเก็บรักษาข้อมูลอิเล็กทรอนิกส์ ขมธอ.๒๑-๒๕๖๒](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)   [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)
 
 [2. ประกาศอธิบดีกรมสรรพากร (ฉบับที่ ๑๕) เรื่อง กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการจัดทำ ส่งมอบ และเก็บรักษาใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์](https://www.rd.go.th/publish/fileadmin/user_upload/kormor/newlaw/dgg15.pdf)  [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](https://www.rd.go.th/publish/fileadmin/user_upload/kormor/newlaw/dgg15.pdf)
 
@@ -216,7 +216,7 @@
 
   
 
-กฎ/ระเบียบอื่นๆ
+**กฎ/ระเบียบอื่น ๆ**
 
 [1. พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. ๒๕๔๔ และฉบับแก้ไขเพิ่มเติม (ฉบับที่ ๔) พ.ศ. ๒๕๖๒](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/A/067/T_0203.PDF)  [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/A/067/T_0203.PDF)
 
@@ -226,7 +226,7 @@
 
 [4. ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. ๒๕๖๒](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/E/149/T_0039.PDF)   [![](https://standard.etda.or.th/serviceprovider/img/icon_PDF.png)](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/E/149/T_0039.PDF)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NDYwMDA0LDk4NTUyNzgwOSwtMTEzOD
-A5NDYwNSwxNzMyMzU0MjEwLDUwMDIzNDM0MCwtMTQ2NzkwNTAx
-MCwyMDU2MjQ5OTQzXX0=
+eyJoaXN0b3J5IjpbMTEwMDc5MjUxMiw5ODU1Mjc4MDksLTExMz
+gwOTQ2MDUsMTczMjM1NDIxMCw1MDAyMzQzNDAsLTE0Njc5MDUw
+MTAsMjA1NjI0OTk0M119
 -->
