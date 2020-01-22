@@ -33,7 +33,6 @@ Simple Thai text preprocessing
 
 หน้าตาของ text ก่อน clean จะเป็นประมาณที่แสดงในภาพ 2 ครับ
 
-![](https://miro.medium.com/max/60/1*Xpq4W7y4IU39EaJ4bE1oaA.png?q=20)
 
 ![](https://miro.medium.com/max/2252/1*Xpq4W7y4IU39EaJ4bE1oaA.png)
 
@@ -41,7 +40,6 @@ Simple Thai text preprocessing
 
 หน้าตา text หลังผ่านการ clean
 
-![](https://miro.medium.com/max/60/1*gycIRRRJcEWFQG-bNFcCcQ.png?q=20)
 
 ![](https://miro.medium.com/max/2284/1*gycIRRRJcEWFQG-bNFcCcQ.png)
 
@@ -109,5 +107,5 @@ blog นี้สอนขั้นตอนการ preprocess ข้อมู
 
 > [Source : ](https://medium.com/@witchapongdaroontham/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97-text-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-python-simple-thai-text-preprocessing-c8c46ca3ce46).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDk1NjU0XX0=
+eyJoaXN0b3J5IjpbLTE1MzQ2MDUyMjldfQ==
 -->
