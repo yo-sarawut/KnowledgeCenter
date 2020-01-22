@@ -12,6 +12,7 @@
 ## บทความแนะนำ
 
 - [ เริ่มเรียน Machine Learning 0–100 zero to Mr.incredible (Introduction)](https://medium.com/mmp-li/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-machine-learning-0-100-introduction-1c58e516bfcd)
+- [บทความวิจัย : การวิเคราะห์การจำแนกข้อความด้วยการเปรียบเทียบความเสถียรของอัลกอริทึม](https://www.tci-thaijo.org/index.php/spurst/article/view/122101/92971)
 - [การเรียนรู้ของเครื่อง(Machine Learning)และการเรียนรู้เชิงลึก(Deep Learning):ความแตกต่างระหว่างสองสิ่งนี้?](https://www.thaiprogrammer.org/2018/12/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87machine-le/)
 - [โมเดล Naive Bayes และการแปลความหมาย](http://dataminingtrend.com/2014/naive-bayes/)
 - [Data Scientist และเทคนิคการวิเคราะห์ Big Data](https://blog.goodfactory.co/data-scientist-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C-big-data-73dfbdcaa770)
@@ -49,9 +50,10 @@ Developers, Data Scientists หรือผู้สนใจ ที่มีค
 
 - [kaggle.com](https://www.kaggle.com/colinmorris/hello-python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4NTAyMTIzLDEzNDg0NTc0OTksLTIwMj
-AwMTU2MjEsLTg1NzIyNDU0NiwtMjQyOTU1Nzk0LDEzOTQ5Mjg4
-MzUsNzE5Mzc2NDYxLDE5NTgxMjI1MzAsMjQwNDc2MTM4LDc1Mj
-A2MDM0OSwtMjA4OTAxMjM4OSwtNDU4NzAzOTYwLDE1ODc4ODMz
-MTcsLTk1MjY5NjI5MiwtMTA4MzkwODk1M119
+eyJoaXN0b3J5IjpbMzQ3NzM4NjExLDU0ODUwMjEyMywxMzQ4ND
+U3NDk5LC0yMDIwMDE1NjIxLC04NTcyMjQ1NDYsLTI0Mjk1NTc5
+NCwxMzk0OTI4ODM1LDcxOTM3NjQ2MSwxOTU4MTIyNTMwLDI0MD
+Q3NjEzOCw3NTIwNjAzNDksLTIwODkwMTIzODksLTQ1ODcwMzk2
+MCwxNTg3ODgzMzE3LC05NTI2OTYyOTIsLTEwODM5MDg5NTNdfQ
+==
 -->
