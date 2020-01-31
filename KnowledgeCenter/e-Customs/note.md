@@ -3,6 +3,7 @@
 ## แหล่งความรู้
 
 -  [http://www.chanidservice.com/](http://www.chanidservice.com/)
+- [https://greedisgoods.com/](https://greedisgoods.com/)
 
 
 ## Temp file
@@ -73,7 +74,7 @@
 |16|[กฎกระทรวง ฉบับที่ 145 (พ.ศ. 2547) ออกตามความในพระราชบัญญัติศุลกากร พุทธศักราช 2469](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f4a464b4a464b47)|16/02/60 |
 |17|[กฎกระทรวง กำหนดท่าหรือที่ฯ (ฉบับที่ 13) พ.ศ. 2560 (ด่านศุลกากรหนองคายและสนามบินศุลกากรเลย)](http://www.customs.go.th/cont_strc_download.php?lang=th&top_menu=menu_homepage&current_id=142231324149505f49464b4c464a4e)|31/01/60|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5ODIyOTUxLC0zNjc2NTA4OSwtMjQ0Mz
-AzMjA3LC0xMTYyMDAzNjUxLDg4NDUwMTE4MSw5NjI0NTk4NTNd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMTc2Mzg3NDcsNjg5ODIyOTUxLC0zNj
+c2NTA4OSwtMjQ0MzAzMjA3LC0xMTYyMDAzNjUxLDg4NDUwMTE4
+MSw5NjI0NTk4NTNdfQ==
 -->
