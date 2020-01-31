@@ -1,8 +1,10 @@
 
 ตามที่ BOI ได้กำหนดให้ ใบขนสินค้าขาออกที่ส่งออกตั้งแต่วันที่ 1 ตุลาคม 2561 เป็นต้นมา
 
+สำนักงานคณะกรรมการส่งเสริมการลงทุน ได้กำหนดให้ใช้ ระบบตัดบัญชีวัตถุดิบแบบไร้เอกสาร สำหรับ ใบขนสินค้าขาออก ส่งออกตั้งแต่วันที่ 1 ตุลาคม 2561 เป็นต้นไป
+
 > [Source : ](https://).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2MjQyNjIsLTE1OTkzNzE3NzFdfQ
-==
+eyJoaXN0b3J5IjpbMTEyMzc1NDg5NCwtMTkzNzYyNDI2MiwtMT
+U5OTM3MTc3MV19
 -->
