@@ -31,15 +31,19 @@ ETDA รับลงทะเบียน 3 ก.พ.นี้ ในการร
 [- ขมธอ.21-2562](https://standard.etda.or.th/wp-content/uploads/2019/05/20180702-ER-ServiceProvider-Security-V08-24F.pdf)  
 [- ประกาศอธิบดีกรมสรรพากร (ฉบับที่ 15)](https://www.rd.go.th/publish/fileadmin/user_upload/kormor/newlaw/dgg15.pdf)  
 [- หลักเกณฑ์ วิธีการ และเงื่อนไขการรับรอง](https://standard.etda.or.th/serviceprovider/doc/20200116-Service-Provider-Criteria-V08-01.pdf)  
-2. แจ้งความประสงค์ขอตรวจประเมิน  
+2. แจ้งความประสงค์ขอตรวจประเมิน  [**==(แจ้งความประสงค์ออนไลน์)==**](https://forms.office.com/Pages/ResponsePage.aspx?id=pDQnmfrfwE-2dWbs_jr-DC3Z5-Y_snJCsT7pqNzInJVUNlBRNUZRNVY3MlozU0pFSURPT0laSEVEMi4u)
 **เริ่ม วันที่ 3 กุมภาพันธ์ 2563**  
-
-
-[**==แจ้งความประสงค์ขอตรวจประเมิน==**](https://forms.office.com/Pages/ResponsePage.aspx?id=pDQnmfrfwE-2dWbs_jr-DC3Z5-Y_snJCsT7pqNzInJVUNlBRNUZRNVY3MlozU0pFSURPT0laSEVEMi4u)
  
 _หลังจากแจ้งความประสงค์แล้ว เจ้าหน้าที่จะติดต่อกลับ ภายใน 1 วันทำการ_
 
+
+![enter image description here](https://standard.etda.or.th/serviceprovider/img/service_menu2.png)
+
+### ยื่นคำขอรับการตรวจประเมิน (แบบ น.ร. 01) /ชำระค่าธรรมเนียมการยื่นคำขอ
+
+
+
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc0MTIzNjksNDk0NjQ3NDM5XX0=
+eyJoaXN0b3J5IjpbLTU1MzQ4OTY3LDQ5NDY0NzQzOV19
 -->
