@@ -122,11 +122,13 @@ _หลังจากแจ้งความประสงค์แล้ว 
 
 
 
+## เอกสารอื่น ๆ 
 
+- ประกาศ คณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. 2562 [fk](http://www.ratchakitcha.soc.go.th/DATA/PDF/2562/E/149/T_0039.PDF)
 
 
 
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzUwMzI2Niw0OTQ2NDc0MzldfQ==
+eyJoaXN0b3J5IjpbLTc3OTkyMTkwNCw0OTQ2NDc0MzldfQ==
 -->
