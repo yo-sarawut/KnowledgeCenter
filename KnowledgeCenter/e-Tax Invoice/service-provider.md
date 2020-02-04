@@ -23,6 +23,8 @@ ETDA รับลงทะเบียน 3 ก.พ.นี้ ในการร
 
 ## ขั้นตอนการให้บริการ
 
+![enter image description here](https://standard.etda.or.th/serviceprovider/img/index_info2.png)
+
 
 ![enter image description here](https://standard.etda.or.th/serviceprovider/img/service_menu1.png)
 ### แจ้งความประสงค์ขอตรวจประเมิน
@@ -126,5 +128,5 @@ _หลังจากแจ้งความประสงค์แล้ว 
 
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDQzOTQ4NCw0OTQ2NDc0MzldfQ==
+eyJoaXN0b3J5IjpbMTQ3MzUwMzI2Niw0OTQ2NDc0MzldfQ==
 -->
