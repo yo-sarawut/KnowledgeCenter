@@ -41,9 +41,34 @@ _หลังจากแจ้งความประสงค์แล้ว 
 
 ### ยื่นคำขอรับการตรวจประเมิน (แบบ น.ร. 01) /ชำระค่าธรรมเนียมการยื่นคำขอ
 
+1.  ผู้ที่ได้รับการติดต่อกลับ จะต้องยื่นคำขอตรวจ และเอกสารประกอบ พร้อมลงนามด้วย  
+    Digital Signature จากผู้ให้บริการที่อยู่ภายใต้การรับรองจาก NRCA โดยส่งเอกสารที่สมบูรณ์แล้ว  
+    มาที่ช่องทางการรับเอกสาร email  [etaxSPCert@etda.or.th](mailto:etaxSPCert@etda.or.th)  
+    
+2.  ดาวน์โหลดแบบคำขอรับการตรวจประเมินเพื่อการรับรอง (แบบ น.ร. 01)  [ดาวน์โหลดที่นี่](https://standard.etda.or.th/serviceprovider/doc/20200115-SP-%20Request%20from-%E0%B8%99%E0%B8%A301-V02-01.pdf)  
+    
+3.  ชำระค่าธรรมเนียมการยื่นคำขอ 30,000 บาท  
+    
+    ช่องทางการชำระเงิน :  
+    **บมจ. กรุงไทย สาขาเซ็นทรัลพลาซา แกรนด์ พระราม 9  
+    ชื่อบัญชี:**  สพธอ. - เงินนอกงบประมาณ  
+    **เลขที่บัญชี:**  982-8-40291-2
+    
+
+**ชำระเงินภายใน 7 วัน และนำส่งหลักฐานการชำระเงิน ได้ที่** email [etaxSPCert@etda.or.th](mailto:etaxSPCert@etda.or.th)  
+(การชำระเงินและส่งหลักฐาน มีผลต่อการจัดลำดับผู้เข้ารับการตรวจประเมิน)  
+**หมายเหตุ:**  
+ผู้ขอรับการตรวจประเมินต้องนำใบเสร็จรับเงิน/ใบกำกับภาษี ไปยื่นขอทดสอบระบบกับกรมสรรพากร  
+ซึ่งผลการทดสอบจะเป็นส่วนหนึ่งของการตรวจประเมิน
+
+![enter image description here](https://standard.etda.or.th/serviceprovider/img/service_menu3.png)
+### ตรวจประเมิน
+
+![enter image description here](https://standard.etda.or.th/serviceprovider/img/service_menu3_1.png)
+
 
 
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzQ4OTY3LDQ5NDY0NzQzOV19
+eyJoaXN0b3J5IjpbLTE4NTU1NTc4NTQsNDk0NjQ3NDM5XX0=
 -->
