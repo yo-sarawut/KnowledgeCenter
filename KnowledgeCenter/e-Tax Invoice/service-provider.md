@@ -33,15 +33,13 @@ ETDA รับลงทะเบียน 3 ก.พ.นี้ ในการร
 [- หลักเกณฑ์ วิธีการ และเงื่อนไขการรับรอง](https://standard.etda.or.th/serviceprovider/doc/20200116-Service-Provider-Criteria-V08-01.pdf)  
 2. แจ้งความประสงค์ขอตรวจประเมิน  
 **เริ่ม วันที่ 3 กุมภาพันธ์ 2563**  
-[](https://forms.office.com/Pages/ResponsePage.aspx?id=pDQnmfrfwE-2dWbs_jr-DC3Z5-Y_snJCsT7pqNzInJVUNlBRNUZRNVY3MlozU0pFSURPT0laSEVEMi4u)
 
-**แจ้งความประสงค์ขอตรวจประเมิน**
 
-  
-  
+[**==แจ้งความประสงค์ขอตรวจประเมิน==**](https://forms.office.com/Pages/ResponsePage.aspx?id=pDQnmfrfwE-2dWbs_jr-DC3Z5-Y_snJCsT7pqNzInJVUNlBRNUZRNVY3MlozU0pFSURPT0laSEVEMi4u)
+ 
 _หลังจากแจ้งความประสงค์แล้ว เจ้าหน้าที่จะติดต่อกลับ ภายใน 1 วันทำการ_
 
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODUzMjE2OSw0OTQ2NDc0MzldfQ==
+eyJoaXN0b3J5IjpbLTEwNzc0MTIzNjksNDk0NjQ3NDM5XX0=
 -->
