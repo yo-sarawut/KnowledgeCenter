@@ -114,7 +114,9 @@ _หลังจากแจ้งความประสงค์แล้ว 
 
 ![enter image description here](https://standard.etda.or.th/serviceprovider/img/service_menu5.png)
 
-###
+### ประกาศผลการตรวจ
+
+1. ประกาศรายชื่อหน่วยงานที่ผ่านการรับรอง[ที่นี่](https://standard.etda.or.th/serviceprovider/#tab5) และแจ้งผลผ่านอีเมล
 
 
 
@@ -124,5 +126,5 @@ _หลังจากแจ้งความประสงค์แล้ว 
 
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzgwNTc4MSw0OTQ2NDc0MzldfQ==
+eyJoaXN0b3J5IjpbMTIxNDQzOTQ4NCw0OTQ2NDc0MzldfQ==
 -->
