@@ -21,8 +21,12 @@ ETDA รับลงทะเบียน 3 ก.พ.นี้ ในการร
 
 **![](https://www.etda.or.th/app/webroot/content_files/13/images/Banner%283%29.jpg)**
 
+## ขั้นตอนการให้บริการ
+
+
+![enter image description here](https://standard.etda.or.th/serviceprovider/img/service_menu1.png)
 
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NjQ3NDM5XX0=
+eyJoaXN0b3J5IjpbMTc4NDc1NDY1Niw0OTQ2NDc0MzldfQ==
 -->
