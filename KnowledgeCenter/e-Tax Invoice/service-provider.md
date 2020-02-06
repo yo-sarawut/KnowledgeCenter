@@ -65,7 +65,7 @@ _หลังจากแจ้งความประสงค์แล้ว 
 ## รายการเอกสารที่จำเป็นสำหรับการตรวจประเมินเพื่อการรับรอง
 
 | ลำดับ |เอกสารที่เกี่ยวข้อง |
-|-----|----------|
+|:-----:|----------|
 | 1 |นโยบายด้านความมั่นคงปลอดภัยสารสนเทศ (๕.๑.๑ ก) ? |
 | 2 |หลักเกณฑ์/วิธีการประเมินความเสี่ยง (๕.๒.๑ ก) ? |
 | 3 |ขั้นตอนปฏิบัติงานการเพิกถอนสิทธิการเข้าใช้งานอุปกรณ์ที่ใช้กำหนดสิทธิสำหรับการเข้าถึง (๕.๗.๑ ก) ? |
@@ -163,6 +163,6 @@ _หลังจากแจ้งความประสงค์แล้ว 
 
 > [Source : ](https://www.etda.or.th/content/service-provider-registration-process.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjUwNTYzMSwtMTAxMDk3MjYsLTE3ND
-U2Njc0MjksNDk0NjQ3NDM5XX0=
+eyJoaXN0b3J5IjpbLTE0MTY3MTc3MzMsLTEwMTA5NzI2LC0xNz
+Q1NjY3NDI5LDQ5NDY0NzQzOV19
 -->
