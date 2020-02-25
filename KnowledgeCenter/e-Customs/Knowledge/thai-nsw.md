@@ -11,7 +11,7 @@
 กรมศุลกากรเชื่อมโยงข้อมูลกับหน่วยงานภาครัฐ ผู้ออกใบอนุญาต/ใบรับรอง และผู้ประกอบการ เช่น ผู้นำเข้า ผู้ส่งออก ตัวแทนออกของ ตัวแทนผู้รับขนส่งสินค้า บริษัทเรือ สายการบิน และธนาคารต่างๆ เชื่อมโยงข้อมูลใบขนสินค้า ตั้งแต่เดือนตุลาคม 2554
 
 
-> [Source : ](https://).
+> [ที่มา : กรมศุลกากร](http://www.customs.go.th/cont_strc_simple.php?ini_content=other_issue_170825_01&ini_menu=menu_nsw&left_menu=menu_nsw_overview&lang=th&root_left_menu=menu_nsw&left_menu=menu_nsw_overview).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIwNzkwN119
+eyJoaXN0b3J5IjpbLTk1MzQxNDg4LC0xMTQyMDc5MDddfQ==
 -->
