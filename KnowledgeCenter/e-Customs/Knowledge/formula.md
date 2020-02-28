@@ -27,7 +27,7 @@
 
 
 
-> [ที่มาบทความ : CEO Articles ดร. สิทธิชัย ชวรางกูร ](http://snp.co.th/2018/10/logistics-cornor-535/).
+> [ที่มาบทความ : CEO Articles โดย ดร. สิทธิชัย ชวรางกูร CEO S.N.P. Shipping Group ](http://snp.co.th/2018/10/logistics-cornor-535/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjI2ODYwMl19
+eyJoaXN0b3J5IjpbLTg1OTAwNjc0MV19
 -->
