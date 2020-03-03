@@ -61,15 +61,20 @@ WTO
 
 พระราชบัญญัติ
 
-[The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)](https://www.thaitr.go.th/storage/measure_info/eGzGKQL5bahL1jSrvLn6LPmJH76Wjw0EyuMxrksI.pdf)
-
-[คู่มือ_สนทนาตอบโต้การทุ่มตลาด](https://www.thaitr.go.th/storage/measure_info/HTXEDZVOnhvnVh0GRrR5gGqPJ8bplCXqo7XJbjkW.pdf)
-
-[พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562](https://www.thaitr.go.th/storage/measure_info/dgjIL4oDOYBWqnyjN8YgjQRGQOtw35X7lOquTdP9.pdf)
-
-[พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/a9hipI2DjqKO7m716NTX0PCYfTFktuKgks8WqWVU.pdf)
-
-[พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 และพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562 (รวบรวมโดยสำนักงานคณะกรรมการกฤษฎีกา)](https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf)
+ - [The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial
+   Translation)](https://www.thaitr.go.th/storage/measure_info/eGzGKQL5bahL1jSrvLn6LPmJH76Wjw0EyuMxrksI.pdf)
+   
+  - [คู่มือ_สนทนาตอบโต้การทุ่มตลาด](https://www.thaitr.go.th/storage/measure_info/HTXEDZVOnhvnVh0GRrR5gGqPJ8bplCXqo7XJbjkW.pdf)
+   
+  -  [พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ
+   (ฉบับที่ 2) พ.ศ. 2562](https://www.thaitr.go.th/storage/measure_info/dgjIL4oDOYBWqnyjN8YgjQRGQOtw35X7lOquTdP9.pdf)
+   
+  -  [พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ
+   พ.ศ.   2542](https://www.thaitr.go.th/storage/measure_info/a9hipI2DjqKO7m716NTX0PCYfTFktuKgks8WqWVU.pdf)
+   
+   - [พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ
+   พ.ศ. 2542    และพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ
+   (ฉบับที่ 2) พ.ศ. 2562    (รวบรวมโดยสำนักงานคณะกรรมการกฤษฎีกา)](https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf)
 
 กฎกระทรวง
 
@@ -237,7 +242,7 @@ WTO
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkyNzI1NzEsNjg4MTIzMTIwLC04Nz
-YyOTkzODcsMjc1MDkxNDE2LDE1MzAxODQ3MzksLTQ0ODMyODkz
-NCwtMTM2NTQ1NTI3MV19
+eyJoaXN0b3J5IjpbMTUyMzkxNjkxNCwtMTM4OTI3MjU3MSw2OD
+gxMjMxMjAsLTg3NjI5OTM4NywyNzUwOTE0MTYsMTUzMDE4NDcz
+OSwtNDQ4MzI4OTM0LC0xMzY1NDU1MjcxXX0=
 -->
