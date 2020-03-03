@@ -171,6 +171,50 @@ WTO
 
 5. การใช้มาตรการ CVD การพิจารณาและการดำเนินการไต่สวนอยู่ภายใต้อำนาจหน้าที่ของ “คณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน” หรือ ทตอ. หากทตอ. พิจารณาผลการไต่สวนแล้วพบว่ามีการนำเข้าสินค้าที่ได้รับการอุดหนุน และก่อให้เกิดความเสียหายต่ออุตสาหกรรมภายใน คณะกรรมการฯ จะประกาศให้เรียกเก็บอากรตอบโต้การอุดหนุน (CVD) จากการนำเข้าสินค้าดังกล่าวซึ่งจะเป็นการเก็บอากรที่เพิ่มนอกเหนือจากภาษีนำเข้าปกติ
 
+## ข้อกฎหมาย
+
+### WTO
+
+- [AGREEMENT ON SUBSIDIES AND COUNTERVAILING MEASURES](https://www.thaitr.go.th/storage/measure_info/4FJhLS5gOe2JOUkJRR1dhj5KFSOAwh0Q3ODgkADb.pdf)
+
+### พระราชบัญญัติ
+
+- [The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)](https://www.thaitr.go.th/storage/measure_info/lksc37V3c5cH5uNj3WIyiwibFZOCZBHyFjE8cc3L.pdf)
+
+- [พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf)
+
+### กฎกระทรวง
+
+- [กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/b7U8uaFHQWquk650wWOdeGfPt36AfJWPKp7w14eD.pdf)
+
+- [กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/TnUUr8ScWxjXfGEuMZQGl6LVNZVEjiKeBXReqJST.pdf)
+
+- [กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545](https://www.thaitr.go.th/storage/measure_info/oOdwfnVoFsPA2CTjssLTpK59Zz6RZVa2ypD2JfIx.pdf)
+
+- [กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545](https://www.thaitr.go.th/storage/measure_info/D9oc6zfuf4AgUDHvT5gWh2cdpAV52RZfYnkwl9oD.pdf)
+
+- [กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543](https://www.thaitr.go.th/storage/measure_info/9IOsHUg8KdkOpuHMXkjmT4qkICJOmDc1y7HqtxV3.pdf)
+
+### ประกาศกระทรวงพาณิชย์
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/tnTulQNQgSuHZ7GZn6Hj3zGl9MynUp5q5zqYNPRp.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/Rd6EafzkTBEicREQXxHZeAXJDINKAM59cQ2luXK3.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/YyWKaMKumhPZYRRhZ9RZYOfWFa0jFG6S5ewdnsGU.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/8mVNL8v17LZAvvUdlqq3iJcKslcIA7nTpKCNNo7T.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544](https://www.thaitr.go.th/storage/measure_info/G9dj6uiDO8ujLjBNzGFOuvGLZJAcgSd5Xrf3ewvj.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/Ptv568l3SddgJVos5Htq2P06naEbSin9GnYS071j.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545](https://www.thaitr.go.th/storage/measure_info/muIpqgsTJLTPu7ttnyMXPm9h50LAXlSmeB5z15at.pdf)
+
+[ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549](https://www.thaitr.go.th/storage/measure_info/jWVxPUQPUhI5Clqr0ZwZxrJyOqvRiH4KNXybnc6a.pdf)
+
+[ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน](https://www.thaitr.go.th/storage/measure_info/FZwrkGZGQPkFHTCouhcA63NXBCCaCS80FKodz4BQ.pdf)
+
 ---
 
 ## มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure: SG)
@@ -242,8 +286,8 @@ WTO
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODEzMjE2OCwxNTIzOTE2OTE0LC0xMz
-g5MjcyNTcxLDY4ODEyMzEyMCwtODc2Mjk5Mzg3LDI3NTA5MTQx
-NiwxNTMwMTg0NzM5LC00NDgzMjg5MzQsLTEzNjU0NTUyNzFdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMDI4NzQ2MDIsLTIzODEzMjE2OCwxNT
+IzOTE2OTE0LC0xMzg5MjcyNTcxLDY4ODEyMzEyMCwtODc2Mjk5
+Mzg3LDI3NTA5MTQxNiwxNTMwMTg0NzM5LC00NDgzMjg5MzQsLT
+EzNjU0NTUyNzFdfQ==
 -->
