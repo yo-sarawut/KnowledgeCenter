@@ -76,7 +76,7 @@ WTO
    พ.ศ. 2542    และพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ
    (ฉบับที่ 2) พ.ศ. 2562    (รวบรวมโดยสำนักงานคณะกรรมการกฤษฎีกา)](https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf)
 
-กฎกระทรวง
+### กฎกระทรวง
 
 [กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/6Nps3beLrN4y1y2213Ez6qXIGyBw4pSthMlQQMzh.pdf)
 
@@ -88,7 +88,7 @@ WTO
 
 [กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543](https://www.thaitr.go.th/storage/measure_info/7TQaIMC1XHUopw9rvtd96AahQGGI4P6Fvl19AKNc.pdf)
 
-ประกาศกระทรวงพาณิชย์
+### ประกาศกระทรวงพาณิชย์
 
 [ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/UcuSDJ6Ds6bHUnwYG8UVcpW8la6S0mTf5HmGpJ8m.pdf)
 
@@ -242,7 +242,8 @@ WTO
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzkxNjkxNCwtMTM4OTI3MjU3MSw2OD
-gxMjMxMjAsLTg3NjI5OTM4NywyNzUwOTE0MTYsMTUzMDE4NDcz
-OSwtNDQ4MzI4OTM0LC0xMzY1NDU1MjcxXX0=
+eyJoaXN0b3J5IjpbLTIzODEzMjE2OCwxNTIzOTE2OTE0LC0xMz
+g5MjcyNTcxLDY4ODEyMzEyMCwtODc2Mjk5Mzg3LDI3NTA5MTQx
+NiwxNTMwMTg0NzM5LC00NDgzMjg5MzQsLTEzNjU0NTUyNzFdfQ
+==
 -->
