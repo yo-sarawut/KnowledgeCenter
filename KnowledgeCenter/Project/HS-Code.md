@@ -136,9 +136,10 @@ Harmonized System (HS CODE) หรือ พิกัดศุลกากรร
 
 > - [Source :](https://goterrestrial.com/2019/11/06/%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-hs-code-%E0%B9%81%E0%B8%A5%E0%B8%B0-hts-code-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0/)
 > - [ฐานข้อมูลกรมศุลกากร](http://www.customs.go.th/list_strc_link_image_with_infographic.php?ini_content=customs_tariff_service&lang=th&left_menu=nmenu_esevice_001)
+> - [Download WTO](http://tariffdata.wto.org/TariffList.aspx)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MDk1NDg0LC0xMTkyNzEwNjkyLC0xNj
-E4MzYwNzYyLC0yNTEwMzE4XX0=
+eyJoaXN0b3J5IjpbMjcxMzI5Mzc1LDk1NDA5NTQ4NCwtMTE5Mj
+cxMDY5MiwtMTYxODM2MDc2MiwtMjUxMDMxOF19
 -->
