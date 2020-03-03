@@ -283,11 +283,49 @@ WTO
 - คปป. วินิจฉัยผลการไต่สวนและนำเสนอ รมว. พาณิชย์พิจารณาเห็นชอบ
 - รมว. พาณิชย์พิจารณาคำวินิจฉัย หากเห็นชอบ กรมการค้าต่างประเทศจะออกประกาศบังคับใช้มาตรการ
 
+## ข้อกฎหมาย
+
+### WTO
+
+- [AGREEMENT ON SAFEGUARDS](https://www.thaitr.go.th/storage/measure_info/WXjm7Tqw7dAwxpHoQEPKgUAHNdasBlxx5GB08d00.pdf)
+
+### พระราชบัญญัติ
+
+- [พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550](https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf)
+
+### กฎกระทรวง
+
+- [กฎกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการประกาศเผยแพร่ผลคำวินิจฉัยเกี่ยวกับการพิจารณามาตรการปกป้อง พ.ศ. 2553](https://www.thaitr.go.th/storage/measure_info/M1fBgL4EfKZ0dEkFwf57GojIvIPGh82qcJvbxPVh.pdf)
+
+- [กฏกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการพิจารณาความเสียหายจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2553](https://www.thaitr.go.th/storage/measure_info/ALOuLMbyIlORXnAFT2MJjsNqYPlnkmltAFpWkrFB.pdf)
+
+### ประกาศกระทรวงพาณิชย์
+
+- [ประกาศกรมการค้าต่างประเทศ เรื่อง หลักเกณฑ์ของประกาศไต่สวนการนำเข้าสินค้าที่เพิ่มขึ้นและความเสียหาย พ.ศ. 2551](https://www.thaitr.go.th/storage/measure_info/8l01nHboEL4TpUGiIGyFJHCtE9u5phHneHw5UOxm.pdf)
+
+- [ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดระยะเวลาในการยื่นคำร้องขอขยายเวลาการบังคับใช้มาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.๒๕๕๘](https://www.thaitr.go.th/storage/measure_info/AOhmZDNknivSzvE1bXDQJSiYEOFpYbpeTKuyH4dG.pdf)
+
+- [ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข ในการยื่นคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551](https://www.thaitr.go.th/storage/measure_info/mR8eBmYGEB7MDrXIXqeoQxi76ciSYC3X0Qiw80KV.pdf)
+
+- [ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสนอหลักฐาน เอกสาร และแสดงความเห็นสนับสนุนหรือโต้แย้งคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551](https://www.thaitr.go.th/storage/measure_info/BDmY6BDeoiMrEV2MisOEOXyr6vOJPsPLYT5rz9gf.pdf)
+
+- [ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551](https://www.thaitr.go.th/storage/measure_info/9xFqeMlATVis7FXEAhEDG7lrNRTiK2Gwj436Cuo5.pdf)
+
+- [ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551](https://www.thaitr.go.th/storage/measure_info/xBhaFjHvs0jXolmmBakYb5lbYalq6eBVpAEF3hYr.pdf)
+
+- [ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุนตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545](https://www.thaitr.go.th/storage/measure_info/tclDBTSLd8dvOqrbBBHqSCZD2FZ5aNc04sxq1Nb4.pdf)
+
+[ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (ฉบับที่ 2) พ.ศ.2548](https://www.thaitr.go.th/storage/measure_info/C3yNJseMfTWyfwsOiBdZawHv8w9ZpCRJNzXnAn5N.pdf)
+
+[ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.2542](https://www.thaitr.go.th/storage/measure_info/NVfgpPe3YjPZ3L7iufuMgpyUdsIHt5E0pjMoaaTJ.pdf)
+
+---
+
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTM4OTI4OSwtMjM4MTMyMTY4LDE1Mj
-M5MTY5MTQsLTEzODkyNzI1NzEsNjg4MTIzMTIwLC04NzYyOTkz
-ODcsMjc1MDkxNDE2LDE1MzAxODQ3MzksLTQ0ODMyODkzNCwtMT
-M2NTQ1NTI3MV19
+eyJoaXN0b3J5IjpbLTMyNTkyMDE2MCwxNTkxMzg5Mjg5LC0yMz
+gxMzIxNjgsMTUyMzkxNjkxNCwtMTM4OTI3MjU3MSw2ODgxMjMx
+MjAsLTg3NjI5OTM4NywyNzUwOTE0MTYsMTUzMDE4NDczOSwtND
+Q4MzI4OTM0LC0xMzY1NDU1MjcxXX0=
 -->
