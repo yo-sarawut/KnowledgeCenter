@@ -51,6 +51,56 @@
 - เกิดความเสียหายต่ออุตสาหกรรมภายในของประเทศผู้นำเข้า (Injury)
 - ความเสียหายของอุตสาหกรรมภายในนั้นเป็นผลมาจากการทุ่มตลาด (Causal Link Between Dumping and Injury)
 
+## ข้อกฎหมาย
+
+WTO
+
+[AGREEMENT ON IMPLEMENTATION OF ARTICLE VI OF THE GENERAL AGREEMENT ON TARIFFS AND TRADE 1994](https://www.thaitr.go.th/storage/measure_info/MCzmEDTdD7jILJukvRmJXzGhFYgFpxmYUBnuqotF.pdf)
+
+พระราชบัญญัติ
+
+[The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)](https://www.thaitr.go.th/storage/measure_info/eGzGKQL5bahL1jSrvLn6LPmJH76Wjw0EyuMxrksI.pdf)
+
+[คู่มือ_สนทนาตอบโต้การทุ่มตลาด](https://www.thaitr.go.th/storage/measure_info/HTXEDZVOnhvnVh0GRrR5gGqPJ8bplCXqo7XJbjkW.pdf)
+
+[พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562](https://www.thaitr.go.th/storage/measure_info/dgjIL4oDOYBWqnyjN8YgjQRGQOtw35X7lOquTdP9.pdf)
+
+[พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/a9hipI2DjqKO7m716NTX0PCYfTFktuKgks8WqWVU.pdf)
+
+[พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 และพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562 (รวบรวมโดยสำนักงานคณะกรรมการกฤษฎีกา)](https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf)
+
+กฎกระทรวง
+
+[กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/6Nps3beLrN4y1y2213Ez6qXIGyBw4pSthMlQQMzh.pdf)
+
+[กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/EBebhaZ6chKCH6SnqyDef1GRaUFYPYxxvTNbftMh.pdf)
+
+[กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545](https://www.thaitr.go.th/storage/measure_info/9M1sqNvll58fO0WFvwaJEQZveSZxAw3jKxYxxNNz.pdf)
+
+[กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545](https://www.thaitr.go.th/storage/measure_info/hVrSjCFKtzQmqpeeV3P5oHYP3EaG1DoAuS3Zjyfn.pdf)
+
+[กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543](https://www.thaitr.go.th/storage/measure_info/7TQaIMC1XHUopw9rvtd96AahQGGI4P6Fvl19AKNc.pdf)
+
+ประกาศกระทรวงพาณิชย์
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/UcuSDJ6Ds6bHUnwYG8UVcpW8la6S0mTf5HmGpJ8m.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/9A7rJAppsXccoGFu4OBoHVQhEOUeZUDt5YvmtMB1.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/JmuTtzZQIiWPsDwkyiU7B2GQxMLl2GT5DACCdkIf.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543](https://www.thaitr.go.th/storage/measure_info/42XeEKjXdoxX8gMk8ElE7nmmkqlErF9V4PzAdoQ9.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544](https://www.thaitr.go.th/storage/measure_info/wUtrvGYYdhtYs3zMfk0UF56QsJK29uwHYTczK03W.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542](https://www.thaitr.go.th/storage/measure_info/bfAOmmSAbMcdUvUqYd5KkZpNRbFqKwMZEgA4vS7C.pdf)
+
+[ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545](https://www.thaitr.go.th/storage/measure_info/yvNkhixex9Dut4eEi45pWc97ot95H5nNs1zw6gd5.pdf)
+
+[ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549](https://www.thaitr.go.th/storage/measure_info/ktOGYx9oTXtkggPebnxC2FJceCwP1LuOzct0E2nr.pdf)
+
+[ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน](https://www.thaitr.go.th/storage/measure_info/FMuH1pzvVJ00mEr0duqgJ7J3kvF7zcmp6eGIyv8G.pdf)
+
 ---
 
 
@@ -185,6 +235,7 @@
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjI5OTM4NywyNzUwOTE0MTYsMTUzMD
-E4NDczOSwtNDQ4MzI4OTM0LC0xMzY1NDU1MjcxXX0=
+eyJoaXN0b3J5IjpbNjg4MTIzMTIwLC04NzYyOTkzODcsMjc1MD
+kxNDE2LDE1MzAxODQ3MzksLTQ0ODMyODkzNCwtMTM2NTQ1NTI3
+MV19
 -->
