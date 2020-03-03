@@ -55,7 +55,9 @@
 
 WTO
 
-[AGREEMENT ON IMPLEMENTATION OF ARTICLE VI OF THE GENERAL AGREEMENT ON TARIFFS AND TRADE 1994](https://www.thaitr.go.th/storage/measure_info/MCzmEDTdD7jILJukvRmJXzGhFYgFpxmYUBnuqotF.pdf)
+ - [AGREEMENT ON IMPLEMENTATION OF ARTICLE VI OF THE GENERAL AGREEMENT
+   ON TARIFFS AND TRADE
+   1994](https://www.thaitr.go.th/storage/measure_info/MCzmEDTdD7jILJukvRmJXzGhFYgFpxmYUBnuqotF.pdf)
 
 พระราชบัญญัติ
 
@@ -235,7 +237,7 @@ WTO
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MTIzMTIwLC04NzYyOTkzODcsMjc1MD
-kxNDE2LDE1MzAxODQ3MzksLTQ0ODMyODkzNCwtMTM2NTQ1NTI3
-MV19
+eyJoaXN0b3J5IjpbLTEzODkyNzI1NzEsNjg4MTIzMTIwLC04Nz
+YyOTkzODcsMjc1MDkxNDE2LDE1MzAxODQ3MzksLTQ0ODMyODkz
+NCwtMTM2NTQ1NTI3MV19
 -->
