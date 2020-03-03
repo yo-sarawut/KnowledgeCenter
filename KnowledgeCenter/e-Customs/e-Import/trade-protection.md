@@ -51,9 +51,6 @@
 - เกิดความเสียหายต่ออุตสาหกรรมภายในของประเทศผู้นำเข้า (Injury)
 - ความเสียหายของอุตสาหกรรมภายในนั้นเป็นผลมาจากการทุ่มตลาด (Causal Link Between Dumping and Injury)
 
-
-
-
 ---
 
 
@@ -188,6 +185,6 @@
 **ที่มาบทความ :** [กองปกป้องและตอบโต้ทางการค้า](https://www.thaitr.go.th/th/home)﻿ กรมการค้าต่างประเทศ
 ชั้น 15 กรมการค้าต่างประเทศ กระทรวงพาณิชย์ 563 ถนนนนทบุรี ตำบลบางกระสอ อำเภอเมือง จังหวัดนนทบุรี 11000 โทร. 02-547-4738-40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY4NTU1MzcsMjc1MDkxNDE2LDE1Mz
-AxODQ3MzksLTQ0ODMyODkzNCwtMTM2NTQ1NTI3MV19
+eyJoaXN0b3J5IjpbLTg3NjI5OTM4NywyNzUwOTE0MTYsMTUzMD
+E4NDczOSwtNDQ4MzI4OTM0LC0xMzY1NDU1MjcxXX0=
 -->
