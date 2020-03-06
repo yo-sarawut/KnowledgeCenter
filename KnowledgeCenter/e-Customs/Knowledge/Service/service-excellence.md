@@ -21,9 +21,10 @@
 
 ## เอกสารเพิ่มเติม
 - [MOTIVATION for SERVICE EXCELLENT : สร้าง..แรงจูงใจให้บริการสู่...ความเป็นเลิศ](http://www.challengeto.com/attachments/view/?attach_id=123812)
-- []
+- [Proactive Service Team : Winning Customer’s Heart:ชนะใจลูกค้าด้วยทีมบริการแบบ Proactive](http://www.challengeto.com/attachments/view/?attach_id=123810)
+- [การเจรจาต่อรอง ด้วยการสื่อสารและบริการอย่างประทับใจ](http://www.challengeto.com/attachments/view/?attach_id=123811)
 
 > [Source : ](https://).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODIxMjI1OCwtNDMxMDIyNjI3XX0=
+eyJoaXN0b3J5IjpbNDE0MjIzMDkwLC00MzEwMjI2MjddfQ==
 -->
