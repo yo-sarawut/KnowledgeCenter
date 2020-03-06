@@ -4,9 +4,14 @@
 ## Article
 - [Demurrage Charge, Detention Charge, Storage Charge/Rent คืออะไร](http://www.march.co.th/what-is-demurrage-charge-detention-charge-storage-charge-rent/)
 
-
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
 <div class="container">
-  <img src="img_snow_wide.jpg" alt="Snow" style="width:100%;">
+  <img src="https://github.com/ecs-support/knowledge-center/raw/master/img/knowledge-center.png" alt="Snow" style="width:100%;">
   <div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
@@ -17,7 +22,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MDIwODQ2LDE0NTY0Mjc4MDEsMTE3OT
-EzMjU1MSwtMzA3MjA0MTE2LDE3OTU2NDA5NzQsMTA2NDM2MTEy
-N119
+eyJoaXN0b3J5IjpbLTY5ODQ5NjA0NCwxNDU2NDI3ODAxLDExNz
+kxMzI1NTEsLTMwNzIwNDExNiwxNzk1NjQwOTc0LDEwNjQzNjEx
+MjddfQ==
 -->
