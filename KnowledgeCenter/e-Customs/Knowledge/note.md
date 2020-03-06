@@ -7,17 +7,13 @@
 
 <div class="container" style = "position: relative , text-align: center ,  color: white;">
   <img src="https://github.com/ecs-support/knowledge-center/raw/master/img/knowledge-center.png" alt="Snow" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
+  <div class="centered" style = "position: absolute,top: 50%,left: 50%,transform: translate(-50%, -50%) font-size:5em,color:red;";>Centered</div>
 </div>
-</style>
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzMwNzkwOCwxNDU2NDI3ODAxLDExNz
-kxMzI1NTEsLTMwNzIwNDExNiwxNzk1NjQwOTc0LDEwNjQzNjEx
-MjddfQ==
+eyJoaXN0b3J5IjpbMzA5NjYzODI1LDE0NTY0Mjc4MDEsMTE3OT
+EzMjU1MSwtMzA3MjA0MTE2LDE3OTU2NDA5NzQsMTA2NDM2MTEy
+N119
 -->
