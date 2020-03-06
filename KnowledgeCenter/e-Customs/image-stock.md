@@ -11,10 +11,12 @@
 
 ![enter image description here](https://file4.batdongsan.com.vn/2019/06/24/akCJKkFO/20190624160214-0be7.jpg)
 
+![enter image description here](https://connextconcept.files.wordpress.com/2019/10/logistics-1.jpg)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjY0ODM1NiwtNTAzNDQ1NDE1LDExND
+eyJoaXN0b3J5IjpbLTgyNTYzNTM4NiwtNTAzNDQ1NDE1LDExND
 QxMTYyNDhdfQ==
 -->
