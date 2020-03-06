@@ -1,5 +1,7 @@
 ระบบ National Single Window (NSW)
 ===
+
+![enter image description here](https://github.com/ecs-support/knowledge-center/raw/master/img/NationalSingleWindow.png)
 ระบบ National Single Window (NSW)  เป็นระบบการบริการเชื่อมโยงข้อมูลหน่วยงานภาครัฐและภาคธุรกิจ (G2G,G2B และ B2B) สำหรับการเข้า ส่งออก และโลจิสติกส์ รองรับการเชื่อมโยงข้อมูลระหว่างประเทศสมาชิกอาเซียน และประเทศในภูมิภาคอื่นๆ ซึ่งเป็นระบบบริการแบบอัตโนมัติและกึ่งอัตโนมัติควบคู่ไปกับการปฏิรูปกระบวนการและขั้นตอนการให้บริการ และการลดรูปเอกสาร โดยอำนวยความสะดวกให้ผู้ใช้บริการสามารถทำธุรกรรมทางอิเล็กทรอนิกส์กับหน่วยงานภาครัฐ และภาคธุรกิจทางอิเล็กทรอนิกส์แบบปลอดภัยและไร้เอกสาร รวมถึงการใช้ข้อมูลร่วมกันกับทุกองค์กรที่เกี่ยวข้อง และการเชื่อมโยงข้อมูลใบอนุญาตและใบรับรองระหว่างหน่วยงานภาครัฐภายในประเทศและระหว่างประเทศ โดยผู้ใช้บริการทั้งภาครัฐและภาคธุรกิจสามารถติดตามผลในทุกๆ ขั้นตอนของการดำเนินงานนำเข้า ส่งออกและการอนุมัติต่างๆผ่านทางอินเทอร์เน็ตได้ (e-Tracking) ทุกวันและตลอดเวลา 24 ชั่วโมง 
 
 ## กำเนิดระบบ National Single Window (NSW) ของประเทศ
@@ -13,5 +15,6 @@
 
 > [ที่มา : กรมศุลกากร](http://www.customs.go.th/cont_strc_simple.php?ini_content=other_issue_170825_01&ini_menu=menu_nsw&left_menu=menu_nsw_overview&lang=th&root_left_menu=menu_nsw&left_menu=menu_nsw_overview).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzQxNDg4LC0xMTQyMDc5MDddfQ==
+eyJoaXN0b3J5IjpbMTU4OTMxMjU4NywtOTUzNDE0ODgsLTExND
+IwNzkwN119
 -->
