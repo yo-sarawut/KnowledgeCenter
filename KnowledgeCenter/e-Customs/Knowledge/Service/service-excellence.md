@@ -19,7 +19,11 @@
 -   จัดการกับข้อมูลของลูกค้า (Customer Profile ) และนำข้อมูลที่มีค่านั้นกลับมาใช้เพื่อรักษาลูกค้าไว้กับเราอย่างยั่งยืน
 -   จัดการกับคำร้องทุกข์ (Complaint) ได้อย่างมีประสิทธิภาพ เป็นขั้นเป็นตอน รับอารมณ์และตอบสนองลูกค้าได้อย่างเข้าอกเข้าใจ ฝึกใช้ประโยคทองที่สามารถสะกดลูกค้าแบบอยู่หมัด เปลี่ยนวิกฤติให้เป็นโอกาส (Handling Complaint)
 
+## เอกสารเพิ่มเติม
+- [MOTIVATION for SERVICE EXCELLENT : สร้าง..แรงจูงใจให้บริการสู่...ความเป็นเลิศ](http://www.challengeto.com/attachments/view/?attach_id=123812)
+- []
+
 > [Source : ](https://).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTAyMjYyN119
+eyJoaXN0b3J5IjpbLTgxODIxMjI1OCwtNDMxMDIyNjI3XX0=
 -->
