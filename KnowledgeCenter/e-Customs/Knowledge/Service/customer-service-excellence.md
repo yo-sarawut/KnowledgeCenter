@@ -71,7 +71,7 @@
 เสียงที่จะบอกว่าองค์กรของเราเป็นองค์กรที่มีบริการที่เป็นเลิศ มิใช่เป็นเสียงที่พูดกันเองภายในองค์กร หากแต่ต้องเป็นเสียงจากลูกค้า ที่จะบอกว่าเราเป็นองค์กรบริการที่เป็นเลิศ
 
 
-> [Source : ](https://).
+> [Source : ](http://www.impressionconsult.com/web/index.php/articles/162-customerserviceexcellence.html).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc2MDgxMDhdfQ==
+eyJoaXN0b3J5IjpbMTcxMzUzNzMxMV19
 -->
