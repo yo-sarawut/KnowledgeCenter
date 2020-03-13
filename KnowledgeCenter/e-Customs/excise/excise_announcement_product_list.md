@@ -100,7 +100,8 @@
   
 ### 20. กิจการที่ได้รับอนุญาตหรือสัมปทานจากรัฐ
 
-> [Source : ](https://).
+> ที่มา :[กรมสรรพสามิต ](http://w9.excise.go.th/law60/articles/post.php?ref=395).
+> วันที่ปรับปรุงล่าสุด : 13 มีนาคม 2563
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MTU5MjAwXX0=
+eyJoaXN0b3J5IjpbMTA2NDExMTg1OV19
 -->
