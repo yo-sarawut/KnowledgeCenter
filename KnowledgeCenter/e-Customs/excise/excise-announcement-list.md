@@ -89,8 +89,8 @@
 
 **หมายเหตุ**:- คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 ([ ภาพรวมกระบวนงานตามประเภทสินค้า ](http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140220-168812472.pdf))
 
-> ที่มา :[กรมสรรพสามิต ](http://w9.excise.go.th/law60/articles/post.php?ref=395).
+> ที่มา :[กรมสรรพสามิต ](http://w9.excise.go.th/law60/articles/post.php?ref=714).
 > วันที่ปรับปรุงล่าสุด : 13 มีนาคม 2563
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODYyNDZdfQ==
+eyJoaXN0b3J5IjpbLTc4OTk0NTIzMSwxODg4NjI0Nl19
 -->
