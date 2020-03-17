@@ -99,7 +99,10 @@ AHKFTA และความตกลง AHKIA จะก่อให้เกิ
 #### ประกาศกระทรวงการคลัง
 
 -   [ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง](http://www.customs.go.th/cont_strc_download.php?lang=th&current_id=142328324147505f47464b46464b4d)
+
+[  
+หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505f47464b49464b49)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzI3MDIwOSwxMjk5OTY2NjkyLDIzOD
-k4Mjc2N119
+eyJoaXN0b3J5IjpbMTUzMjQzNzMyLDEyOTk5NjY2OTIsMjM4OT
+gyNzY3XX0=
 -->
