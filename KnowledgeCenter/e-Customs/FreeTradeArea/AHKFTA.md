@@ -1,5 +1,5 @@
 
-ความตกลงการค้าเสรีอาเซียน-ฮ่องกง (ASEAN – Hong Kong, China Free Trade Agreement: AHKFTA)
+ความตกลงการค้าเสรีอาเซียน-ฮ่องกง (ASEAN – Hong Kong, China Free Trade Agreement)
 ====
 
 ## ความเป็นมา
@@ -94,5 +94,5 @@ AHKFTA และความตกลง AHKIA จะก่อให้เกิ
 
 > [Source : ](https://).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4OTgyNzY3XX0=
+eyJoaXN0b3J5IjpbMTI5OTk2NjY5MiwyMzg5ODI3NjddfQ==
 -->
