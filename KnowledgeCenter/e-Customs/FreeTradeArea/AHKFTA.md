@@ -126,9 +126,9 @@ AHKFTA และความตกลง AHKIA จะก่อให้เกิ
 -  [บรูไนดารุสลาม](http://http//www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%202%20-%20Schedule%20of%20Brunei%20Darussalam%20-%20final.xls?ver=2562-05-31-111323-440)
 
 -  [ฟิลิปปินส์](http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%208%20-%20Schedule%20of%20Philippines%20-%20%20final%20(rev20Oct'17).xls?ver=2562-05-31-111326-330)
-=
-> ที่มา : [กรมการค้าต่างประเทศ](http://www.dft.go.th/th-th/DFT-Service/ServiceData-Information/dft-service-data-privilege/Detail-dft-service-data-privilege/ArticleId/13403/13403)
+
+> ที่มาข้อมูล : [กรมการค้าต่างประเทศ](http://www.dft.go.th/th-th/DFT-Service/ServiceData-Information/dft-service-data-privilege/Detail-dft-service-data-privilege/ArticleId/13403/13403)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjU3MzE1OSwtNzAyNDc3NzkzLDEyOT
+eyJoaXN0b3J5IjpbMTMxNjgwNTU2NSwtNzAyNDc3NzkzLDEyOT
 k5NjY2OTIsMjM4OTgyNzY3XX0=
 -->
