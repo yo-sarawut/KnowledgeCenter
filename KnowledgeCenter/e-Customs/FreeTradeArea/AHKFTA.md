@@ -104,7 +104,10 @@ AHKFTA และความตกลง AHKIA จะก่อให้เกิ
 - [ หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง](http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&current_id=142328324147505f47464b49464b49)
 
 ## ตารางการลดภาษี แต่ละประเทศ
-- [ฮ่องกง ผูกพันลดภาษีสินค้าทุกรายการภายใต้](http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%2012%20-%20Schedule%20of%20Hong%20Kong%20China.pdf?ver=2562-06-06-094702-237) [AHKFTA ที่ร้อยละ 0 (ANNEX 2-1 HK)](http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%2012%20-%20Schedule%20of%20Hong%20Kong%20China.pdf?ver=2562-06-06-094702-237)  
+- [ฮ่องกง ผูกพันลดภาษีสินค้าทุกรายการภายใต้](http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%2012%20-%20Schedule%20of%20Hong%20Kong%20China.pdf?ver=2562-06-06-094702-237) 
+<a href="http://www.dft.go.th/Portals/0/สิทธิประโยชน์ทางการค้า/อาเซียน-ฮ่องกง/AHKFTA Annex 2-1- Part 9 - Schedule of Singapore.pdf?ver=2562-06-06-094702-237" target="_blank">สิงคโปร์ ผูกพันลดภาษีสินค้าทุกรายการภายใต้ AHKFTA ที่ร้อยละ 0 (ANNEX 2-1 SG)</a>
+
+- [AHKFTA ที่ร้อยละ 0 (ANNEX 2-1 HK)](http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%2012%20-%20Schedule%20of%20Hong%20Kong%20China.pdf?ver=2562-06-06-094702-237)  
   
 
 -  [สิงคโปร์ ผูกพันลดภาษีสินค้าทุกรายการภายใต้ AHKFTA ที่ร้อยละ 0 (ANNEX 2-1 SG)](http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%209%20-%20Schedule%20of%20Singapore.pdf?ver=2562-06-06-094702-237)
@@ -129,6 +132,6 @@ AHKFTA และความตกลง AHKIA จะก่อให้เกิ
 
 > ที่มาข้อมูล : [กรมการค้าต่างประเทศ](http://www.dft.go.th/th-th/DFT-Service/ServiceData-Information/dft-service-data-privilege/Detail-dft-service-data-privilege/ArticleId/13403/13403)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjgwNTU2NSwtNzAyNDc3NzkzLDEyOT
-k5NjY2OTIsMjM4OTgyNzY3XX0=
+eyJoaXN0b3J5IjpbLTIwNzI0NTY3NTIsMTMxNjgwNTU2NSwtNz
+AyNDc3NzkzLDEyOTk5NjY2OTIsMjM4OTgyNzY3XX0=
 -->
